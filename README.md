@@ -1,3 +1,5 @@
+[Leia em português](README.pt.md)
+
 # 💻 My Codewars Journey in Python
 
 This repository serves as a personal log of my journey through Codewars, a platform for practicing and honing coding skills. Each file represents a solution to a specific coding challenge (kata) that I have completed.
