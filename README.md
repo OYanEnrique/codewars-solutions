@@ -18,6 +18,7 @@ Here is a list of the katas I've solved so far in this repository:
 | 2   | `codewarsday2.py`    | Counting Sheep in a List                             |
 | 3   | `codewarsday3.py`    | Finding the Opposite of a Number                     |
 | 4   | `codewarsday4.py`    | Finding the Maximum and Minimum Values in a List     |
+| 5   | `codewarsday5.py`    | Total Points in a Football Championship              |
 
 ## How to Use
 
