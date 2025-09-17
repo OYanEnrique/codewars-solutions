@@ -20,6 +20,7 @@ Here is a list of the katas I've solved so far in this repository:
 | 4   | `codewarsday4.py`    | Finding the Maximum and Minimum Values in a List     |
 | 5   | `codewarsday5.py`    | Total Points in a Football Championship              |
 | 6   | `codewarsday6.py`    | Double the Integer                                   |
+| 7   | `codewarsday7.py`    | String to Number Conversion                          |
 
 ## How to Use
 
