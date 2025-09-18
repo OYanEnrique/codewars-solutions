@@ -22,6 +22,7 @@ Aqui está uma lista dos katas que resolvi até agora neste repositório:
 | 6   | `codewarsday6.py`    | Dobrar o Inteiro                                       |
 | 7   | `codewarsday7.py`    | Conversão de String para Número                        |
 | 8   | `codewarsday8.py`    | Soma dos Quadrados                                     |
+| 9   | `codewarsday9.py`    | Conversão de Número para String                        |
 
 ## Como Usar
 
