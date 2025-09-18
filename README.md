@@ -22,6 +22,7 @@ Here is a list of the katas I've solved so far in this repository:
 | 6   | `codewarsday6.py`    | Double the Integer                                   |
 | 7   | `codewarsday7.py`    | String to Number Conversion                          |
 | 8   | `codewarsday8.py`    | Square(n) Sum                                        |
+| 9   | `codewarsday9.py`    | Number to String Conversion                          |
 
 ## How to Use
 
