@@ -21,15 +21,16 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 ```
  codewars-solutions/
   challenges/
-    day1/         Sum of Numbers in an Array
-    day2/         Counting Sheep in a List  
-    day3/         Finding the Opposite of a Number
-    day4/         Finding Maximum and Minimum Values
-    day5/         Total Points in Football Championship
-    day6/         Double the Integer
-    day7/         String to Number Conversion
-    day8/         Square(n) Sum
-    day9/         Number to String Conversion
+    day001/         Sum of Numbers in an Array
+    day002/         Counting Sheep in a List  
+    day003/         Finding the Opposite of a Number
+    day004/         Finding Maximum and Minimum Values
+    day005/         Total Points in Football Championship
+    day006/         Double the Integer
+    day007/         String to Number Conversion
+    day008/         Square(n) Sum
+    day009/         Number to String Conversion
+    day010/         Rock, Paper, Scizor
   Documentation   This amazing README!
 ```
 
@@ -67,6 +68,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 7** | String to Number | 8 kyu |  Solved |
 | **Day 8** | Square(n) Sum | 8 kyu |  Solved |
 | **Day 9** | Number to String | 8 kyu |  Solved |
+| **Day 10** | Rock Paper Scizor | 8 kyu |  Solved |
 
 ##  Tech Stack
 
