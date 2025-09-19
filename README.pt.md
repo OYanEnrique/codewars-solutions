@@ -18,7 +18,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 
 ##  Estrutura do Projeto
 
-`
+```
  codewars-solutions/
   day1/           Soma de Números em um Array
   day2/           Contando Ovelhas em uma Lista  
@@ -30,28 +30,28 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
   day8/           Soma dos Quadrados
   day9/           Conversão de Número para String
   Documentação    Este README incrível!
-`
+```
 
 ##  Guia de Início Rápido
 
 **Pronto para explorar as soluções?** Siga estes passos:
 
 1. **Clone este repositório:**
-   `powershell
+   ```powershell
    git clone https://github.com/OYanEnrique/codewars-solutions.git
-   `
+   ```
 
 2. **Navegue até o projeto:**
-   `powershell
+   ```powershell
    cd codewars-solutions
-   `
+   ```
 
 3. **Execute qualquer solução:**
-   `powershell
+   ```powershell
    # Navegue para um dia específico
    cd day1
    python day1.py
-   `
+   ```
 
 ##  Rastreador de Progresso
 

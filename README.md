@@ -18,7 +18,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 
 ##  Project Structure
 
-`
+```
  codewars-solutions/
   day1/           Sum of Numbers in an Array
   day2/           Counting Sheep in a List  
@@ -30,28 +30,28 @@ This repository is my **coding dojo** where I practice and perfect Python skills
   day8/           Square(n) Sum
   day9/           Number to String Conversion
   Documentation   This amazing README!
-`
+```
 
 ##  Quick Start
 
 **Ready to explore the solutions?** Follow these steps:
 
 1. **Clone this repository:**
-   `powershell
+   ```powershell
    git clone https://github.com/OYanEnrique/codewars-solutions.git
-   `
+   ```
 
 2. **Navigate to the project:**
-   `powershell
+   ```powershell
    cd codewars-solutions
-   `
+   ```
 
 3. **Run any solution:**
-   `powershell
+   ```powershell
    # Navigate to specific day
    cd day1
    python day1.py
-   `
+   ```
 
 ##  Progress Tracker
 
