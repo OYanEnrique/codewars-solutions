@@ -20,15 +20,16 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 
 ```
  codewars-solutions/
-  day1/           Soma de Números em um Array
-  day2/           Contando Ovelhas em uma Lista  
-  day3/           Encontrando o Oposto de um Número
-  day4/           Encontrando Valores Máximo e Mínimo
-  day5/           Pontos Totais em Campeonato de Futebol
-  day6/           Dobrar o Inteiro
-  day7/           Conversão de String para Número
-  day8/           Soma dos Quadrados
-  day9/           Conversão de Número para String
+  challenges/
+    day1/         Soma de Números em um Array
+    day2/         Contando Ovelhas em uma Lista  
+    day3/         Encontrando o Oposto de um Número
+    day4/         Encontrando Valores Máximo e Mínimo
+    day5/         Pontos Totais em Campeonato de Futebol
+    day6/         Dobrar o Inteiro
+    day7/         Conversão de String para Número
+    day8/         Soma dos Quadrados
+    day9/         Conversão de Número para String
   Documentação    Este README incrível!
 ```
 
@@ -49,7 +50,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 3. **Execute qualquer solução:**
    ```powershell
    # Navegue para um dia específico
-   cd day1
+   cd challenges/day1
    python day1.py
    ```
 

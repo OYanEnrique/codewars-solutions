@@ -20,15 +20,16 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 
 ```
  codewars-solutions/
-  day1/           Sum of Numbers in an Array
-  day2/           Counting Sheep in a List  
-  day3/           Finding the Opposite of a Number
-  day4/           Finding Maximum and Minimum Values
-  day5/           Total Points in Football Championship
-  day6/           Double the Integer
-  day7/           String to Number Conversion
-  day8/           Square(n) Sum
-  day9/           Number to String Conversion
+  challenges/
+    day1/         Sum of Numbers in an Array
+    day2/         Counting Sheep in a List  
+    day3/         Finding the Opposite of a Number
+    day4/         Finding Maximum and Minimum Values
+    day5/         Total Points in Football Championship
+    day6/         Double the Integer
+    day7/         String to Number Conversion
+    day8/         Square(n) Sum
+    day9/         Number to String Conversion
   Documentation   This amazing README!
 ```
 
@@ -49,7 +50,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 3. **Run any solution:**
    ```powershell
    # Navigate to specific day
-   cd day1
+   cd challenges/day1
    python day1.py
    ```
 
