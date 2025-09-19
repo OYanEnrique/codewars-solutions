@@ -30,7 +30,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day007/         String to Number Conversion
     day008/         Square(n) Sum
     day009/         Number to String Conversion
-    day010/         Rock, Paper, Scizor
+    day010/         Rock, Paper, Scissors
   Documentation   This amazing README!
 ```
 
@@ -68,7 +68,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 7** | String to Number | 8 kyu |  Solved |
 | **Day 8** | Square(n) Sum | 8 kyu |  Solved |
 | **Day 9** | Number to String | 8 kyu |  Solved |
-| **Day 10** | Rock Paper Scizor | 8 kyu |  Solved |
+| **Day 10** | Rock Paper Scissors | 8 kyu |  Solved |
 
 ##  Tech Stack
 
