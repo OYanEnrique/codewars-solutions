@@ -78,7 +78,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 12** | Validação do Banquete dos Animais | 8 kyu |  Resolvido |
 | **Dia 13** | Reverter Dígitos de um Número | 8 kyu |  Resolvido |
 | **Dia 14** | Encontrar Menor Inteiro | 8 kyu |  Resolvido |
-| **Dia 15** | Calculadora de Crescimento Populacional | 8 kyu |  Resolvido |
+| **Dia 15** | Calculadora de Crescimento Populacional | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

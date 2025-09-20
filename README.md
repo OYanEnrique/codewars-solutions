@@ -78,7 +78,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 12** | Beast Feast Validation | 8 kyu |  Solved |
 | **Day 13** | Reverse Digits of Number | 8 kyu |  Solved |
 | **Day 14** | Find Smallest Integer | 8 kyu |  Solved |
-| **Day 15** | Population Growth Calculator | 8 kyu |  Solved |
+| **Day 15** | Population Growth Calculator | 7 kyu |  Solved |
 
 ##  Tech Stack
 
