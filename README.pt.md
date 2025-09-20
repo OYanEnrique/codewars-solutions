@@ -31,6 +31,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day008/         Soma dos Quadrados
     day009/         Conversão de Número para String
     day010/         Pedra, Papel e Tesoura
+    day011/         Verificar se Array Contém Valor
+    day012/         Validação do Banquete dos Animais
+    day013/         Reverter Dígitos de um Número
   Documentação    Este README incrível!
 ```
 
@@ -69,6 +72,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 8** | Soma dos Quadrados | 8 kyu |  Resolvido |
 | **Dia 9** | Número para String | 8 kyu |  Resolvido |
 | **Dia 10** | Pedra Papel e Tesoura | 8 kyu |  Resolvido |
+| **Dia 11** | Verificar se Array Contém Valor | 8 kyu |  Resolvido |
+| **Dia 12** | Validação do Banquete dos Animais | 8 kyu |  Resolvido |
+| **Dia 13** | Reverter Dígitos de um Número | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
