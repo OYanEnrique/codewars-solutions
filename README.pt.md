@@ -34,6 +34,8 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day011/         Verificar se Array Contém Valor
     day012/         Validação do Banquete dos Animais
     day013/         Reverter Dígitos de um Número
+    day014/         Encontrar Menor Inteiro
+    day015/         Calculadora de Crescimento Populacional
   Documentação    Este README incrível!
 ```
 
@@ -75,6 +77,8 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 11** | Verificar se Array Contém Valor | 8 kyu |  Resolvido |
 | **Dia 12** | Validação do Banquete dos Animais | 8 kyu |  Resolvido |
 | **Dia 13** | Reverter Dígitos de um Número | 8 kyu |  Resolvido |
+| **Dia 14** | Encontrar Menor Inteiro | 8 kyu |  Resolvido |
+| **Dia 15** | Calculadora de Crescimento Populacional | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

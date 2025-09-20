@@ -34,6 +34,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day011/         Check if Array Contains Value
     day012/         Beast Feast Validation
     day013/         Reverse Digits of a Number
+    day014/         Find Smallest Integer
+    day015/         Population Growth Calculator
   Documentation   This amazing README!
 ```
 
@@ -75,6 +77,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 11** | Check if Array Contains Value | 8 kyu |  Solved |
 | **Day 12** | Beast Feast Validation | 8 kyu |  Solved |
 | **Day 13** | Reverse Digits of Number | 8 kyu |  Solved |
+| **Day 14** | Find Smallest Integer | 8 kyu |  Solved |
+| **Day 15** | Population Growth Calculator | 8 kyu |  Solved |
 
 ##  Tech Stack
 
