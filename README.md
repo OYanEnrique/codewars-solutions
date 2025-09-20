@@ -31,6 +31,9 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day008/         Square(n) Sum
     day009/         Number to String Conversion
     day010/         Rock, Paper, Scissors
+    day011/         Check if Array Contains Value
+    day012/         Beast Feast Validation
+    day013/         Reverse Digits of a Number
   Documentation   This amazing README!
 ```
 
