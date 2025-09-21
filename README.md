@@ -37,6 +37,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day014/         Find Smallest Integer
     day015/         Population Growth Calculator
     day016/         Cycling Water Calculator
+    day017/         Reversing Words in a String
   Documentation   This amazing README!
 ```
 
@@ -81,6 +82,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 14** | Find Smallest Integer | 8 kyu |  Solved |
 | **Day 15** | Population Growth Calculator | 7 kyu |  Solved |
 | **Day 16** | Cycling Water Calculator | 8 kyu |  Solved |
+| **Day 17** | Reverse Words in String | 7 kyu |  Solved |
 
 ##  Tech Stack
 
