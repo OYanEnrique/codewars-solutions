@@ -36,6 +36,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day013/         Reverter Dígitos de um Número
     day014/         Encontrar Menor Inteiro
     day015/         Calculadora de Crescimento Populacional
+    day016/         Calculadora de Água para Ciclismo
   Documentação    Este README incrível!
 ```
 
@@ -79,6 +80,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 13** | Reverter Dígitos de um Número | 8 kyu |  Resolvido |
 | **Dia 14** | Encontrar Menor Inteiro | 8 kyu |  Resolvido |
 | **Dia 15** | Calculadora de Crescimento Populacional | 7 kyu |  Resolvido |
+| **Dia 16** | Calculadora de Água para Ciclismo | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

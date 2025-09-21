@@ -36,6 +36,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day013/         Reverse Digits of a Number
     day014/         Find Smallest Integer
     day015/         Population Growth Calculator
+    day016/         Cycling Water Calculator
   Documentation   This amazing README!
 ```
 
@@ -79,6 +80,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 13** | Reverse Digits of Number | 8 kyu |  Solved |
 | **Day 14** | Find Smallest Integer | 8 kyu |  Solved |
 | **Day 15** | Population Growth Calculator | 7 kyu |  Solved |
+| **Day 16** | Cycling Water Calculator | 8 kyu |  Solved |
 
 ##  Tech Stack
 
