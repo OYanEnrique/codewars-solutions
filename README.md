@@ -38,6 +38,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day015/         Population Growth Calculator
     day016/         Cycling Water Calculator
     day017/         Reversing Words in a String
+    day018/         Removing First and Last Character
   Documentation   This amazing README!
 ```
 
@@ -83,6 +84,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 15** | Population Growth Calculator | 7 kyu |  Solved |
 | **Day 16** | Cycling Water Calculator | 8 kyu |  Solved |
 | **Day 17** | Reverse Words in String | 7 kyu |  Solved |
+| **Day 18** | Remove First and Last Character | 8 kyu |  Solved |
 
 ##  Tech Stack
 

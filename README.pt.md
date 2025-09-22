@@ -38,6 +38,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day015/         Calculadora de Crescimento Populacional
     day016/         Calculadora de Água para Ciclismo
     day017/         Reverter Palavras na String
+    day018/         Remover Primeiro e Último Caractere
   Documentação    Este README incrível!
 ```
 
@@ -83,6 +84,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 15** | Calculadora de Crescimento Populacional | 7 kyu |  Resolvido |
 | **Dia 16** | Calculadora de Água para Ciclismo | 8 kyu |  Resolvido |
 | **Dia 17** | Reverter Palavras na String | 7 kyu |  Resolvido |
+| **Dia 18** | Remover Primeiro e Último Caractere | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
