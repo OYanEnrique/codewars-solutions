@@ -40,6 +40,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day017/         Reverter Palavras na String
     day018/         Remover Primeiro e Último Caractere
     day019/         Converter Nome para Iniciais
+    day020/         Remover Espaços da String
   Documentação    Este README incrível!
 ```
 
@@ -87,6 +88,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 17** | Reverter Palavras na String | 7 kyu |  Resolvido |
 | **Dia 18** | Remover Primeiro e Último Caractere | 8 kyu |  Resolvido |
 | **Dia 19** | Converter Nome para Iniciais | 8 kyu |  Resolvido |
+| **Dia 20** | Remover Espaços da String | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
