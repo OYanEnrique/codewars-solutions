@@ -41,6 +41,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day018/         Removing First and Last Character
     day019/         Converting Name to Initials
     day020/         Removing Spaces from String
+    day021/         Filtering List of Numbers
   Documentation   This amazing README!
 ```
 
@@ -89,6 +90,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 18** | Remove First and Last Character | 8 kyu |  Solved |
 | **Day 19** | Convert Name to Initials | 8 kyu |  Solved |
 | **Day 20** | Remove Spaces from String | 8 kyu |  Solved |
+| **Day 21** | Filter List of Numbers | 7 kyu |  Solved |
 
 ##  Tech Stack
 

@@ -41,6 +41,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day018/         Remover Primeiro e Último Caractere
     day019/         Converter Nome para Iniciais
     day020/         Remover Espaços da String
+    day021/         Filtrar Lista de Números
   Documentação    Este README incrível!
 ```
 
@@ -89,6 +90,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 18** | Remover Primeiro e Último Caractere | 8 kyu |  Resolvido |
 | **Dia 19** | Converter Nome para Iniciais | 8 kyu |  Resolvido |
 | **Dia 20** | Remover Espaços da String | 8 kyu |  Resolvido |
+| **Dia 21** | Filtrar Lista de Números | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
