@@ -43,6 +43,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day020/         Remover Espaços da String
     day021/         Filtrar Lista de Números
     day022/         Reverter String
+    day023/         Capitalização Estilo Jaden
   Documentação    Este README incrível!
 ```
 
@@ -93,6 +94,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 20** | Remover Espaços da String | 8 kyu |  Resolvido |
 | **Dia 21** | Filtrar Lista de Números | 7 kyu |  Resolvido |
 | **Dia 22** | Reverter String | 8 kyu |  Resolvido |
+| **Dia 23** | Capitalização Estilo Jaden | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

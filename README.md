@@ -43,6 +43,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day020/         Removing Spaces from String
     day021/         Filtering List of Numbers
     day022/         Reversing a String
+    day023/         Capitalizing Strings Jaden Style
   Documentation   This amazing README!
 ```
 
@@ -93,6 +94,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 20** | Remove Spaces from String | 8 kyu |  Solved |
 | **Day 21** | Filter List of Numbers | 7 kyu |  Solved |
 | **Day 22** | Reverse String | 8 kyu |  Solved |
+| **Day 23** | Jaden Casing Strings | 7 kyu |  Solved |
 
 ##  Tech Stack
 
