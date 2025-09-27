@@ -44,6 +44,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day021/         Filtering List of Numbers
     day022/         Reversing a String
     day023/         Capitalizing Strings Jaden Style
+    day024/         Descending Order Digits
   Documentation   This amazing README!
 ```
 
@@ -95,6 +96,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 21** | Filter List of Numbers | 7 kyu |  Solved |
 | **Day 22** | Reverse String | 8 kyu |  Solved |
 | **Day 23** | Jaden Casing Strings | 7 kyu |  Solved |
+| **Day 24** | Descending Order Digits | 7 kyu |  Solved |
 
 ##  Tech Stack
 
