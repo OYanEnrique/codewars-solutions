@@ -42,6 +42,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day019/         Converter Nome para Iniciais
     day020/         Remover Espaços da String
     day021/         Filtrar Lista de Números
+    day022/         Reverter String
   Documentação    Este README incrível!
 ```
 
@@ -91,6 +92,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 19** | Converter Nome para Iniciais | 8 kyu |  Resolvido |
 | **Dia 20** | Remover Espaços da String | 8 kyu |  Resolvido |
 | **Dia 21** | Filtrar Lista de Números | 7 kyu |  Resolvido |
+| **Dia 22** | Reverter String | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
