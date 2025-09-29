@@ -45,6 +45,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day022/         Reverter String
     day023/         Capitalização Estilo Jaden
     day024/         Dígitos em Ordem Decrescente
+    day025/         Função de Saudação Personalizada
   Documentação    Este README incrível!
 ```
 
@@ -97,6 +98,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 22** | Reverter String | 8 kyu |  Resolvido |
 | **Dia 23** | Capitalização Estilo Jaden | 7 kyu |  Resolvido |
 | **Dia 24** | Dígitos em Ordem Decrescente | 7 kyu |  Resolvido |
+| **Dia 25** | Função de Saudação Personalizada | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

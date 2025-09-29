@@ -45,6 +45,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day022/         Reversing a String
     day023/         Capitalizing Strings Jaden Style
     day024/         Descending Order Digits
+    day025/         Personalized Greeting Function
   Documentation   This amazing README!
 ```
 
@@ -97,8 +98,9 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 22** | Reverse String | 8 kyu |  Solved |
 | **Day 23** | Jaden Casing Strings | 7 kyu |  Solved |
 | **Day 24** | Descending Order Digits | 7 kyu |  Solved |
+| **Day 25** | Personalized Greeting Function | 8 kyu |  Solved |
 
-##  Tech Stack
+##  Tech Stacks
 
 - **Python 3.8+** - The weapon of choice
 - **CodeWars Platform** - Training ground for warriors
