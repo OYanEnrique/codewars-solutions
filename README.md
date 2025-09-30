@@ -46,6 +46,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day023/         Capitalizing Strings Jaden Style
     day024/         Descending Order Digits
     day025/         Personalized Greeting Function
+    day026/         Paperwork Calculation
   Documentation   This amazing README!
 ```
 
@@ -99,6 +100,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 23** | Jaden Casing Strings | 7 kyu |  Solved |
 | **Day 24** | Descending Order Digits | 7 kyu |  Solved |
 | **Day 25** | Personalized Greeting Function | 8 kyu |  Solved |
+| **Day 26** | Paperwork Calculation | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
