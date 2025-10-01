@@ -47,6 +47,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day024/         Descending Order Digits
     day025/         Personalized Greeting Function
     day026/         Paperwork Calculation
+    day027/         Disemvowel Trolls
   Documentation   This amazing README!
 ```
 
@@ -101,6 +102,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 24** | Descending Order Digits | 7 kyu |  Solved |
 | **Day 25** | Personalized Greeting Function | 8 kyu |  Solved |
 | **Day 26** | Paperwork Calculation | 8 kyu |  Solved |
+| **Day 27** | Disemvowel Trolls | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

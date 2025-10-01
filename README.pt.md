@@ -47,6 +47,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day024/         Dígitos em Ordem Decrescente
     day025/         Função de Saudação Personalizada
     day026/         Cálculo de Trabalho Burocrático
+    day027/         Remover Vogais dos Trolls
   Documentação    Este README incrível!
 ```
 
@@ -101,6 +102,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 24** | Dígitos em Ordem Decrescente | 7 kyu |  Resolvido |
 | **Dia 25** | Função de Saudação Personalizada | 8 kyu |  Resolvido |
 | **Dia 26** | Cálculo de Trabalho Burocrático | 8 kyu |  Resolvido |
+| **Dia 27** | Remover Vogais dos Trolls | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
