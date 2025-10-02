@@ -48,6 +48,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day025/         Função de Saudação Personalizada
     day026/         Cálculo de Trabalho Burocrático
     day027/         Remover Vogais dos Trolls
+    day028/         Maior e Menor Número
   Documentação    Este README incrível!
 ```
 
@@ -103,6 +104,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 25** | Função de Saudação Personalizada | 8 kyu |  Resolvido |
 | **Dia 26** | Cálculo de Trabalho Burocrático | 8 kyu |  Resolvido |
 | **Dia 27** | Remover Vogais dos Trolls | 7 kyu |  Resolvido |
+| **Dia 28** | Maior e Menor Número | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
