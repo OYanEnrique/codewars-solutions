@@ -49,6 +49,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day026/         Paperwork Calculation
     day027/         Disemvowel Trolls
     day028/         Highest and Lowest
+    day029/         Basic Mathematical Operations
   Documentation   This amazing README!
 ```
 
@@ -105,6 +106,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 26** | Paperwork Calculation | 8 kyu |  Solved |
 | **Day 27** | Disemvowel Trolls | 7 kyu |  Solved |
 | **Day 28** | Highest and Lowest | 7 kyu |  Solved |
+| **Day 29** | Basic Mathematical Operations | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
