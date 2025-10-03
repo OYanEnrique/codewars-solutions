@@ -50,6 +50,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day027/         Remover Vogais dos Trolls
     day028/         Maior e Menor Número
     day029/         Operações Matemáticas Básicas
+    day030/         Conversão de DNA para RNA
   Documentação    Este README incrível!
 ```
 
@@ -107,6 +108,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 27** | Remover Vogais dos Trolls | 7 kyu |  Resolvido |
 | **Dia 28** | Maior e Menor Número | 7 kyu |  Resolvido |
 | **Dia 29** | Operações Matemáticas Básicas | 8 kyu |  Resolvido |
+| **Dia 30** | Conversão de DNA para RNA | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

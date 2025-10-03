@@ -50,6 +50,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day027/         Disemvowel Trolls
     day028/         Highest and Lowest
     day029/         Basic Mathematical Operations
+    day030/         DNA to RNA Conversion
   Documentation   This amazing README!
 ```
 
@@ -107,6 +108,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 27** | Disemvowel Trolls | 7 kyu |  Solved |
 | **Day 28** | Highest and Lowest | 7 kyu |  Solved |
 | **Day 29** | Basic Mathematical Operations | 8 kyu |  Solved |
+| **Day 30** | DNA to RNA Conversion | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
