@@ -51,6 +51,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day028/         Highest and Lowest
     day029/         Basic Mathematical Operations
     day030/         DNA to RNA Conversion
+    day031/         Better Than Average
   Documentation   This amazing README!
 ```
 
@@ -109,6 +110,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 28** | Highest and Lowest | 7 kyu |  Solved |
 | **Day 29** | Basic Mathematical Operations | 8 kyu |  Solved |
 | **Day 30** | DNA to RNA Conversion | 8 kyu |  Solved |
+| **Day 31** | Better Than Average | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

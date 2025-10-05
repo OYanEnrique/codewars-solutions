@@ -51,6 +51,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day028/         Maior e Menor Número
     day029/         Operações Matemáticas Básicas
     day030/         Conversão de DNA para RNA
+    day031/         Melhor Que a Média
   Documentação    Este README incrível!
 ```
 
@@ -109,6 +110,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 28** | Maior e Menor Número | 7 kyu |  Resolvido |
 | **Dia 29** | Operações Matemáticas Básicas | 8 kyu |  Resolvido |
 | **Dia 30** | Conversão de DNA para RNA | 8 kyu |  Resolvido |
+| **Dia 31** | Melhor Que a Média | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
