@@ -52,6 +52,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day029/         Basic Mathematical Operations
     day030/         DNA to RNA Conversion
     day031/         Better Than Average
+    day032/         Get the Middle Character
   Documentation   This amazing README!
 ```
 
@@ -111,6 +112,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 29** | Basic Mathematical Operations | 8 kyu |  Solved |
 | **Day 30** | DNA to RNA Conversion | 8 kyu |  Solved |
 | **Day 31** | Better Than Average | 8 kyu |  Solved |
+| **Day 32** | Get the Middle Character | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

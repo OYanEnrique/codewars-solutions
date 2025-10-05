@@ -52,6 +52,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day029/         Operações Matemáticas Básicas
     day030/         Conversão de DNA para RNA
     day031/         Melhor Que a Média
+    day032/         Obter o Caractere do Meio
   Documentação    Este README incrível!
 ```
 
@@ -111,6 +112,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 29** | Operações Matemáticas Básicas | 8 kyu |  Resolvido |
 | **Dia 30** | Conversão de DNA para RNA | 8 kyu |  Resolvido |
 | **Dia 31** | Melhor Que a Média | 8 kyu |  Resolvido |
+| **Dia 32** | Obter o Caractere do Meio | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
