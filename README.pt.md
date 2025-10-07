@@ -53,6 +53,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day030/         Conversão de DNA para RNA
     day031/         Melhor Que a Média
     day032/         Obter o Caractere do Meio
+    day033/         Converter Booleano para String
   Documentação    Este README incrível!
 ```
 
@@ -113,6 +114,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 30** | Conversão de DNA para RNA | 8 kyu |  Resolvido |
 | **Dia 31** | Melhor Que a Média | 8 kyu |  Resolvido |
 | **Dia 32** | Obter o Caractere do Meio | 7 kyu |  Resolvido |
+| **Dia 33** | Converter Booleano para String | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
