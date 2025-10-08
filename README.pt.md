@@ -54,6 +54,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day031/         Melhor Que a Média
     day032/         Obter o Caractere do Meio
     day033/         Converter Booleano para String
+    day034/         Soma dos Dois Menores Inteiros Positivos
   Documentação    Este README incrível!
 ```
 
@@ -115,6 +116,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 31** | Melhor Que a Média | 8 kyu |  Resolvido |
 | **Dia 32** | Obter o Caractere do Meio | 7 kyu |  Resolvido |
 | **Dia 33** | Converter Booleano para String | 8 kyu |  Resolvido |
+| **Dia 34** | Soma dos Dois Menores Inteiros Positivos | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
