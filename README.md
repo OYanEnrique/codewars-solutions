@@ -55,6 +55,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day032/         Get the Middle Character
     day033/         Convert a Boolean to a String
     day034/         Sum of Two Lowest Positive Integers
+    day035/         Friend or Foe
   Documentation   This amazing README!
 ```
 
@@ -117,6 +118,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 32** | Get the Middle Character | 7 kyu |  Solved |
 | **Day 33** | Convert a Boolean to a String | 8 kyu |  Solved |
 | **Day 34** | Sum of Two Lowest Positive Integers | 7 kyu |  Solved |
+| **Day 35** | Friend or Foe | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

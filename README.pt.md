@@ -55,6 +55,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day032/         Obter o Caractere do Meio
     day033/         Converter Booleano para String
     day034/         Soma dos Dois Menores Inteiros Positivos
+    day035/         Amigo ou Inimigo
   Documentação    Este README incrível!
 ```
 
@@ -117,6 +118,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 32** | Obter o Caractere do Meio | 7 kyu |  Resolvido |
 | **Dia 33** | Converter Booleano para String | 8 kyu |  Resolvido |
 | **Dia 34** | Soma dos Dois Menores Inteiros Positivos | 7 kyu |  Resolvido |
+| **Dia 35** | Amigo ou Inimigo | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
