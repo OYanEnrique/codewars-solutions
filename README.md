@@ -56,6 +56,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day033/         Convert a Boolean to a String
     day034/         Sum of Two Lowest Positive Integers
     day035/         Friend or Foe
+    day036/         Invert Values
   Documentation   This amazing README!
 ```
 
@@ -119,6 +120,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 33** | Convert a Boolean to a String | 8 kyu |  Solved |
 | **Day 34** | Sum of Two Lowest Positive Integers | 7 kyu |  Solved |
 | **Day 35** | Friend or Foe | 7 kyu |  Solved |
+| **Day 36** | Invert Values | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
