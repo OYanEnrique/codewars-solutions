@@ -57,6 +57,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day034/         Sum of Two Lowest Positive Integers
     day035/         Friend or Foe
     day036/         Invert Values
+    day037/         Detect Pangram
   Documentation   This amazing README!
 ```
 
@@ -121,6 +122,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 34** | Sum of Two Lowest Positive Integers | 7 kyu |  Solved |
 | **Day 35** | Friend or Foe | 7 kyu |  Solved |
 | **Day 36** | Invert Values | 8 kyu |  Solved |
+| **Day 37** | Detect Pangram | 6 kyu |  Solved |
 
 ##  Tech Stacks
 
