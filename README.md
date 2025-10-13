@@ -58,6 +58,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day035/         Friend or Foe
     day036/         Invert Values
     day037/         Detect Pangram
+    day038/         Count Positives Sum Negatives
   Documentation   This amazing README!
 ```
 
@@ -123,6 +124,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 35** | Friend or Foe | 7 kyu |  Solved |
 | **Day 36** | Invert Values | 8 kyu |  Solved |
 | **Day 37** | Detect Pangram | 6 kyu |  Solved |
+| **Day 38** | Count Positives Sum Negatives | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
