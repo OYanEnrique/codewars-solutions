@@ -60,6 +60,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day037/         Detectar Pangrama
     day038/         Contar Positivos Somar Negativos
     day039/         String Termina Com
+    day040/         Contar as Carinhas Sorridentes
   Documentação    Este README incrível!
 ```
 
@@ -127,6 +128,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 37** | Detectar Pangrama | 6 kyu |  Resolvido |
 | **Dia 38** | Contar Positivos Somar Negativos | 8 kyu |  Resolvido |
 | **Dia 39** | String Termina Com | 7 kyu |  Resolvido |
+| **Dia 40** | Contar as Carinhas Sorridentes | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
