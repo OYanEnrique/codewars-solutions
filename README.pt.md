@@ -59,6 +59,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day036/         Inverter Valores
     day037/         Detectar Pangrama
     day038/         Contar Positivos Somar Negativos
+    day039/         String Termina Com
   Documentação    Este README incrível!
 ```
 
@@ -125,6 +126,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 36** | Inverter Valores | 8 kyu |  Resolvido |
 | **Dia 37** | Detectar Pangrama | 6 kyu |  Resolvido |
 | **Dia 38** | Contar Positivos Somar Negativos | 8 kyu |  Resolvido |
+| **Dia 39** | String Termina Com | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
