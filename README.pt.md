@@ -61,6 +61,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day038/         Contar Positivos Somar Negativos
     day039/         String Termina Com
     day040/         Contar as Carinhas Sorridentes
+    day041/         Sobrevivência do Herói
   Documentação    Este README incrível!
 ```
 
@@ -129,6 +130,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 38** | Contar Positivos Somar Negativos | 8 kyu |  Resolvido |
 | **Dia 39** | String Termina Com | 7 kyu |  Resolvido |
 | **Dia 40** | Contar as Carinhas Sorridentes | 6 kyu |  Resolvido |
+| **Dia 41** | Sobrevivência do Herói | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

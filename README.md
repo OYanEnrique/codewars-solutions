@@ -61,6 +61,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day038/         Count Positives Sum Negatives
     day039/         String Ends With
     day040/         Count the Smiley Faces
+    day041/         Hero Survival
   Documentation   This amazing README!
 ```
 
@@ -129,6 +130,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 38** | Count Positives Sum Negatives | 8 kyu |  Solved |
 | **Day 39** | String Ends With | 7 kyu |  Solved |
 | **Day 40** | Count the Smiley Faces | 6 kyu |  Solved |
+| **Day 41** | Hero Survival | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
