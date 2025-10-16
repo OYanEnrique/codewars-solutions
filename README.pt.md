@@ -63,6 +63,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day040/         Contar as Carinhas Sorridentes
     day041/         Sobrevivência do Herói
     day042/         Isograma
+    day043/         Média de notas
   Documentação    Este README incrível!
 ```
 
@@ -133,6 +134,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 40** | Contar as Carinhas Sorridentes | 6 kyu |  Resolvido |
 | **Dia 41** | Sobrevivência do Herói | 8 kyu |  Resolvido |
 | **Dia 42** | Isograma | 7 kyu |  Resolvido |
+| **Dia 43** | Média de notas | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

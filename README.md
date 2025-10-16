@@ -63,6 +63,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day040/         Count the Smiley Faces
     day041/         Hero Survival
     day042/         Isogram
+    day043/         Average Grades
   Documentation   This amazing README!
 ```
 
@@ -133,6 +134,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 40** | Count the Smiley Faces | 6 kyu |  Solved |
 | **Day 41** | Hero Survival | 8 kyu |  Solved |
 | **Day 42** | Isogram | 7 kyu |  Solved |
+| **Day 43** | Average Grades | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
