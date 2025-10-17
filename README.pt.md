@@ -64,6 +64,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day041/         Sobrevivência do Herói
     day042/         Isograma
     day043/         Média de notas
+    day044/         Saudação Personalizada
   Documentação    Este README incrível!
 ```
 
@@ -135,6 +136,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 41** | Sobrevivência do Herói | 8 kyu |  Resolvido |
 | **Dia 42** | Isograma | 7 kyu |  Resolvido |
 | **Dia 43** | Média de notas | 8 kyu |  Resolvido |
+| **Dia 44** | Saudação Personalizada | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
