@@ -65,6 +65,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day042/         Isogram
     day043/         Average Grades
     day044/         Personalized Greeting
+    day045/         You're a Square
   Documentation   This amazing README!
 ```
 
@@ -137,6 +138,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 42** | Isogram | 7 kyu |  Solved |
 | **Day 43** | Average Grades | 8 kyu |  Solved |
 | **Day 44** | Personalized Greeting | 8 kyu |  Solved |
+| **Day 45** | You're a Square | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
