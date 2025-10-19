@@ -66,6 +66,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day043/         Average Grades
     day044/         Personalized Greeting
     day045/         You're a Square
+    day046/         Is this a triangle?
   Documentation   This amazing README!
 ```
 
@@ -139,6 +140,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 43** | Average Grades | 8 kyu |  Solved |
 | **Day 44** | Personalized Greeting | 8 kyu |  Solved |
 | **Day 45** | You're a Square | 7 kyu |  Solved |
+| **Day 46** | Is this a triangle? | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

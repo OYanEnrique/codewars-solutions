@@ -66,6 +66,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day043/         Média de notas
     day044/         Saudação Personalizada
     day045/         Quadrado Perfeito
+    day046/         Isto é um triângulo?
   Documentação    Este README incrível!
 ```
 
@@ -139,6 +140,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 43** | Média de notas | 8 kyu |  Resolvido |
 | **Dia 44** | Saudação Personalizada | 8 kyu |  Resolvido |
 | **Dia 45** | Quadrado Perfeito | 7 kyu |  Resolvido |
+| **Dia 46** | Isto é um triângulo? | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
