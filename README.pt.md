@@ -68,6 +68,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day045/         Quadrado Perfeito
     day046/         Isto é um triângulo?
     day047/         Par ou Ímpar
+    day048/         Contagem de Vogais
   Documentação    Este README incrível!
 ```
 
@@ -143,6 +144,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 45** | Quadrado Perfeito | 7 kyu |  Resolvido |
 | **Dia 46** | Isto é um triângulo? | 7 kyu |  Resolvido |
 | **Dia 47** | Par ou Ímpar | 8 kyu |  Resolvido |
+| **Dia 48** | Contagem de Vogais | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

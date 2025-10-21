@@ -68,6 +68,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day045/         You're a Square
     day046/         Is this a triangle?
     day047/         Even or Odd
+    day048/         Vowel Count
   Documentation   This amazing README!
 ```
 
@@ -143,6 +144,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 45** | You're a Square | 7 kyu |  Solved |
 | **Day 46** | Is this a triangle? | 7 kyu |  Solved |
 | **Day 47** | Even or Odd | 8 kyu |  Solved |
+| **Day 48** | Vowel Count | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
