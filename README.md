@@ -67,6 +67,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day044/         Personalized Greeting
     day045/         You're a Square
     day046/         Is this a triangle?
+    day047/         Even or Odd
   Documentation   This amazing README!
 ```
 
@@ -141,6 +142,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 44** | Personalized Greeting | 8 kyu |  Solved |
 | **Day 45** | You're a Square | 7 kyu |  Solved |
 | **Day 46** | Is this a triangle? | 7 kyu |  Solved |
+| **Day 47** | Even or Odd | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

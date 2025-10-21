@@ -67,6 +67,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day044/         Saudação Personalizada
     day045/         Quadrado Perfeito
     day046/         Isto é um triângulo?
+    day047/         Par ou Ímpar
   Documentação    Este README incrível!
 ```
 
@@ -141,6 +142,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 44** | Saudação Personalizada | 8 kyu |  Resolvido |
 | **Dia 45** | Quadrado Perfeito | 7 kyu |  Resolvido |
 | **Dia 46** | Isto é um triângulo? | 7 kyu |  Resolvido |
+| **Dia 47** | Par ou Ímpar | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
