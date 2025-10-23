@@ -69,6 +69,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day046/         Isto é um triângulo?
     day047/         Par ou Ímpar
     day048/         Contagem de Vogais
+    day049/         Soma de Positivos
   Documentação    Este README incrível!
 ```
 
@@ -145,6 +146,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 46** | Isto é um triângulo? | 7 kyu |  Resolvido |
 | **Dia 47** | Par ou Ímpar | 8 kyu |  Resolvido |
 | **Dia 48** | Contagem de Vogais | 7 kyu |  Resolvido |
+| **Dia 49** | Soma de Positivos | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
