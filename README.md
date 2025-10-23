@@ -70,6 +70,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day047/         Even or Odd
     day048/         Vowel Count
     day049/         Sum of Positive
+    day050/         Will you make it?
   Documentation   This amazing README!
 ```
 
@@ -147,6 +148,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 47** | Even or Odd | 8 kyu |  Solved |
 | **Day 48** | Vowel Count | 7 kyu |  Solved |
 | **Day 49** | Sum of Positive | 8 kyu |  Solved |
+| **Day 50** | Will you make it? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

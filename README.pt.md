@@ -70,6 +70,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day047/         Par ou Ímpar
     day048/         Contagem de Vogais
     day049/         Soma de Positivos
+    day050/         Você vai conseguir?
   Documentação    Este README incrível!
 ```
 
@@ -147,6 +148,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 47** | Par ou Ímpar | 8 kyu |  Resolvido |
 | **Dia 48** | Contagem de Vogais | 7 kyu |  Resolvido |
 | **Dia 49** | Soma de Positivos | 8 kyu |  Resolvido |
+| **Dia 50** | Você vai conseguir? | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
