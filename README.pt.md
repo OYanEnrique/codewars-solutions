@@ -72,6 +72,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day049/         Soma de Positivos
     day050/         Você vai conseguir?
     day051/         Semáforo
+    day052/         Sequência Reversa
   Documentação    Este README incrível!
 ```
 
@@ -151,6 +152,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 49** | Soma de Positivos | 8 kyu |  Resolvido |
 | **Dia 50** | Você vai conseguir? | 8 kyu |  Resolvido |
 | **Dia 51** | Semáforo | 8 kyu |  Resolvido |
+| **Dia 52** | Sequência Reversa | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
