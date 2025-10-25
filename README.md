@@ -71,6 +71,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day048/         Vowel Count
     day049/         Sum of Positive
     day050/         Will you make it?
+    day051/         Traffic Lights
   Documentation   This amazing README!
 ```
 
@@ -149,6 +150,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 48** | Vowel Count | 7 kyu |  Solved |
 | **Day 49** | Sum of Positive | 8 kyu |  Solved |
 | **Day 50** | Will you make it? | 8 kyu |  Solved |
+| **Day 51** | Traffic Lights | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
