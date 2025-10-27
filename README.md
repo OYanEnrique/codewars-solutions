@@ -74,6 +74,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day051/         Traffic Lights
     day052/         Reversed Sequence
     day053/         Cockroach Speed
+    day054/         Third Angle of a Triangle
   Documentation   This amazing README!
 ```
 
@@ -155,6 +156,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 51** | Traffic Lights | 8 kyu |  Solved |
 | **Day 52** | Reversed Sequence | 8 kyu |  Solved |
 | **Day 53** | Cockroach Speed | 8 kyu |  Solved |
+| **Day 54** | Third Angle of a Triangle | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
