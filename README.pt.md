@@ -73,6 +73,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day050/         Você vai conseguir?
     day051/         Semáforo
     day052/         Sequência Reversa
+    day053/         Velocidade da Barata
   Documentação    Este README incrível!
 ```
 
@@ -153,6 +154,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 50** | Você vai conseguir? | 8 kyu |  Resolvido |
 | **Dia 51** | Semáforo | 8 kyu |  Resolvido |
 | **Dia 52** | Sequência Reversa | 8 kyu |  Resolvido |
+| **Dia 53** | Velocidade da Barata | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

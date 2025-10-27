@@ -73,6 +73,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day050/         Will you make it?
     day051/         Traffic Lights
     day052/         Reversed Sequence
+    day053/         Cockroach Speed
   Documentation   This amazing README!
 ```
 
@@ -153,6 +154,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 50** | Will you make it? | 8 kyu |  Solved |
 | **Day 51** | Traffic Lights | 8 kyu |  Solved |
 | **Day 52** | Reversed Sequence | 8 kyu |  Solved |
+| **Day 53** | Cockroach Speed | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
