@@ -75,6 +75,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day052/         Reversed Sequence
     day053/         Cockroach Speed
     day054/         Third Angle of a Triangle
+    day055/         If you can't sleep, just count sheep
   Documentation   This amazing README!
 ```
 
@@ -157,6 +158,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 52** | Reversed Sequence | 8 kyu |  Solved |
 | **Day 53** | Cockroach Speed | 8 kyu |  Solved |
 | **Day 54** | Third Angle of a Triangle | 8 kyu |  Solved |
+| **Day 55** | If you can't sleep, just count sheep | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
