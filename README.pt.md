@@ -76,6 +76,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day053/         Velocidade da Barata
     day054/         Terceiro Ângulo de um Triângulo
     day055/         Se você não consegue dormir, conte ovelhas
+    day056/         Reduzir mas Crescer
   Documentação    Este README incrível!
 ```
 
@@ -159,6 +160,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 53** | Velocidade da Barata | 8 kyu |  Resolvido |
 | **Dia 54** | Terceiro Ângulo de um Triângulo | 8 kyu |  Resolvido |
 | **Dia 55** | Se você não consegue dormir, conte ovelhas | 8 kyu |  Resolvido |
+| **Dia 56** | Iniciante - Reduzir mas Crescer | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
