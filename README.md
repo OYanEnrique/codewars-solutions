@@ -76,7 +76,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day053/         Cockroach Speed
     day054/         Third Angle of a Triangle
     day055/         If you can't sleep, just count sheep
-    day056/         Reduce but Grow
+    day056/         Beginner - Reduce but Grow
+    day057/         Odd or Even?
   Documentation   This amazing README!
 ```
 
@@ -161,6 +162,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 54** | Third Angle of a Triangle | 8 kyu |  Solved |
 | **Day 55** | If you can't sleep, just count sheep | 8 kyu |  Solved |
 | **Day 56** | Beginner - Reduce but Grow | 8 kyu |  Solved |
+| **Day 57** | Odd or Even? | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

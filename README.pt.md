@@ -76,7 +76,8 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day053/         Velocidade da Barata
     day054/         Terceiro Ângulo de um Triângulo
     day055/         Se você não consegue dormir, conte ovelhas
-    day056/         Reduzir mas Crescer
+    day056/         Iniciante - Reduzir mas Crescer
+    day057/         Ímpar ou Par?
   Documentação    Este README incrível!
 ```
 
@@ -161,6 +162,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 54** | Terceiro Ângulo de um Triângulo | 8 kyu |  Resolvido |
 | **Dia 55** | Se você não consegue dormir, conte ovelhas | 8 kyu |  Resolvido |
 | **Dia 56** | Iniciante - Reduzir mas Crescer | 8 kyu |  Resolvido |
+| **Dia 57** | Ímpar ou Par? | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
