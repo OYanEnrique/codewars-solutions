@@ -79,6 +79,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day056/         Beginner - Reduce but Grow
     day057/         Odd or Even?
     day058/         Convert a Boolean to a String
+    day059/         Returning Negative
   Documentation   This amazing README!
 ```
 
@@ -165,6 +166,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 56** | Beginner - Reduce but Grow | 8 kyu |  Solved |
 | **Day 57** | Odd or Even? | 7 kyu |  Solved |
 | **Day 58** | Convert a Boolean to a String | 8 kyu |  Solved |
+| **Day 59** | Returning Negative | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

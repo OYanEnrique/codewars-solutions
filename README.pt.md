@@ -79,6 +79,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day056/         Iniciante - Reduzir mas Crescer
     day057/         Ímpar ou Par?
     day058/         Converter um Booleano para String
+    day059/         Retornando Negativo
   Documentação    Este README incrível!
 ```
 
@@ -165,6 +166,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 56** | Iniciante - Reduzir mas Crescer | 8 kyu |  Resolvido |
 | **Dia 57** | Ímpar ou Par? | 7 kyu |  Resolvido |
 | **Dia 58** | Converter um Booleano para String | 8 kyu |  Resolvido |
+| **Dia 59** | Retornando Negativo | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
