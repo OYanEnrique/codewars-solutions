@@ -78,6 +78,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day055/         If you can't sleep, just count sheep
     day056/         Beginner - Reduce but Grow
     day057/         Odd or Even?
+    day058/         Convert a Boolean to a String
   Documentation   This amazing README!
 ```
 
@@ -163,6 +164,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 55** | If you can't sleep, just count sheep | 8 kyu |  Solved |
 | **Day 56** | Beginner - Reduce but Grow | 8 kyu |  Solved |
 | **Day 57** | Odd or Even? | 7 kyu |  Solved |
+| **Day 58** | Convert a Boolean to a String | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
