@@ -80,6 +80,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day057/         Ímpar ou Par?
     day058/         Converter um Booleano para String
     day059/         Retornando Negativo
+    day060/         Encontrar Valores Máximo e Mínimo de uma Lista
   Documentação    Este README incrível!
 ```
 
@@ -167,6 +168,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 57** | Ímpar ou Par? | 7 kyu |  Resolvido |
 | **Dia 58** | Converter um Booleano para String | 8 kyu |  Resolvido |
 | **Dia 59** | Retornando Negativo | 8 kyu |  Resolvido |
+| **Dia 60** | Encontrar Valores Máximo e Mínimo de uma Lista | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

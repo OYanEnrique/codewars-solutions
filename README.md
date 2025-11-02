@@ -80,6 +80,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day057/         Odd or Even?
     day058/         Convert a Boolean to a String
     day059/         Returning Negative
+    day060/         Find Maximum and Minimum Values of a List
   Documentation   This amazing README!
 ```
 
@@ -167,6 +168,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 57** | Odd or Even? | 7 kyu |  Solved |
 | **Day 58** | Convert a Boolean to a String | 8 kyu |  Solved |
 | **Day 59** | Returning Negative | 8 kyu |  Solved |
+| **Day 60** | Find Maximum and Minimum Values of a List | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
