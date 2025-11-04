@@ -82,6 +82,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day059/         Returning Negative
     day060/         Find Maximum and Minimum Values of a List
     day061/         Volume of a Cuboid
+    day062/         Twice as old
   Documentation   This amazing README!
 ```
 
@@ -171,6 +172,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 59** | Returning Negative | 8 kyu |  Solved |
 | **Day 60** | Find Maximum and Minimum Values of a List | 8 kyu |  Solved |
 | **Day 61** | Volume of a Cuboid | 8 kyu |  Solved |
+| **Day 62** | Twice as old | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
