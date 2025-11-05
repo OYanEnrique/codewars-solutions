@@ -83,6 +83,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day060/         Encontrar Valores Máximo e Mínimo de uma Lista
     day061/         Volume de um Cuboide
     day062/         Duas vezes mais velho
+    day063/         Remover pontos de exclamação
   Documentação    Este README incrível!
 ```
 
@@ -173,6 +174,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 60** | Encontrar Valores Máximo e Mínimo de uma Lista | 8 kyu |  Resolvido |
 | **Dia 61** | Volume de um Cuboide | 8 kyu |  Resolvido |
 | **Dia 62** | Duas vezes mais velho | 8 kyu |  Resolvido |
+| **Dia 63** | Remover pontos de exclamação | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

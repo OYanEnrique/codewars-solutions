@@ -83,6 +83,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day060/         Find Maximum and Minimum Values of a List
     day061/         Volume of a Cuboid
     day062/         Twice as old
+    day063/         Remove exclamation marks
   Documentation   This amazing README!
 ```
 
@@ -173,6 +174,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 60** | Find Maximum and Minimum Values of a List | 8 kyu |  Solved |
 | **Day 61** | Volume of a Cuboid | 8 kyu |  Solved |
 | **Day 62** | Twice as old | 8 kyu |  Solved |
+| **Day 63** | Remove exclamation marks | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
