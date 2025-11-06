@@ -84,6 +84,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day061/         Volume of a Cuboid
     day062/         Twice as old
     day063/         Remove exclamation marks
+    day064/         Complementary DNA
   Documentation   This amazing README!
 ```
 
@@ -175,6 +176,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 61** | Volume of a Cuboid | 8 kyu |  Solved |
 | **Day 62** | Twice as old | 8 kyu |  Solved |
 | **Day 63** | Remove exclamation marks | 8 kyu |  Solved |
+| **Day 64** | Complementary DNA | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
