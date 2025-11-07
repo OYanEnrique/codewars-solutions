@@ -85,6 +85,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day062/         Duas vezes mais velho
     day063/         Remover pontos de exclamação
     day064/         DNA Complementar
+    day065/         Binário Falso
   Documentação    Este README incrível!
 ```
 
@@ -177,6 +178,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 62** | Duas vezes mais velho | 8 kyu |  Resolvido |
 | **Dia 63** | Remover pontos de exclamação | 8 kyu |  Resolvido |
 | **Dia 64** | DNA Complementar | 7 kyu |  Resolvido |
+| **Dia 65** | Binário Falso | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
