@@ -88,6 +88,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day065/         Binário Falso
     day066/         Mude para Cima!
     day067/         Soma de Array Misto
+    day068/         Calcular média
   Documentação    Este README incrível!
 ```
 
@@ -183,6 +184,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 65** | Binário Falso | 8 kyu |  Resolvido |
 | **Dia 66** | Mude para Cima! | 8 kyu |  Resolvido |
 | **Dia 67** | Soma de Array Misto | 8 kyu |  Resolvido |
+| **Dia 68** | Calcular média | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

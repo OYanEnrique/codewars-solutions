@@ -88,6 +88,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day065/         Fake Binary
     day066/         Switch it Up!
     day067/         Sum Mixed Array
+    day068/         Calculate average
   Documentation   This amazing README!
 ```
 
@@ -183,6 +184,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 65** | Fake Binary | 8 kyu |  Solved |
 | **Day 66** | Switch it Up! | 8 kyu |  Solved |
 | **Day 67** | Sum Mixed Array | 8 kyu |  Solved |
+| **Day 68** | Calculate average | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
