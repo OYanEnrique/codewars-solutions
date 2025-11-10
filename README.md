@@ -87,6 +87,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day064/         Complementary DNA
     day065/         Fake Binary
     day066/         Switch it Up!
+    day067/         Sum Mixed Array
   Documentation   This amazing README!
 ```
 
@@ -181,6 +182,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 64** | Complementary DNA | 7 kyu |  Solved |
 | **Day 65** | Fake Binary | 8 kyu |  Solved |
 | **Day 66** | Switch it Up! | 8 kyu |  Solved |
+| **Day 67** | Sum Mixed Array | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
