@@ -89,6 +89,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day066/         Switch it Up!
     day067/         Sum Mixed Array
     day068/         Calculate average
+    day069/         Terminal game move function
   Documentation   This amazing README!
 ```
 
@@ -185,6 +186,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 66** | Switch it Up! | 8 kyu |  Solved |
 | **Day 67** | Sum Mixed Array | 8 kyu |  Solved |
 | **Day 68** | Calculate average | 8 kyu |  Solved |
+| **Day 69** | Terminal game move function | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

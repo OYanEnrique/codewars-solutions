@@ -89,6 +89,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day066/         Mude para Cima!
     day067/         Soma de Array Misto
     day068/         Calcular média
+    day069/         Função de movimento do jogo de terminal
   Documentação    Este README incrível!
 ```
 
@@ -185,6 +186,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 66** | Mude para Cima! | 8 kyu |  Resolvido |
 | **Dia 67** | Soma de Array Misto | 8 kyu |  Resolvido |
 | **Dia 68** | Calcular média | 8 kyu |  Resolvido |
+| **Dia 69** | Função de movimento do jogo de terminal | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
