@@ -90,6 +90,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day067/         Soma de Array Misto
     day068/         Calcular média
     day069/         Função de movimento do jogo de terminal
+    day070/         Converter uma string em array
   Documentação    Este README incrível!
 ```
 
@@ -187,6 +188,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 67** | Soma de Array Misto | 8 kyu |  Resolvido |
 | **Dia 68** | Calcular média | 8 kyu |  Resolvido |
 | **Dia 69** | Função de movimento do jogo de terminal | 8 kyu |  Resolvido |
+| **Dia 70** | Converter uma string em array | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
