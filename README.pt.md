@@ -91,6 +91,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day068/         Calcular média
     day069/         Função de movimento do jogo de terminal
     day070/         Converter uma string em array
+    day071/         Converter para maiúsculas
   Documentação    Este README incrível!
 ```
 
@@ -189,6 +190,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 68** | Calcular média | 8 kyu |  Resolvido |
 | **Dia 69** | Função de movimento do jogo de terminal | 8 kyu |  Resolvido |
 | **Dia 70** | Converter uma string em array | 8 kyu |  Resolvido |
+| **Dia 71** | Converter para maiúsculas | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
