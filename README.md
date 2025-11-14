@@ -92,6 +92,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day069/         Terminal game move function
     day070/         Convert a string to an array
     day071/         Convert to upper case
+    day072/         Simple multiplication
   Documentation   This amazing README!
 ```
 
@@ -191,6 +192,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 69** | Terminal game move function | 8 kyu |  Solved |
 | **Day 70** | Convert a string to an array | 8 kyu |  Solved |
 | **Day 71** | Convert to upper case | 8 kyu |  Solved |
+| **Day 72** | Simple multiplication | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
