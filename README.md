@@ -93,6 +93,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day070/         Convert a string to an array
     day071/         Convert to upper case
     day072/         Simple multiplication
+    day073/         Opposites Attract
   Documentation   This amazing README!
 ```
 
@@ -193,6 +194,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 70** | Convert a string to an array | 8 kyu |  Solved |
 | **Day 71** | Convert to upper case | 8 kyu |  Solved |
 | **Day 72** | Simple multiplication | 8 kyu |  Solved |
+| **Day 73** | Opposites Attract | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
