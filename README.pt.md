@@ -94,6 +94,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day071/         Converter para maiúsculas
     day072/         Multiplicação simples
     day073/         Opostos se Atraem
+    day074/         Encontrar o número único
   Documentação    Este README incrível!
 ```
 
@@ -195,6 +196,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 71** | Converter para maiúsculas | 8 kyu |  Resolvido |
 | **Dia 72** | Multiplicação simples | 8 kyu |  Resolvido |
 | **Dia 73** | Opostos se Atraem | 8 kyu |  Resolvido |
+| **Dia 74** | Encontrar o número único | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

@@ -94,6 +94,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day071/         Convert to upper case
     day072/         Simple multiplication
     day073/         Opposites Attract
+    day074/         Find the unique number
   Documentation   This amazing README!
 ```
 
@@ -195,6 +196,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 71** | Convert to upper case | 8 kyu |  Solved |
 | **Day 72** | Simple multiplication | 8 kyu |  Solved |
 | **Day 73** | Opposites Attract | 8 kyu |  Solved |
+| **Day 74** | Find the unique number | 6 kyu |  Solved |
 
 ##  Tech Stacks
 
