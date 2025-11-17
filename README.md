@@ -95,6 +95,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day072/         Simple multiplication
     day073/         Opposites Attract
     day074/         Find the unique number
+    day075/         L1: Set Alarm
   Documentation   This amazing README!
 ```
 
@@ -197,6 +198,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 72** | Simple multiplication | 8 kyu |  Solved |
 | **Day 73** | Opposites Attract | 8 kyu |  Solved |
 | **Day 74** | Find the unique number | 6 kyu |  Solved |
+| **Day 75** | L1: Set Alarm | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

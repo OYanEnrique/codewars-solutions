@@ -95,6 +95,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day072/         Multiplicação simples
     day073/         Opostos se Atraem
     day074/         Encontrar o número único
+    day075/         L1: Definir Alarme
   Documentação    Este README incrível!
 ```
 
@@ -197,6 +198,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 72** | Multiplicação simples | 8 kyu |  Resolvido |
 | **Dia 73** | Opostos se Atraem | 8 kyu |  Resolvido |
 | **Dia 74** | Encontrar o número único | 6 kyu |  Resolvido |
+| **Dia 75** | L1: Definir Alarme | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
