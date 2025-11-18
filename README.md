@@ -96,6 +96,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day073/         Opposites Attract
     day074/         Find the unique number
     day075/         L1: Set Alarm
+    day076/         Is the string uppercase?
   Documentation   This amazing README!
 ```
 
@@ -199,6 +200,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 73** | Opposites Attract | 8 kyu |  Solved |
 | **Day 74** | Find the unique number | 6 kyu |  Solved |
 | **Day 75** | L1: Set Alarm | 8 kyu |  Solved |
+| **Day 76** | Is the string uppercase? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
