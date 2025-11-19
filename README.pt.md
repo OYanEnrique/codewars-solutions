@@ -97,6 +97,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day074/         Encontrar o número único
     day075/         L1: Definir Alarme
     day076/         A string está em maiúsculas?
+    day077/         Encontre múltiplos de um número
   Documentação    Este README incrível!
 ```
 
@@ -201,6 +202,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 74** | Encontrar o número único | 6 kyu |  Resolvido |
 | **Dia 75** | L1: Definir Alarme | 8 kyu |  Resolvido |
 | **Dia 76** | A string está em maiúsculas? | 8 kyu |  Resolvido |
+| **Dia 77** | Encontre múltiplos de um número | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

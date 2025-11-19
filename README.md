@@ -97,6 +97,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day074/         Find the unique number
     day075/         L1: Set Alarm
     day076/         Is the string uppercase?
+    day077/         Find Multiples of a Number
   Documentation   This amazing README!
 ```
 
@@ -201,6 +202,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 74** | Find the unique number | 6 kyu |  Solved |
 | **Day 75** | L1: Set Alarm | 8 kyu |  Solved |
 | **Day 76** | Is the string uppercase? | 8 kyu |  Solved |
+| **Day 77** | Find Multiples of a Number | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
