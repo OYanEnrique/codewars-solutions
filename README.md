@@ -98,6 +98,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day075/         L1: Set Alarm
     day076/         Is the string uppercase?
     day077/         Find Multiples of a Number
+    day078/         Remove URL Anchor
   Documentation   This amazing README!
 ```
 
@@ -203,6 +204,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 75** | L1: Set Alarm | 8 kyu |  Solved |
 | **Day 76** | Is the string uppercase? | 8 kyu |  Solved |
 | **Day 77** | Find Multiples of a Number | 8 kyu |  Solved |
+| **Day 78** | Remove URL Anchor | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
