@@ -99,6 +99,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day076/         Is the string uppercase?
     day077/         Find Multiples of a Number
     day078/         Remove URL Anchor
+    day079/         Century From Year
   Documentation   This amazing README!
 ```
 
@@ -205,6 +206,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 76** | Is the string uppercase? | 8 kyu |  Solved |
 | **Day 77** | Find Multiples of a Number | 8 kyu |  Solved |
 | **Day 78** | Remove URL Anchor | 8 kyu |  Solved |
+| **Day 79** | Century From Year | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

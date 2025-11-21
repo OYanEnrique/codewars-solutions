@@ -99,6 +99,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day076/         A string está em maiúsculas?
     day077/         Encontre múltiplos de um número
     day078/         Remover âncora de URL
+    day079/         Século a partir do ano
   Documentação    Este README incrível!
 ```
 
@@ -205,6 +206,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 76** | A string está em maiúsculas? | 8 kyu |  Resolvido |
 | **Dia 77** | Encontre múltiplos de um número | 8 kyu |  Resolvido |
 | **Dia 78** | Remover âncora de URL | 8 kyu |  Resolvido |
+| **Dia 79** | Século a partir do ano | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
