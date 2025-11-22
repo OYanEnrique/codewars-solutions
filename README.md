@@ -100,6 +100,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day077/         Find Multiples of a Number
     day078/         Remove URL Anchor
     day079/         Century From Year
+    day080/         Reversed List
   Documentation   This amazing README!
 ```
 
@@ -207,6 +208,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 77** | Find Multiples of a Number | 8 kyu |  Solved |
 | **Day 78** | Remove URL Anchor | 8 kyu |  Solved |
 | **Day 79** | Century From Year | 8 kyu |  Solved |
+| **Day 80** | Reversed List | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
