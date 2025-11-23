@@ -101,6 +101,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day078/         Remover âncora de URL
     day079/         Século a partir do ano
     day080/         Lista invertida
+    day081/         Operador lógico Ou Exclusivo (xor)
   Documentação    Este README incrível!
 ```
 
@@ -209,6 +210,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 78** | Remover âncora de URL | 8 kyu |  Resolvido |
 | **Dia 79** | Século a partir do ano | 8 kyu |  Resolvido |
 | **Dia 80** | Lista invertida | 8 kyu |  Resolvido |
+| **Dia 81** | Operador lógico Ou Exclusivo (xor) | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

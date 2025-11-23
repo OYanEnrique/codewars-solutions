@@ -101,6 +101,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day078/         Remove URL Anchor
     day079/         Century From Year
     day080/         Reversed List
+    day081/         Exclusive Or (xor) Logical Operator
   Documentation   This amazing README!
 ```
 
@@ -209,6 +210,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 78** | Remove URL Anchor | 8 kyu |  Solved |
 | **Day 79** | Century From Year | 8 kyu |  Solved |
 | **Day 80** | Reversed List | 8 kyu |  Solved |
+| **Day 81** | Exclusive Or (xor) Logical Operator | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
