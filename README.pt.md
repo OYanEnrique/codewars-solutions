@@ -102,6 +102,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day079/         Século a partir do ano
     day080/         Lista invertida
     day081/         Operador lógico Ou Exclusivo (xor)
+    day082/         Encontrar posição no alfabeto
   Documentação    Este README incrível!
 ```
 
@@ -211,6 +212,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 79** | Século a partir do ano | 8 kyu |  Resolvido |
 | **Dia 80** | Lista invertida | 8 kyu |  Resolvido |
 | **Dia 81** | Operador lógico Ou Exclusivo (xor) | 8 kyu |  Resolvido |
+| **Dia 82** | Encontrar posição no alfabeto | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
