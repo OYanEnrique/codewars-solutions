@@ -103,6 +103,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day080/         Reversed List
     day081/         Exclusive Or (xor) Logical Operator
     day082/         Find Position in Alphabet
+    day083/         Square Every Digit
   Documentation   This amazing README!
 ```
 
@@ -213,6 +214,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 80** | Reversed List | 8 kyu |  Solved |
 | **Day 81** | Exclusive Or (xor) Logical Operator | 8 kyu |  Solved |
 | **Day 82** | Find Position in Alphabet | 8 kyu |  Solved |
+| **Day 83** | Square Every Digit | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
