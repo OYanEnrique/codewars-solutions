@@ -104,6 +104,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day081/         Operador lógico Ou Exclusivo (xor)
     day082/         Encontrar posição no alfabeto
     day083/         Elevar ao quadrado cada dígito
+    day084/         Cinco incomum
   Documentação    Este README incrível!
 ```
 
@@ -215,6 +216,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 81** | Operador lógico Ou Exclusivo (xor) | 8 kyu |  Resolvido |
 | **Dia 82** | Encontrar posição no alfabeto | 8 kyu |  Resolvido |
 | **Dia 83** | Elevar ao quadrado cada dígito | 7 kyu |  Resolvido |
+| **Dia 84** | Cinco incomum | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

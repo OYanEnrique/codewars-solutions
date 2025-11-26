@@ -104,6 +104,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day081/         Exclusive Or (xor) Logical Operator
     day082/         Find Position in Alphabet
     day083/         Square Every Digit
+    day084/         Unusual Five
   Documentation   This amazing README!
 ```
 
@@ -215,6 +216,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 81** | Exclusive Or (xor) Logical Operator | 8 kyu |  Solved |
 | **Day 82** | Find Position in Alphabet | 8 kyu |  Solved |
 | **Day 83** | Square Every Digit | 7 kyu |  Solved |
+| **Day 84** | Unusual Five | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
