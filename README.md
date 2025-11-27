@@ -105,6 +105,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day082/         Find Position in Alphabet
     day083/         Square Every Digit
     day084/         Unusual Five
+    day085/         Expressions Matter
   Documentation   This amazing README!
 ```
 
@@ -217,6 +218,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 82** | Find Position in Alphabet | 8 kyu |  Solved |
 | **Day 83** | Square Every Digit | 7 kyu |  Solved |
 | **Day 84** | Unusual Five | 8 kyu |  Solved |
+| **Day 85** | Expressions Matter | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
