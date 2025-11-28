@@ -106,6 +106,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day083/         Elevar ao quadrado cada dígito
     day084/         Cinco incomum
     day085/         Expressões importam
+    day086/         Substituir com posição no alfabeto
   Documentação    Este README incrível!
 ```
 
@@ -219,6 +220,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 83** | Elevar ao quadrado cada dígito | 7 kyu |  Resolvido |
 | **Dia 84** | Cinco incomum | 8 kyu |  Resolvido |
 | **Dia 85** | Expressões importam | 8 kyu |  Resolvido |
+| **Dia 86** | Substituir com posição no alfabeto | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
