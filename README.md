@@ -107,6 +107,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day084/         Unusual Five
     day085/         Expressions Matter
     day086/         Replace With Alphabet Position
+    day087/         Fighting the Goblin Horde
   Documentation   This amazing README!
 ```
 
@@ -221,6 +222,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 84** | Unusual Five | 8 kyu |  Solved |
 | **Day 85** | Expressions Matter | 8 kyu |  Solved |
 | **Day 86** | Replace With Alphabet Position | 6 kyu |  Solved |
+| **Day 87** | Fighting the Goblin Horde | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
