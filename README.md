@@ -109,6 +109,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day086/         Replace With Alphabet Position
     day087/         Fighting the Goblin Horde
     day088/         Sum Strings as Numbers
+    day089/         Name Shuffler
   Documentation   This amazing README!
 ```
 
@@ -225,6 +226,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 86** | Replace With Alphabet Position | 6 kyu |  Solved |
 | **Day 87** | Fighting the Goblin Horde | 8 kyu |  Solved |
 | **Day 88** | Sum Strings as Numbers | 8 kyu |  Solved |
+| **Day 89** | Name Shuffler | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

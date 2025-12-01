@@ -109,6 +109,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day086/         Substituir com posição no alfabeto
     day087/         Lutando contra a horda de goblins
     day088/         Somar strings como números
+    day089/         Embaralhador de nomes
   Documentação    Este README incrível!
 ```
 
@@ -225,6 +226,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 86** | Substituir com posição no alfabeto | 6 kyu |  Resolvido |
 | **Dia 87** | Lutando contra a horda de goblins | 8 kyu |  Resolvido |
 | **Dia 88** | Somar strings como números | 8 kyu |  Resolvido |
+| **Dia 89** | Embaralhador de nomes | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
