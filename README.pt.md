@@ -110,6 +110,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day087/         Lutando contra a horda de goblins
     day088/         Somar strings como números
     day089/         Embaralhador de nomes
+    day090/         Inverter palavras
   Documentação    Este README incrível!
 ```
 
@@ -227,6 +228,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 87** | Lutando contra a horda de goblins | 8 kyu |  Resolvido |
 | **Dia 88** | Somar strings como números | 8 kyu |  Resolvido |
 | **Dia 89** | Embaralhador de nomes | 8 kyu |  Resolvido |
+| **Dia 90** | Inverter palavras | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

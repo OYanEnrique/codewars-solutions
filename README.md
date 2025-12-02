@@ -110,6 +110,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day087/         Fighting the Goblin Horde
     day088/         Sum Strings as Numbers
     day089/         Name Shuffler
+    day090/         Reverse Words
   Documentation   This amazing README!
 ```
 
@@ -227,6 +228,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 87** | Fighting the Goblin Horde | 8 kyu |  Solved |
 | **Day 88** | Sum Strings as Numbers | 8 kyu |  Solved |
 | **Day 89** | Name Shuffler | 8 kyu |  Solved |
+| **Day 90** | Reverse Words | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
