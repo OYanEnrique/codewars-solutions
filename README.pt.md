@@ -112,6 +112,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day089/         Embaralhador de nomes
     day090/         Inverter palavras
     day091/         Corrigir erros de software de reconhecimento de caracteres
+    day092/         Dois lutadores, um vencedor
   Documentação    Este README incrível!
 ```
 
@@ -231,6 +232,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 89** | Embaralhador de nomes | 8 kyu |  Resolvido |
 | **Dia 90** | Inverter palavras | 8 kyu |  Resolvido |
 | **Dia 91** | Corrigir erros de software de reconhecimento de caracteres | 8 kyu |  Resolvido |
+| **Dia 92** | Dois lutadores, um vencedor | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

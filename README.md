@@ -112,6 +112,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day089/         Name Shuffler
     day090/         Reverse Words
     day091/         Correct the Mistakes of Character Recognition Software
+    day092/         Two Fighters, One Winner
   Documentation   This amazing README!
 ```
 
@@ -231,6 +232,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 89** | Name Shuffler | 8 kyu |  Solved |
 | **Day 90** | Reverse Words | 8 kyu |  Solved |
 | **Day 91** | Correct the Mistakes of Character Recognition Software | 8 kyu |  Solved |
+| **Day 92** | Two Fighters, One Winner | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
