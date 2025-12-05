@@ -113,6 +113,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day090/         Reverse Words
     day091/         Correct the Mistakes of Character Recognition Software
     day092/         Two Fighters, One Winner
+    day093/         Beginner - Lost Without a Map
   Documentation   This amazing README!
 ```
 
@@ -233,6 +234,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 90** | Reverse Words | 8 kyu |  Solved |
 | **Day 91** | Correct the Mistakes of Character Recognition Software | 8 kyu |  Solved |
 | **Day 92** | Two Fighters, One Winner | 7 kyu |  Solved |
+| **Day 93** | Beginner - Lost Without a Map | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
