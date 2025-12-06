@@ -115,6 +115,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day092/         Two Fighters, One Winner
     day093/         Beginner - Lost Without a Map
     day094/         Multiply and Return Error
+    day095/         No Boring Zeros
   Documentation   This amazing README!
 ```
 
@@ -237,6 +238,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 92** | Two Fighters, One Winner | 7 kyu |  Solved |
 | **Day 93** | Beginner - Lost Without a Map | 8 kyu |  Solved |
 | **Day 94** | Multiply and Return Error | 8 kyu |  Solved |
+| **Day 95** | No Boring Zeros | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

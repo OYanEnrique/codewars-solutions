@@ -115,6 +115,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day092/         Dois lutadores, um vencedor
     day093/         Iniciante - Perdido sem um mapa
     day094/         Multiplicar e retornar erro
+    day095/         Sem zeros chatos
   Documentação    Este README incrível!
 ```
 
@@ -237,6 +238,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 92** | Dois lutadores, um vencedor | 7 kyu |  Resolvido |
 | **Dia 93** | Iniciante - Perdido sem um mapa | 8 kyu |  Resolvido |
 | **Dia 94** | Multiplicar e retornar erro | 8 kyu |  Resolvido |
+| **Dia 95** | Sem zeros chatos | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
