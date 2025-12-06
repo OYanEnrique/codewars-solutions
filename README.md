@@ -114,6 +114,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day091/         Correct the Mistakes of Character Recognition Software
     day092/         Two Fighters, One Winner
     day093/         Beginner - Lost Without a Map
+    day094/         Multiply and Return Error
   Documentation   This amazing README!
 ```
 
@@ -235,6 +236,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 91** | Correct the Mistakes of Character Recognition Software | 8 kyu |  Solved |
 | **Day 92** | Two Fighters, One Winner | 7 kyu |  Solved |
 | **Day 93** | Beginner - Lost Without a Map | 8 kyu |  Solved |
+| **Day 94** | Multiply and Return Error | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
