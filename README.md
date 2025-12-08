@@ -116,6 +116,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day093/         Beginner - Lost Without a Map
     day094/         Multiply and Return Error
     day095/         No Boring Zeros
+    day096/         Small Enough? - Beginner
   Documentation   This amazing README!
 ```
 
@@ -239,6 +240,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 93** | Beginner - Lost Without a Map | 8 kyu |  Solved |
 | **Day 94** | Multiply and Return Error | 8 kyu |  Solved |
 | **Day 95** | No Boring Zeros | 8 kyu |  Solved |
+| **Day 96** | Small Enough? - Beginner | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
