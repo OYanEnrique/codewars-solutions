@@ -117,6 +117,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day094/         Multiplicar e retornar erro
     day095/         Sem zeros chatos
     day096/         Pequeno o suficiente? - Iniciante
+    day097/         Quebrar camelCase
   Documentação    Este README incrível!
 ```
 
@@ -241,6 +242,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 94** | Multiplicar e retornar erro | 8 kyu |  Resolvido |
 | **Dia 95** | Sem zeros chatos | 8 kyu |  Resolvido |
 | **Dia 96** | Pequeno o suficiente? - Iniciante | 7 kyu |  Resolvido |
+| **Dia 97** | Quebrar camelCase | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
