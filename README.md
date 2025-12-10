@@ -118,6 +118,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day095/         No Boring Zeros
     day096/         Small Enough? - Beginner
     day097/         Break camelCase
+    day098/         Grasshopper - Debug sayHello
   Documentation   This amazing README!
 ```
 
@@ -243,6 +244,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 95** | No Boring Zeros | 8 kyu |  Solved |
 | **Day 96** | Small Enough? - Beginner | 7 kyu |  Solved |
 | **Day 97** | Break camelCase | 6 kyu |  Solved |
+| **Day 98** | Grasshopper - Debug sayHello | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
