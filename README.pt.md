@@ -119,6 +119,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day096/         Pequeno o suficiente? - Iniciante
     day097/         Quebrar camelCase
     day098/         Gafanhoto - Debug sayHello
+    day099/         Codificador de duplicatas
   Documentação    Este README incrível!
 ```
 
@@ -245,6 +246,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 96** | Pequeno o suficiente? - Iniciante | 7 kyu |  Resolvido |
 | **Dia 97** | Quebrar camelCase | 6 kyu |  Resolvido |
 | **Dia 98** | Gafanhoto - Debug sayHello | 8 kyu |  Resolvido |
+| **Dia 99** | Codificador de duplicatas | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
