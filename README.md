@@ -120,6 +120,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day097/         Break camelCase
     day098/         Grasshopper - Debug sayHello
     day099/         Duplicate Encoder
+    day100/         Grasshopper - Fix the Function
   Documentation   This amazing README!
 ```
 
@@ -247,6 +248,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 97** | Break camelCase | 6 kyu |  Solved |
 | **Day 98** | Grasshopper - Debug sayHello | 8 kyu |  Solved |
 | **Day 99** | Duplicate Encoder | 6 kyu |  Solved |
+| **Day 100** | Grasshopper - Fix the Function | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

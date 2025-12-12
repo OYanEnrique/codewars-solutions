@@ -118,8 +118,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day095/         Sem zeros chatos
     day096/         Pequeno o suficiente? - Iniciante
     day097/         Quebrar camelCase
-    day098/         Gafanhoto - Debug sayHello
+    day098/         Grasshopper - Debug sayHello
     day099/         Codificador de duplicatas
+    day100/         Grasshopper - Corrigir a função
   Documentação    Este README incrível!
 ```
 
@@ -245,8 +246,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 95** | Sem zeros chatos | 8 kyu |  Resolvido |
 | **Dia 96** | Pequeno o suficiente? - Iniciante | 7 kyu |  Resolvido |
 | **Dia 97** | Quebrar camelCase | 6 kyu |  Resolvido |
-| **Dia 98** | Gafanhoto - Debug sayHello | 8 kyu |  Resolvido |
+| **Dia 98** | Grasshopper - Debug sayHello | 8 kyu |  Resolvido |
 | **Dia 99** | Codificador de duplicatas | 6 kyu |  Resolvido |
+| **Dia 100** | Grasshopper - Corrigir a função | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
