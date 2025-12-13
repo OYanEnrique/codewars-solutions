@@ -121,6 +121,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day098/         Grasshopper - Debug sayHello
     day099/         Duplicate Encoder
     day100/         Grasshopper - Fix the Function
+    day101/         A Needle in the Haystack
   Documentation   This amazing README!
 ```
 
@@ -249,6 +250,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 98** | Grasshopper - Debug sayHello | 8 kyu |  Solved |
 | **Day 99** | Duplicate Encoder | 6 kyu |  Solved |
 | **Day 100** | Grasshopper - Fix the Function | 8 kyu |  Solved |
+| **Day 101** | A Needle in the Haystack | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
