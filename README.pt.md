@@ -122,6 +122,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day099/         Codificador de duplicatas
     day100/         Grasshopper - Corrigir a função
     day101/         Uma agulha no palheiro
+    day102/         É um palíndromo?
   Documentação    Este README incrível!
 ```
 
@@ -251,6 +252,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 99** | Codificador de duplicatas | 6 kyu |  Resolvido |
 | **Dia 100** | Grasshopper - Corrigir a função | 8 kyu |  Resolvido |
 | **Dia 101** | Uma agulha no palheiro | 8 kyu |  Resolvido |
+| **Dia 102** | É um palíndromo? | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

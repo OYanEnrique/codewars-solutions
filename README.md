@@ -122,6 +122,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day099/         Duplicate Encoder
     day100/         Grasshopper - Fix the Function
     day101/         A Needle in the Haystack
+    day102/         Is it a palindrome?
   Documentation   This amazing README!
 ```
 
@@ -251,6 +252,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 99** | Duplicate Encoder | 6 kyu |  Solved |
 | **Day 100** | Grasshopper - Fix the Function | 8 kyu |  Solved |
 | **Day 101** | A Needle in the Haystack | 8 kyu |  Solved |
+| **Day 102** | Is it a palindrome? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
