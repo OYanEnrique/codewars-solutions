@@ -123,6 +123,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day100/         Grasshopper - Fix the Function
     day101/         A Needle in the Haystack
     day102/         Is it a palindrome?
+    day103/         Find the capitals
   Documentation   This amazing README!
 ```
 
@@ -253,6 +254,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 100** | Grasshopper - Fix the Function | 8 kyu |  Solved |
 | **Day 101** | A Needle in the Haystack | 8 kyu |  Solved |
 | **Day 102** | Is it a palindrome? | 8 kyu |  Solved |
+| **Day 103** | Find the capitals | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

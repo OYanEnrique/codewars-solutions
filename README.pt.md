@@ -123,6 +123,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day100/         Grasshopper - Corrigir a função
     day101/         Uma agulha no palheiro
     day102/         É um palíndromo?
+    day103/         Encontre as maiúsculas
   Documentação    Este README incrível!
 ```
 
@@ -253,6 +254,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 100** | Grasshopper - Corrigir a função | 8 kyu |  Resolvido |
 | **Dia 101** | Uma agulha no palheiro | 8 kyu |  Resolvido |
 | **Dia 102** | É um palíndromo? | 8 kyu |  Resolvido |
+| **Dia 103** | Encontre as maiúsculas | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
