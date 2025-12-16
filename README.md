@@ -124,6 +124,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day101/         A Needle in the Haystack
     day102/         Is it a palindrome?
     day103/         Find the capitals
+    day104/         Printer Errors
   Documentation   This amazing README!
 ```
 
@@ -255,6 +256,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 101** | A Needle in the Haystack | 8 kyu |  Solved |
 | **Day 102** | Is it a palindrome? | 8 kyu |  Solved |
 | **Day 103** | Find the capitals | 7 kyu |  Solved |
+| **Day 104** | Printer Errors | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

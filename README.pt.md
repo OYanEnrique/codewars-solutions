@@ -124,6 +124,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day101/         Uma agulha no palheiro
     day102/         É um palíndromo?
     day103/         Encontre as maiúsculas
+    day104/         Erros da impressora
   Documentação    Este README incrível!
 ```
 
@@ -255,6 +256,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 101** | Uma agulha no palheiro | 8 kyu |  Resolvido |
 | **Dia 102** | É um palíndromo? | 8 kyu |  Resolvido |
 | **Dia 103** | Encontre as maiúsculas | 7 kyu |  Resolvido |
+| **Dia 104** | Erros da impressora | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
