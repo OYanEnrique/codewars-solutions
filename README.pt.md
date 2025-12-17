@@ -125,6 +125,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day102/         É um palíndromo?
     day103/         Encontre as maiúsculas
     day104/         Erros da impressora
+    day105/         Validar código PIN com Regex
   Documentação    Este README incrível!
 ```
 
@@ -257,6 +258,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 102** | É um palíndromo? | 8 kyu |  Resolvido |
 | **Dia 103** | Encontre as maiúsculas | 7 kyu |  Resolvido |
 | **Dia 104** | Erros da impressora | 7 kyu |  Resolvido |
+| **Dia 105** | Validar código PIN com Regex | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
