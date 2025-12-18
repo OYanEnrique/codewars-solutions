@@ -126,6 +126,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day103/         Encontre as maiúsculas
     day104/         Erros da impressora
     day105/         Validar código PIN com Regex
+    day106/         Função Aritmética
   Documentação    Este README incrível!
 ```
 

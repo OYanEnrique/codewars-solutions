@@ -126,6 +126,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day103/         Find the capitals
     day104/         Printer Errors
     day105/         Regex validate PIN code
+    day106/         Arithmetic Function
   Documentation   This amazing README!
 ```
 
