@@ -260,6 +260,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 103** | Find the capitals | 7 kyu |  Solved |
 | **Day 104** | Printer Errors | 7 kyu |  Solved |
 | **Day 105** | Regex validate PIN code | 7 kyu |  Solved |
+| **Day 106** | Arithmetic Function | 8 kyu |  Solved |
 
 ##  Tech Stacks
 

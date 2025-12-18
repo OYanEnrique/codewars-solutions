@@ -260,6 +260,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 103** | Encontre as maiúsculas | 7 kyu |  Resolvido |
 | **Dia 104** | Erros da impressora | 7 kyu |  Resolvido |
 | **Dia 105** | Validar código PIN com Regex | 7 kyu |  Resolvido |
+| **Dia 106** | Função Aritmética | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
