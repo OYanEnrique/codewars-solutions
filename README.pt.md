@@ -127,6 +127,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day104/         Erros da impressora
     day105/         Validar código PIN com Regex
     day106/         Função Aritmética
+    day107/         Espaço Suficiente no Ônibus
   Documentação    Este README incrível!
 ```
 
@@ -261,6 +262,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 104** | Erros da impressora | 7 kyu |  Resolvido |
 | **Dia 105** | Validar código PIN com Regex | 7 kyu |  Resolvido |
 | **Dia 106** | Função Aritmética | 8 kyu |  Resolvido |
+| **Dia 107** | Espaço Suficiente no Ônibus | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

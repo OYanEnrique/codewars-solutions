@@ -127,6 +127,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day104/         Printer Errors
     day105/         Regex validate PIN code
     day106/         Arithmetic Function
+    day107/         Enough Space on Bus
   Documentation   This amazing README!
 ```
 
@@ -261,6 +262,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 104** | Printer Errors | 7 kyu |  Solved |
 | **Day 105** | Regex validate PIN code | 7 kyu |  Solved |
 | **Day 106** | Arithmetic Function | 8 kyu |  Solved |
+| **Day 107** | Enough Space on Bus | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
