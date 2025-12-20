@@ -128,6 +128,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day105/         Validar código PIN com Regex
     day106/         Função Aritmética
     day107/         Espaço Suficiente no Ônibus
+    day108/         Um Lobo em Pele de Ovelha
   Documentação    Este README incrível!
 ```
 
@@ -263,6 +264,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 105** | Validar código PIN com Regex | 7 kyu |  Resolvido |
 | **Dia 106** | Função Aritmética | 8 kyu |  Resolvido |
 | **Dia 107** | Espaço Suficiente no Ônibus | 8 kyu |  Resolvido |
+| **Dia 108** | Um Lobo em Pele de Ovelha | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
