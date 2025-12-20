@@ -129,6 +129,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day106/         Arithmetic Function
     day107/         Enough Space on Bus
     day108/         A Wolf in Sheep's Clothing
+    day109/         Extract Domain Name from URL
   Documentation   This amazing README!
 ```
 
@@ -265,6 +266,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 106** | Arithmetic Function | 8 kyu |  Solved |
 | **Day 107** | Enough Space on Bus | 8 kyu |  Solved |
 | **Day 108** | A Wolf in Sheep's Clothing | 8 kyu |  Solved |
+| **Day 109** | Extract Domain Name from URL | 5 kyu |  Solved |
 
 ##  Tech Stacks
 
