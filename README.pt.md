@@ -130,6 +130,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day107/         Espaço Suficiente no Ônibus
     day108/         Um Lobo em Pele de Ovelha
     day109/         Extrair Nome de Domínio da URL
+    day110/         Array de Inteiros Entre Parâmetros
   Documentação    Este README incrível!
 ```
 
@@ -267,6 +268,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 107** | Espaço Suficiente no Ônibus | 8 kyu |  Resolvido |
 | **Dia 108** | Um Lobo em Pele de Ovelha | 8 kyu |  Resolvido |
 | **Dia 109** | Extrair Nome de Domínio da URL | 5 kyu |  Resolvido |
+| **Dia 110** | Array de Inteiros Entre Parâmetros | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
