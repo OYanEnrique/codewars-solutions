@@ -131,6 +131,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day108/         Um Lobo em Pele de Ovelha
     day109/         Extrair Nome de Domínio da URL
     day110/         Array de Inteiros Entre Parâmetros
+    day111/         Calcular IMC
   Documentação    Este README incrível!
 ```
 
@@ -269,6 +270,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 108** | Um Lobo em Pele de Ovelha | 8 kyu |  Resolvido |
 | **Dia 109** | Extrair Nome de Domínio da URL | 5 kyu |  Resolvido |
 | **Dia 110** | Array de Inteiros Entre Parâmetros | 8 kyu |  Resolvido |
+| **Dia 111** | Calcular IMC | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
