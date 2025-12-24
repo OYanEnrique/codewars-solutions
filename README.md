@@ -132,6 +132,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day109/         Extract Domain Name from URL
     day110/         Array of Integers Between Parameters
     day111/         Calculate BMI
+    day112/         Remove Exclamation Mark from End
   Documentation   This amazing README!
 ```
 
@@ -271,6 +272,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 109** | Extract Domain Name from URL | 5 kyu |  Solved |
 | **Day 110** | Array of Integers Between Parameters | 8 kyu |  Solved |
 | **Day 111** | Calculate BMI | 8 kyu |  Solved |
+| **Day 112** | Remove Exclamation Mark from End | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
