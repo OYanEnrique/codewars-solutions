@@ -133,6 +133,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day110/         Array de Inteiros Entre Parâmetros
     day111/         Calcular IMC
     day112/         Remover Ponto de Exclamação do Final
+    day113/         Tabela de Multiplicação
   Documentação    Este README incrível!
 ```
 
@@ -273,6 +274,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 110** | Array de Inteiros Entre Parâmetros | 8 kyu |  Resolvido |
 | **Dia 111** | Calcular IMC | 8 kyu |  Resolvido |
 | **Dia 112** | Remover Ponto de Exclamação do Final | 8 kyu |  Resolvido |
+| **Dia 113** | Tabela de Multiplicação | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
