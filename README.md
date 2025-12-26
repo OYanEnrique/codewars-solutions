@@ -134,6 +134,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day111/         Calculate BMI
     day112/         Remove Exclamation Mark from End
     day113/         Multiplication Table
+    day114/         String Repeat
   Documentation   This amazing README!
 ```
 
@@ -275,6 +276,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 111** | Calculate BMI | 8 kyu |  Solved |
 | **Day 112** | Remove Exclamation Mark from End | 8 kyu |  Solved |
 | **Day 113** | Multiplication Table | 8 kyu |  Solved |
+| **Day 114** | String Repeat | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
