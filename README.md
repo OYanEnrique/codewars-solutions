@@ -135,6 +135,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day112/         Remove Exclamation Mark from End
     day113/         Multiplication Table
     day114/         String Repeat
+    day115/         Array Difference
   Documentation   This amazing README!
 ```
 
@@ -277,6 +278,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 112** | Remove Exclamation Mark from End | 8 kyu |  Solved |
 | **Day 113** | Multiplication Table | 8 kyu |  Solved |
 | **Day 114** | String Repeat | 8 kyu |  Solved |
+| **Day 115** | Array Difference | 6 kyu |  Solved |
 
 ##  Tech Stacks
 
