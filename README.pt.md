@@ -135,6 +135,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day112/         Remover Ponto de Exclamação do Final
     day113/         Tabela de Multiplicação
     day114/         Repetir String
+    day115/         Diferença de Arrays
   Documentação    Este README incrível!
 ```
 
@@ -277,6 +278,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 112** | Remover Ponto de Exclamação do Final | 8 kyu |  Resolvido |
 | **Dia 113** | Tabela de Multiplicação | 8 kyu |  Resolvido |
 | **Dia 114** | Repetir String | 8 kyu |  Resolvido |
+| **Dia 115** | Diferença de Arrays | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
