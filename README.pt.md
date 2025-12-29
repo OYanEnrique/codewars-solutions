@@ -137,6 +137,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day114/         Repetir String
     day115/         Diferença de Arrays
     day116/         Soma Entre Inteiros
+    day117/         Série Iniciante #2 Relógio
   Documentação    Este README incrível!
 ```
 
@@ -281,6 +282,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 114** | Repetir String | 8 kyu |  Resolvido |
 | **Dia 115** | Diferença de Arrays | 6 kyu |  Resolvido |
 | **Dia 116** | Soma Entre Inteiros | 7 kyu |  Resolvido |
+| **Dia 117** | Série Iniciante #2 Relógio | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
