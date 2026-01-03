@@ -138,6 +138,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day115/         Array Difference
     day116/         Sum Between Integers
     day117/         Beginner Series #2 Clock
+    day118/         Plural
   Documentation   This amazing README!
 ```
 
@@ -283,6 +284,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 115** | Array Difference | 6 kyu |  Solved |
 | **Day 116** | Sum Between Integers | 7 kyu |  Solved |
 | **Day 117** | Beginner Series #2 Clock | 8 kyu |  Solved |
+| **Day 118** | Plural | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
