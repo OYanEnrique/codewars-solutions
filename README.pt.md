@@ -139,6 +139,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day116/         Soma Entre Inteiros
     day117/         Série Iniciante #2 Relógio
     day118/         Plural
+    day119/         Somar Array (exceto o maior e o menor)
   Documentação    Este README incrível!
 ```
 
@@ -285,6 +286,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 116** | Soma Entre Inteiros | 7 kyu |  Resolvido |
 | **Dia 117** | Série Iniciante #2 Relógio | 8 kyu |  Resolvido |
 | **Dia 118** | Plural | 8 kyu |  Resolvido |
+| **Dia 119** | Somar Array (exceto o maior e o menor) | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
