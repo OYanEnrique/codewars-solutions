@@ -139,6 +139,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day116/         Sum Between Integers
     day117/         Beginner Series #2 Clock
     day118/         Plural
+    day119/         Sum Array (except highest and lowest)
   Documentation   This amazing README!
 ```
 
@@ -285,6 +286,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 116** | Sum Between Integers | 7 kyu |  Solved |
 | **Day 117** | Beginner Series #2 Clock | 8 kyu |  Solved |
 | **Day 118** | Plural | 8 kyu |  Solved |
+| **Day 119** | Sum Array (except highest and lowest) | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
