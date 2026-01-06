@@ -141,6 +141,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day118/         Plural
     day119/         Somar Array (exceto o maior e o menor)
     day120/         Remover Duplicatas da Lista
+    day121/         Contar Caracteres em String
   Documentação    Este README incrível!
 ```
 
@@ -289,6 +290,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 118** | Plural | 8 kyu |  Resolvido |
 | **Dia 119** | Somar Array (exceto o maior e o menor) | 8 kyu |  Resolvido |
 | **Dia 120** | Remover Duplicatas da Lista | 8 kyu |  Resolvido |
+| **Dia 121** | Contar Caracteres em String | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
