@@ -143,6 +143,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day120/         Remove Duplicates from List
     day121/         Count Characters in String
     day122/         Personalized Greeting
+    day123/         Grasshopper - Function syntax debugging
   Documentation   This amazing README!
 ```
 
@@ -293,6 +294,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 120** | Remove Duplicates from List | 8 kyu |  Solved |
 | **Day 121** | Count Characters in String | 6 kyu |  Solved |
 | **Day 122** | Personalized Greeting | 8 kyu |  Solved |
+| **Day 123** | Grasshopper - Function syntax debugging | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
