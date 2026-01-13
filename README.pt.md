@@ -144,6 +144,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day121/         Contar Caracteres em String
     day122/         Saudação Personalizada
     day123/         Grasshopper - Depuração de sintaxe de função
+    day124/         Fila do Supermercado
   Documentação    Este README incrível!
 ```
 
@@ -295,6 +296,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 121** | Contar Caracteres em String | 6 kyu |  Resolvido |
 | **Dia 122** | Saudação Personalizada | 8 kyu |  Resolvido |
 | **Dia 123** | Grasshopper - Depuração de sintaxe de função | 8 kyu |  Resolvido |
+| **Dia 124** | Fila do Supermercado | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
