@@ -145,6 +145,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day122/         Personalized Greeting
     day123/         Grasshopper - Function syntax debugging
     day124/         The Supermarket Queue
+    day125/         Final Grade
   Documentation   This amazing README!
 ```
 
@@ -297,6 +298,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 122** | Personalized Greeting | 8 kyu |  Solved |
 | **Day 123** | Grasshopper - Function syntax debugging | 8 kyu |  Solved |
 | **Day 124** | The Supermarket Queue | 6 kyu |  Solved |
+| **Day 125** | Final Grade | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
