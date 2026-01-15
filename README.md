@@ -146,6 +146,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day123/         Grasshopper - Function syntax debugging
     day124/         The Supermarket Queue
     day125/         Final Grade
+    day126/         How Many Lightsabers Do You Own?
   Documentation   This amazing README!
 ```
 
@@ -299,6 +300,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 123** | Grasshopper - Function syntax debugging | 8 kyu |  Solved |
 | **Day 124** | The Supermarket Queue | 6 kyu |  Solved |
 | **Day 125** | Final Grade | 8 kyu |  Solved |
+| **Day 126** | How Many Lightsabers Do You Own? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
