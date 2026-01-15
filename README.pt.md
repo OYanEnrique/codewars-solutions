@@ -146,6 +146,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day123/         Grasshopper - Depuração de sintaxe de função
     day124/         Fila do Supermercado
     day125/         Nota Final
+    day126/         Quantos Sabres de Luz Você Possui?
   Documentação    Este README incrível!
 ```
 
@@ -299,6 +300,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 123** | Grasshopper - Depuração de sintaxe de função | 8 kyu |  Resolvido |
 | **Dia 124** | Fila do Supermercado | 6 kyu |  Resolvido |
 | **Dia 125** | Nota Final | 8 kyu |  Resolvido |
+| **Dia 126** | Quantos Sabres de Luz Você Possui? | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
