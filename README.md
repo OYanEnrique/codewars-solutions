@@ -147,6 +147,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day124/         The Supermarket Queue
     day125/         Final Grade
     day126/         How Many Lightsabers Do You Own?
+    day127/         Chromosomes Check
   Documentation   This amazing README!
 ```
 
@@ -301,6 +302,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 124** | The Supermarket Queue | 6 kyu |  Solved |
 | **Day 125** | Final Grade | 8 kyu |  Solved |
 | **Day 126** | How Many Lightsabers Do You Own? | 8 kyu |  Solved |
+| **Day 127** | Chromosomes Check | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
