@@ -148,6 +148,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day125/         Final Grade
     day126/         How Many Lightsabers Do You Own?
     day127/         Chromosomes Check
+    day128/         People With Age Drink
   Documentation   This amazing README!
 ```
 
@@ -303,6 +304,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 125** | Final Grade | 8 kyu |  Solved |
 | **Day 126** | How Many Lightsabers Do You Own? | 8 kyu |  Solved |
 | **Day 127** | Chromosomes Check | 8 kyu |  Solved |
+| **Day 128** | People With Age Drink | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
