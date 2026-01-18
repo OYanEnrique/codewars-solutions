@@ -149,6 +149,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day126/         Quantos Sabres de Luz Você Possui?
     day127/         Verificação de Cromossomos
     day128/         Bebidas por Idade
+    day129/         Anos de Gato, Anos de Cachorro
   Documentação    Este README incrível!
 ```
 
@@ -305,6 +306,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 126** | Quantos Sabres de Luz Você Possui? | 8 kyu |  Resolvido |
 | **Dia 127** | Verificação de Cromossomos | 8 kyu |  Resolvido |
 | **Dia 128** | Bebidas por Idade | 8 kyu |  Resolvido |
+| **Dia 129** | Anos de Gato, Anos de Cachorro | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
