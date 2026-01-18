@@ -149,6 +149,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day126/         How Many Lightsabers Do You Own?
     day127/         Chromosomes Check
     day128/         People With Age Drink
+    day129/         Cat Years, Dog Years
   Documentation   This amazing README!
 ```
 
@@ -305,6 +306,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 126** | How Many Lightsabers Do You Own? | 8 kyu |  Solved |
 | **Day 127** | Chromosomes Check | 8 kyu |  Solved |
 | **Day 128** | People With Age Drink | 8 kyu |  Solved |
+| **Day 129** | Cat Years, Dog Years | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
