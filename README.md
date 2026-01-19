@@ -150,6 +150,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day127/         Chromosomes Check
     day128/         People With Age Drink
     day129/         Cat Years, Dog Years
+    day130/         Summation
   Documentation   This amazing README!
 ```
 
@@ -307,6 +308,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 127** | Chromosomes Check | 8 kyu |  Solved |
 | **Day 128** | People With Age Drink | 8 kyu |  Solved |
 | **Day 129** | Cat Years, Dog Years | 8 kyu |  Solved |
+| **Day 130** | Summation | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
