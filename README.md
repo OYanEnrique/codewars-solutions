@@ -151,6 +151,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day128/         People With Age Drink
     day129/         Cat Years, Dog Years
     day130/         Summation
+    day131/         Shortest Word
   Documentation   This amazing README!
 ```
 
@@ -309,6 +310,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 128** | People With Age Drink | 8 kyu |  Solved |
 | **Day 129** | Cat Years, Dog Years | 8 kyu |  Solved |
 | **Day 130** | Summation | 8 kyu |  Solved |
+| **Day 131** | Shortest Word | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
