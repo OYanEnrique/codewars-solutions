@@ -151,6 +151,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day128/         Bebidas por Idade
     day129/         Anos de Gato, Anos de Cachorro
     day130/         Soma
+    day131/         Palavra Mais Curta
   Documentação    Este README incrível!
 ```
 
@@ -309,6 +310,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 128** | Bebidas por Idade | 8 kyu |  Resolvido |
 | **Dia 129** | Anos de Gato, Anos de Cachorro | 8 kyu |  Resolvido |
 | **Dia 130** | Soma | 8 kyu |  Resolvido |
+| **Dia 131** | Palavra Mais Curta | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
