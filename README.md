@@ -152,6 +152,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day129/         Cat Years, Dog Years
     day130/         Summation
     day131/         Shortest Word
+    day132/         Is Even
   Documentation   This amazing README!
 ```
 
@@ -311,6 +312,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 129** | Cat Years, Dog Years | 8 kyu |  Solved |
 | **Day 130** | Summation | 8 kyu |  Solved |
 | **Day 131** | Shortest Word | 7 kyu |  Solved |
+| **Day 132** | Is Even | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
