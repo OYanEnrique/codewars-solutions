@@ -152,6 +152,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day129/         Anos de Gato, Anos de Cachorro
     day130/         Soma
     day131/         Palavra Mais Curta
+    day132/         É Par
   Documentação    Este README incrível!
 ```
 
@@ -311,6 +312,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 129** | Anos de Gato, Anos de Cachorro | 8 kyu |  Resolvido |
 | **Dia 130** | Soma | 8 kyu |  Resolvido |
 | **Dia 131** | Palavra Mais Curta | 7 kyu |  Resolvido |
+| **Dia 132** | É Par | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
