@@ -153,6 +153,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day130/         Summation
     day131/         Shortest Word
     day132/         Is Even
+    day133/         Thirsty Plants
   Documentation   This amazing README!
 ```
 
@@ -313,6 +314,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 130** | Summation | 8 kyu |  Solved |
 | **Day 131** | Shortest Word | 7 kyu |  Solved |
 | **Day 132** | Is Even | 8 kyu |  Solved |
+| **Day 133** | Thirsty Plants | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
