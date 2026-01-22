@@ -153,6 +153,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day130/         Soma
     day131/         Palavra Mais Curta
     day132/         É Par
+    day133/         Plantas Sedentas
   Documentação    Este README incrível!
 ```
 
@@ -313,6 +314,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 130** | Soma | 8 kyu |  Resolvido |
 | **Dia 131** | Palavra Mais Curta | 7 kyu |  Resolvido |
 | **Dia 132** | É Par | 8 kyu |  Resolvido |
+| **Dia 133** | Plantas Sedentas | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
