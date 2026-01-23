@@ -154,6 +154,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day131/         Shortest Word
     day132/         Is Even
     day133/         Thirsty Plants
+    day134/         Calculate Age
   Documentation   This amazing README!
 ```
 
@@ -315,6 +316,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 131** | Shortest Word | 7 kyu |  Solved |
 | **Day 132** | Is Even | 8 kyu |  Solved |
 | **Day 133** | Thirsty Plants | 8 kyu |  Solved |
+| **Day 134** | Calculate Age | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
