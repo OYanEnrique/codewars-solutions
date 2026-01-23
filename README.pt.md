@@ -154,6 +154,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day131/         Palavra Mais Curta
     day132/         É Par
     day133/         Plantas Sedentas
+    day134/         Calcular Idade
   Documentação    Este README incrível!
 ```
 
@@ -315,6 +316,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 131** | Palavra Mais Curta | 7 kyu |  Resolvido |
 | **Dia 132** | É Par | 8 kyu |  Resolvido |
 | **Dia 133** | Plantas Sedentas | 8 kyu |  Resolvido |
+| **Dia 134** | Calcular Idade | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
