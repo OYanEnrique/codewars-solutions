@@ -155,6 +155,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day132/         É Par
     day133/         Plantas Sedentas
     day134/         Calcular Idade
+    day135/         Quantos Anos Você Tem
   Documentação    Este README incrível!
 ```
 
@@ -317,6 +318,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 132** | É Par | 8 kyu |  Resolvido |
 | **Dia 133** | Plantas Sedentas | 8 kyu |  Resolvido |
 | **Dia 134** | Calcular Idade | 8 kyu |  Resolvido |
+| **Dia 135** | Quantos Anos Você Tem | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
