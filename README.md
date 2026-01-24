@@ -155,6 +155,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day132/         Is Even
     day133/         Thirsty Plants
     day134/         Calculate Age
+    day135/         How Old Are You
   Documentation   This amazing README!
 ```
 
@@ -317,6 +318,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 132** | Is Even | 8 kyu |  Solved |
 | **Day 133** | Thirsty Plants | 8 kyu |  Solved |
 | **Day 134** | Calculate Age | 8 kyu |  Solved |
+| **Day 135** | How Old Are You | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
