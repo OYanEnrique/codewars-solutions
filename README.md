@@ -156,6 +156,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day133/         Thirsty Plants
     day134/         Calculate Age
     day135/         How Old Are You
+    day136/         Sum of Multiples
   Documentation   This amazing README!
 ```
 
@@ -319,6 +320,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 133** | Thirsty Plants | 8 kyu |  Solved |
 | **Day 134** | Calculate Age | 8 kyu |  Solved |
 | **Day 135** | How Old Are You | 8 kyu |  Solved |
+| **Day 136** | Sum of Multiples | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
