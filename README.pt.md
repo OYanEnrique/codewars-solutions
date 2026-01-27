@@ -158,6 +158,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day135/         Quantos Anos Você Tem
     day136/         Soma de Múltiplos
     day137/         Representação Binária
+    day138/         Verificar Fator
   Documentação    Este README incrível!
 ```
 
@@ -323,6 +324,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 135** | Quantos Anos Você Tem | 8 kyu |  Resolvido |
 | **Dia 136** | Soma de Múltiplos | 7 kyu |  Resolvido |
 | **Dia 137** | Representação Binária | 8 kyu |  Resolvido |
+| **Dia 138** | Verificar Fator | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
