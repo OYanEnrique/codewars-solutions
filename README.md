@@ -158,6 +158,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day135/         How Old Are You
     day136/         Sum of Multiples
     day137/         Binary Representation
+    day138/         Check for Factor
   Documentation   This amazing README!
 ```
 
@@ -323,6 +324,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 135** | How Old Are You | 8 kyu |  Solved |
 | **Day 136** | Sum of Multiples | 7 kyu |  Solved |
 | **Day 137** | Binary Representation | 8 kyu |  Solved |
+| **Day 138** | Check for Factor | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
