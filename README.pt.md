@@ -159,6 +159,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day136/         Soma de Múltiplos
     day137/         Representação Binária
     day138/         Verificar Fator
+    day139/         Quem curtiu isso?
   Documentação    Este README incrível!
 ```
 
@@ -325,6 +326,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 136** | Soma de Múltiplos | 7 kyu |  Resolvido |
 | **Dia 137** | Representação Binária | 8 kyu |  Resolvido |
 | **Dia 138** | Verificar Fator | 8 kyu |  Resolvido |
+| **Dia 139** | Quem curtiu isso? | 6 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
