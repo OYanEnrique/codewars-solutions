@@ -160,6 +160,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day137/         Representação Binária
     day138/         Verificar Fator
     day139/         Quem curtiu isso?
+    day140/         Dia da Semana
   Documentação    Este README incrível!
 ```
 
@@ -327,6 +328,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 137** | Representação Binária | 8 kyu |  Resolvido |
 | **Dia 138** | Verificar Fator | 8 kyu |  Resolvido |
 | **Dia 139** | Quem curtiu isso? | 6 kyu |  Resolvido |
+| **Dia 140** | Dia da Semana | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
