@@ -161,6 +161,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day138/         Check for Factor
     day139/         Who likes it?
     day140/         Weekday
+    day141/         Check Exam
   Documentation   This amazing README!
 ```
 
@@ -329,6 +330,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 138** | Check for Factor | 8 kyu |  Solved |
 | **Day 139** | Who likes it? | 6 kyu |  Solved |
 | **Day 140** | Weekday | 8 kyu |  Solved |
+| **Day 141** | Check Exam | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
