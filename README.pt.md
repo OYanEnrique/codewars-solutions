@@ -161,6 +161,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day138/         Verificar Fator
     day139/         Quem curtiu isso?
     day140/         Dia da Semana
+    day141/         Verificar Exame
   Documentação    Este README incrível!
 ```
 
@@ -329,6 +330,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 138** | Verificar Fator | 8 kyu |  Resolvido |
 | **Dia 139** | Quem curtiu isso? | 6 kyu |  Resolvido |
 | **Dia 140** | Dia da Semana | 8 kyu |  Resolvido |
+| **Dia 141** | Verificar Exame | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
