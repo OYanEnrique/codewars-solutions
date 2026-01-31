@@ -164,7 +164,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day141/         Check Exam
     day142/         Factorial with ValueError
     day143/         Sum of Minimums in Rows
-  Documentation   This amazing README!
+  Documentation   This amazing README! 
 ```
 
 ##  Quick Start

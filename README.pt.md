@@ -164,7 +164,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day141/         Verificar Exame
     day142/         Fatorial com ValueError
     day143/         Soma de Mínimos em Linhas
-
+ 
 ```
 
 ##  Guia de Início Rápido
