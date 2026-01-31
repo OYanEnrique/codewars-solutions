@@ -162,6 +162,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day139/         Who likes it?
     day140/         Weekday
     day141/         Check Exam
+    day142/         Factorial with ValueError
+    day143/         Sum of Minimums in Rows
   Documentation   This amazing README!
 ```
 
@@ -331,6 +333,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 139** | Who likes it? | 6 kyu |  Solved |
 | **Day 140** | Weekday | 8 kyu |  Solved |
 | **Day 141** | Check Exam | 8 kyu |  Solved |
+| **Day 142** | Factorial with ValueError | 7 kyu |  Solved |
+| **Day 143** | Sum of Minimums in Rows | 7 kyu |  Solved |
 
 ##  Tech Stacks
 

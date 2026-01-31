@@ -162,7 +162,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day139/         Quem curtiu isso?
     day140/         Dia da Semana
     day141/         Verificar Exame
-  Documentação    Este README incrível!
+    day142/         Fatorial com ValueError
+    day143/         Soma de Mínimos em Linhas
+
 ```
 
 ##  Guia de Início Rápido
@@ -331,6 +333,8 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 139** | Quem curtiu isso? | 6 kyu |  Resolvido |
 | **Dia 140** | Dia da Semana | 8 kyu |  Resolvido |
 | **Dia 141** | Verificar Exame | 8 kyu |  Resolvido |
+| **Dia 142** | Fatorial com ValueError | 7 kyu |  Resolvido |
+| **Dia 143** | Soma de Mínimos em Linhas | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
