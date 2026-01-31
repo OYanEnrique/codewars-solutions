@@ -12,7 +12,7 @@ So the function should return 26 because the sum of the minimums is 1 + 5 + 20 =
 Note: You will always be given a non-empty list containing positive values.
 
 ENJOY CODING :)
-'''
+''' 
 
 def sum_of_minimums(numbers):
     return sum([min(n) for n in numbers])
