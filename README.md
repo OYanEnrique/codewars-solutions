@@ -164,6 +164,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day141/         Check Exam
     day142/         Factorial with ValueError
     day143/         Sum of Minimums in Rows
+    day144/         Check if Array Contains Item
   Documentation   This amazing README! 
 ```
 
@@ -335,6 +336,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 141** | Check Exam | 8 kyu |  Solved |
 | **Day 142** | Factorial with ValueError | 7 kyu |  Solved |
 | **Day 143** | Sum of Minimums in Rows | 7 kyu |  Solved |
+| **Day 144** | Check if Array Contains Item | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
