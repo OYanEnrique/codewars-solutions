@@ -164,6 +164,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day141/         Verificar Exame
     day142/         Fatorial com ValueError
     day143/         Soma de Mínimos em Linhas
+    day144/         Verificar se Array Contém Item
  
 ```
 
@@ -335,6 +336,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 141** | Verificar Exame | 8 kyu |  Resolvido |
 | **Dia 142** | Fatorial com ValueError | 7 kyu |  Resolvido |
 | **Dia 143** | Soma de Mínimos em Linhas | 7 kyu |  Resolvido |
+| **Dia 144** | Verificar se Array Contém Item | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
