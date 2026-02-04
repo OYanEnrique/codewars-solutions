@@ -165,6 +165,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day142/         Factorial with ValueError
     day143/         Sum of Minimums in Rows
     day144/         Check if Array Contains Item
+    day145/         Playing Banjo
   Documentation   This amazing README! 
 ```
 
@@ -337,6 +338,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 142** | Factorial with ValueError | 7 kyu |  Solved |
 | **Day 143** | Sum of Minimums in Rows | 7 kyu |  Solved |
 | **Day 144** | Check if Array Contains Item | 8 kyu |  Solved |
+| **Day 145** | Playing Banjo | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
