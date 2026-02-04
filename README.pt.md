@@ -165,6 +165,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day142/         Fatorial com ValueError
     day143/         Soma de Mínimos em Linhas
     day144/         Verificar se Array Contém Item
+    day145/         Tocando Banjo
  
 ```
 
@@ -337,6 +338,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 142** | Fatorial com ValueError | 7 kyu |  Resolvido |
 | **Dia 143** | Soma de Mínimos em Linhas | 7 kyu |  Resolvido |
 | **Dia 144** | Verificar se Array Contém Item | 8 kyu |  Resolvido |
+| **Dia 145** | Tocando Banjo | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
