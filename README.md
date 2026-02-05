@@ -166,6 +166,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day143/         Sum of Minimums in Rows
     day144/         Check if Array Contains Item
     day145/         Playing Banjo
+    day146/         Sentence Smash
   Documentation   This amazing README! 
 ```
 
@@ -339,6 +340,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 143** | Sum of Minimums in Rows | 7 kyu |  Solved |
 | **Day 144** | Check if Array Contains Item | 8 kyu |  Solved |
 | **Day 145** | Playing Banjo | 8 kyu |  Solved |
+| **Day 146** | Sentence Smash | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
