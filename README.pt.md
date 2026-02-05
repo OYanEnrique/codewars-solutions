@@ -166,6 +166,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day143/         Soma de Mínimos em Linhas
     day144/         Verificar se Array Contém Item
     day145/         Tocando Banjo
+    day146/         Juntar Palavras
  
 ```
 
@@ -339,6 +340,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 143** | Soma de Mínimos em Linhas | 7 kyu |  Resolvido |
 | **Dia 144** | Verificar se Array Contém Item | 8 kyu |  Resolvido |
 | **Dia 145** | Tocando Banjo | 8 kyu |  Resolvido |
+| **Dia 146** | Juntar Palavras | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
