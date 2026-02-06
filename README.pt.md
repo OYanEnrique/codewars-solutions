@@ -167,6 +167,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day144/         Verificar se Array Contém Item
     day145/         Tocando Banjo
     day146/         Juntar Palavras
+    day147/         Faça a Derivada
  
 ```
 
@@ -341,6 +342,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 144** | Verificar se Array Contém Item | 8 kyu |  Resolvido |
 | **Dia 145** | Tocando Banjo | 8 kyu |  Resolvido |
 | **Dia 146** | Juntar Palavras | 8 kyu |  Resolvido |
+| **Dia 147** | Faça a Derivada | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
