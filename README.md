@@ -168,6 +168,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day145/         Playing Banjo
     day146/         Sentence Smash
     day147/         Take the Derivative
+    day148/         Messi's Goal Total
   Documentation   This amazing README! 
 ```
 
@@ -343,6 +344,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 145** | Playing Banjo | 8 kyu |  Solved |
 | **Day 146** | Sentence Smash | 8 kyu |  Solved |
 | **Day 147** | Take the Derivative| 8 kyu |  Solved |
+| **Day 148** | Messi's Goal Total | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
