@@ -169,6 +169,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day146/         Sentence Smash
     day147/         Take the Derivative
     day148/         Messi's Goal Total
+    day149/         Do you speak English?
   Documentation   This amazing README! 
 ```
 
@@ -345,6 +346,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 146** | Sentence Smash | 8 kyu |  Solved |
 | **Day 147** | Take the Derivative| 8 kyu |  Solved |
 | **Day 148** | Messi's Goal Total | 8 kyu |  Solved |
+| **Day 149** | Do you speak English? | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
