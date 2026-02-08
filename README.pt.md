@@ -169,6 +169,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day146/         Juntar Palavras
     day147/         Faça a Derivada
     day148/         Total de Gols do Messi
+    day149/         Você fala inglês?
  
 ```
 
@@ -345,6 +346,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 146** | Juntar Palavras | 8 kyu |  Resolvido |
 | **Dia 147** | Faça a Derivada | 8 kyu |  Resolvido |
 | **Dia 148** | Total de Gols do Messi | 8 kyu |  Resolvido |
+| **Dia 149** | Você fala inglês? | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
