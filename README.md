@@ -170,6 +170,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day147/         Take the Derivative
     day148/         Messi's Goal Total
     day149/         Do you speak English?
+    day150/         Enumerable Magic #25 - Take the First N Elements
   Documentation   This amazing README! 
 ```
 
@@ -347,6 +348,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 147** | Take the Derivative| 8 kyu |  Solved |
 | **Day 148** | Messi's Goal Total | 8 kyu |  Solved |
 | **Day 149** | Do you speak English? | 7 kyu |  Solved |
+| **Day 150** | Enumerable Magic #25 - Take the First N Elements | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
