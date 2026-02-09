@@ -170,6 +170,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day147/         Faça a Derivada
     day148/         Total de Gols do Messi
     day149/         Você fala inglês?
+    day150/         Magia Enumerável #25 - Pegue os Primeiros N Elementos
  
 ```
 
@@ -347,6 +348,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 147** | Faça a Derivada | 8 kyu |  Resolvido |
 | **Dia 148** | Total de Gols do Messi | 8 kyu |  Resolvido |
 | **Dia 149** | Você fala inglês? | 7 kyu |  Resolvido |
+| **Dia 150** | Magia Enumerável #25 - Pegue os Primeiros N Elementos | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
