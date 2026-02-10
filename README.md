@@ -171,6 +171,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day148/         Messi's Goal Total
     day149/         Do you speak English?
     day150/         Enumerable Magic #25 - Take the First N Elements
+    day151/         Keep up the hoop
   Documentation   This amazing README! 
 ```
 
@@ -349,6 +350,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 148** | Messi's Goal Total | 8 kyu |  Solved |
 | **Day 149** | Do you speak English? | 7 kyu |  Solved |
 | **Day 150** | Enumerable Magic #25 - Take the First N Elements | 8 kyu |  Solved |
+| **Day 151** | Keep up the hoop | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
