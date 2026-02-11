@@ -172,6 +172,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day149/         Do you speak English?
     day150/         Enumerable Magic #25 - Take the First N Elements
     day151/         Keep up the hoop
+    day152/         Find the Remainder
   Documentation   This amazing README! 
 ```
 
@@ -351,6 +352,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 149** | Do you speak English? | 7 kyu |  Solved |
 | **Day 150** | Enumerable Magic #25 - Take the First N Elements | 8 kyu |  Solved |
 | **Day 151** | Keep up the hoop | 8 kyu |  Solved |
+| **Day 152** | Find the Remainder | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
