@@ -172,6 +172,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day149/         Você fala inglês?
     day150/         Magia Enumerável #25 - Pegue os Primeiros N Elementos
     day151/         Continue com o bambolê
+    day152/         Encontre o Resto
  
 ```
 
@@ -351,6 +352,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 149** | Você fala inglês? | 7 kyu |  Resolvido |
 | **Dia 150** | Magia Enumerável #25 - Pegue os Primeiros N Elementos | 8 kyu |  Resolvido |
 | **Dia 151** | Continue com o bambolê | 8 kyu |  Resolvido |
+| **Dia 152** | Encontre o Resto | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
