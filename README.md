@@ -173,6 +173,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day150/         Enumerable Magic #25 - Take the First N Elements
     day151/         Keep up the hoop
     day152/         Find the Remainder
+    day153/         Get Character from ASCII Value
   Documentation   This amazing README! 
 ```
 
@@ -353,6 +354,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 150** | Enumerable Magic #25 - Take the First N Elements | 8 kyu |  Solved |
 | **Day 151** | Keep up the hoop | 8 kyu |  Solved |
 | **Day 152** | Find the Remainder | 8 kyu |  Solved |
+| **Day 153** | Get Character from ASCII Value | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
