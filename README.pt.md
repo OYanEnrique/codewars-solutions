@@ -175,6 +175,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day152/         Encontre o Resto
     day153/         Obter Caractere do Valor ASCII
     day154/         Capitalização alternada
+    day155/         Função 2 - elevar um argumento ao quadrado
  
 ```
 
@@ -357,6 +358,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 152** | Encontre o Resto | 8 kyu |  Resolvido |
 | **Dia 153** | Obter Caractere do Valor ASCII | 8 kyu |  Resolvido |
 | **Dia 154** | Capitalização alternada | 7 kyu |  Resolvido |
+| **Dia 155** | Função 2 - elevar um argumento ao quadrado | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
