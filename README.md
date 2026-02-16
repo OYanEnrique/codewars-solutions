@@ -176,6 +176,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day153/         Get Character from ASCII Value
     day154/         Alternate capitalization
     day155/         Function 2 - squaring an argument
+    day156/         Grasshopper - Array Mean
   Documentation   This amazing README! 
 ```
 
@@ -359,6 +360,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 153** | Get Character from ASCII Value | 8 kyu |  Solved |
 | **Day 154** | Alternate capitalization | 7 kyu |  Solved |
 | **Day 155** | Function 2 - squaring an argument | 8 kyu |  Solved |
+| **Day 156** | Grasshopper - Array Mean | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
