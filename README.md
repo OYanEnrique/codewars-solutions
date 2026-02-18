@@ -178,6 +178,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day155/         Function 2 - squaring an argument
     day156/         Grasshopper - Array Mean
     day157/         L1: Bartender, drinks!
+    day158/         Sum of a sequence
   Documentation   This amazing README! 
 ```
 
@@ -363,6 +364,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 155** | Function 2 - squaring an argument | 8 kyu |  Solved |
 | **Day 156** | Grasshopper - Array Mean | 8 kyu |  Solved |
 | **Day 157** | L1: Bartender, drinks! | 8 kyu |  Solved |
+| **Day 158** | Sum of a sequence | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
