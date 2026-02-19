@@ -179,6 +179,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day156/         Grasshopper - Média de Array
     day157/         L1: Bartender, bebidas!
     day158/         Soma de uma sequência
+    day159/         Hexadecimal para Decimal
  
 ```
 
@@ -365,6 +366,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 156** | Grasshopper - Média de Array | 8 kyu |  Resolvido |
 | **Dia 157** | L1: Bartender, bebidas! | 8 kyu |  Resolvido |
 | **Dia 158** | Soma de uma sequência | 7 kyu |  Resolvido |
+| **Dia 159** | Hexadecimal para Decimal | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
