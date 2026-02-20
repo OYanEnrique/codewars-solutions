@@ -180,6 +180,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day157/         L1: Bartender, drinks!
     day158/         Sum of a sequence
     day159/         Hex to Decimal
+    day160/         Transportation on vacation
   Documentation   This amazing README! 
 ```
 
@@ -367,6 +368,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 157** | L1: Bartender, drinks! | 8 kyu |  Solved |
 | **Day 158** | Sum of a sequence | 7 kyu |  Solved |
 | **Day 159** | Hex to Decimal | 8 kyu |  Solved |
+| **Day 160** | Transportation on vacation | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
