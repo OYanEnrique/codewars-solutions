@@ -181,6 +181,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day158/         Sum of a sequence
     day159/         Hex to Decimal
     day160/         Transportation on vacation
+    day161/         Welcome to the City
   Documentation   This amazing README! 
 ```
 
@@ -369,6 +370,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 158** | Sum of a sequence | 7 kyu |  Solved |
 | **Day 159** | Hex to Decimal | 8 kyu |  Solved |
 | **Day 160** | Transportation on vacation | 8 kyu |  Solved |
+| **Day 161** | Welcome to the City | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
