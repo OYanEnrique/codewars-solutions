@@ -182,6 +182,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day159/         Hexadecimal para Decimal
     day160/         Transporte nas férias
     day161/         Boas-vindas à Cidade
+    day162/         Adicionar Comprimento
  
 ```
 
@@ -371,6 +372,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 159** | Hexadecimal para Decimal | 8 kyu |  Resolvido |
 | **Dia 160** | Transporte nas férias | 8 kyu |  Resolvido |
 | **Dia 161** | Boas-vindas à Cidade | 8 kyu |  Resolvido |
+| **Dia 162** | Adicionar Comprimento | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
