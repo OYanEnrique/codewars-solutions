@@ -182,6 +182,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day159/         Hex to Decimal
     day160/         Transportation on vacation
     day161/         Welcome to the City
+    day162/         Add Length
   Documentation   This amazing README! 
 ```
 
@@ -371,6 +372,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 159** | Hex to Decimal | 8 kyu |  Solved |
 | **Day 160** | Transportation on vacation | 8 kyu |  Solved |
 | **Day 161** | Welcome to the City | 8 kyu |  Solved |
+| **Day 162** | Add Length | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
