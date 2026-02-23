@@ -183,6 +183,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day160/         Transporte nas férias
     day161/         Boas-vindas à Cidade
     day162/         Adicionar Comprimento
+    day163/         Grasshopper - função de gols do Messi
  
 ```
 
@@ -373,6 +374,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 160** | Transporte nas férias | 8 kyu |  Resolvido |
 | **Dia 161** | Boas-vindas à Cidade | 8 kyu |  Resolvido |
 | **Dia 162** | Adicionar Comprimento | 7 kyu |  Resolvido |
+| **Dia 163** | Grasshopper - função de gols do Messi | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
