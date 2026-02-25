@@ -185,6 +185,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day162/         Adicionar Comprimento
     day163/         Grasshopper - função de gols do Messi
     day164/         Mesclar dois arrays ordenados em um
+    day165/         Remover Elementos
  
 ```
 
@@ -377,6 +378,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 162** | Adicionar Comprimento | 7 kyu |  Resolvido |
 | **Dia 163** | Grasshopper - função de gols do Messi | 8 kyu |  Resolvido |
 | **Dia 164** | Mesclar dois arrays ordenados em um | 8 kyu |  Resolvido |
+| **Dia 165** | Remover Elementos | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 

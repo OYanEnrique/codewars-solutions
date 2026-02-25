@@ -185,6 +185,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day162/         Add Length
     day163/         Grasshopper - Messi goals function
     day164/         Merge two sorted arrays into one
+    day165/         Removing Elements
   Documentation   This amazing README! 
 ```
 
@@ -377,6 +378,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 162** | Add Length | 7 kyu |  Solved |
 | **Day 163** | Grasshopper - Messi goals function | 8 kyu |  Solved |
 | **Day 164** | Merge two sorted arrays into one | 8 kyu |  Solved |
+| **Day 165** | Removing Elements | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
