@@ -186,6 +186,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day163/         Grasshopper - função de gols do Messi
     day164/         Mesclar dois arrays ordenados em um
     day165/         Remover Elementos
+    day166/         Binário para Decimal
  
 ```
 
@@ -379,6 +380,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 163** | Grasshopper - função de gols do Messi | 8 kyu |  Resolvido |
 | **Dia 164** | Mesclar dois arrays ordenados em um | 8 kyu |  Resolvido |
 | **Dia 165** | Remover Elementos | 8 kyu |  Resolvido |
+| **Dia 166** | Binário para Decimal | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
