@@ -186,6 +186,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day163/         Grasshopper - Messi goals function
     day164/         Merge two sorted arrays into one
     day165/         Removing Elements
+    day166/         Bin to Decimal
   Documentation   This amazing README! 
 ```
 
@@ -379,6 +380,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 163** | Grasshopper - Messi goals function | 8 kyu |  Solved |
 | **Day 164** | Merge two sorted arrays into one | 8 kyu |  Solved |
 | **Day 165** | Removing Elements | 8 kyu |  Solved |
+| **Day 166** | Bin to Decimal | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
