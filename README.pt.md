@@ -187,6 +187,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day164/         Mesclar dois arrays ordenados em um
     day165/         Remover Elementos
     day166/         Binário para Decimal
+    day167/         USD para CNY
  
 ```
 
@@ -381,6 +382,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 164** | Mesclar dois arrays ordenados em um | 8 kyu |  Resolvido |
 | **Dia 165** | Remover Elementos | 8 kyu |  Resolvido |
 | **Dia 166** | Binário para Decimal | 8 kyu |  Resolvido |
+| **Dia 167** | USD para CNY | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
