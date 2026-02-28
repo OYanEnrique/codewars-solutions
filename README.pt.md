@@ -188,6 +188,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day165/         Remover Elementos
     day166/         Binário para Decimal
     day167/         USD para CNY
+    day168/         Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase
  
 ```
 
@@ -383,6 +384,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 165** | Remover Elementos | 8 kyu |  Resolvido |
 | **Dia 166** | Binário para Decimal | 8 kyu |  Resolvido |
 | **Dia 167** | USD para CNY | 8 kyu |  Resolvido |
+| **Dia 168** | Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
