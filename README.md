@@ -189,6 +189,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day166/         Bin to Decimal
     day167/         USD to CNY
     day168/         Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
+    day169/         Ones and Zeros
   Documentation   This amazing README! 
 ```
 
@@ -385,6 +386,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 166** | Bin to Decimal | 8 kyu |  Solved |
 | **Day 167** | USD to CNY | 8 kyu |  Solved |
 | **Day 168** | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence | 8 kyu |  Solved |
+| **Day 169** | Ones and Zeros | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
