@@ -189,6 +189,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day166/         Binário para Decimal
     day167/         USD para CNY
     day168/         Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase
+    day169/         Uns e Zeros
  
 ```
 
@@ -385,6 +386,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 166** | Binário para Decimal | 8 kyu |  Resolvido |
 | **Dia 167** | USD para CNY | 8 kyu |  Resolvido |
 | **Dia 168** | Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase | 8 kyu |  Resolvido |
+| **Dia 169** | Uns e Zeros | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
