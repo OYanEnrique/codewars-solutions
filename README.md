@@ -190,6 +190,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day167/         USD to CNY
     day168/         Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence
     day169/         Ones and Zeros
+    day170/         Surface Area and Volume of a Box
   Documentation   This amazing README! 
 ```
 
@@ -387,6 +388,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 167** | USD to CNY | 8 kyu |  Solved |
 | **Day 168** | Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence | 8 kyu |  Solved |
 | **Day 169** | Ones and Zeros | 7 kyu |  Solved |
+| **Day 170** | Surface Area and Volume of a Box | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
