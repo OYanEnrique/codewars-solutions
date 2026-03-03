@@ -191,6 +191,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day168/         Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase
     day169/         Uns e Zeros
     day170/         Área de Superfície e Volume de uma Caixa
+    day171/         Regex contar letras minúsculas
  
 ```
 
@@ -389,6 +390,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 168** | Série de pontos de exclamação #11: Substituir todas as vogais por ponto de exclamação na frase | 8 kyu |  Resolvido |
 | **Dia 169** | Uns e Zeros | 7 kyu |  Resolvido |
 | **Dia 170** | Área de Superfície e Volume de uma Caixa | 8 kyu |  Resolvido |
+| **Dia 171** | Regex contar letras minúsculas | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
