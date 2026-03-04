@@ -192,6 +192,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day169/         Uns e Zeros
     day170/         Área de Superfície e Volume de uma Caixa
     day171/         Regex contar letras minúsculas
+    day172/         Encontrar o número perdido
  
 ```
 
@@ -391,6 +392,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 169** | Uns e Zeros | 7 kyu |  Resolvido |
 | **Dia 170** | Área de Superfície e Volume de uma Caixa | 8 kyu |  Resolvido |
 | **Dia 171** | Regex contar letras minúsculas | 7 kyu |  Resolvido |
+| **Dia 172** | Encontrar o número perdido | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
