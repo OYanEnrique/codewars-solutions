@@ -192,6 +192,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day169/         Ones and Zeros
     day170/         Surface Area and Volume of a Box
     day171/         Regex count lowercase letters
+    day172/         Find the stray number
   Documentation   This amazing README! 
 ```
 
@@ -391,6 +392,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 169** | Ones and Zeros | 7 kyu |  Solved |
 | **Day 170** | Surface Area and Volume of a Box | 8 kyu |  Solved |
 | **Day 171** | Regex count lowercase letters | 7 kyu |  Solved |
+| **Day 172** | Find the stray number | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
