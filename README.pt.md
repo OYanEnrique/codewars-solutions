@@ -193,6 +193,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day170/         Área de Superfície e Volume de uma Caixa
     day171/         Regex contar letras minúsculas
     day172/         Encontrar o número perdido
+    day173/         Calculadora Simples
  
 ```
 
@@ -393,6 +394,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 170** | Área de Superfície e Volume de uma Caixa | 8 kyu |  Resolvido |
 | **Dia 171** | Regex contar letras minúsculas | 7 kyu |  Resolvido |
 | **Dia 172** | Encontrar o número perdido | 7 kyu |  Resolvido |
+| **Dia 173** | Calculadora Simples | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
