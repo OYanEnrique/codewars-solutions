@@ -195,6 +195,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day172/         Find the stray number
     day173/         Simple Calculator
     day174/         Formatting decimal places #0
+    day175/         The Wide-Mouthed frog!
   Documentation   This amazing README! 
 ```
 
@@ -397,6 +398,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 172** | Find the stray number | 7 kyu |  Solved |
 | **Day 173** | Simple Calculator | 8 kyu |  Solved |
 | **Day 174** | Formatting decimal places #0 | 8 kyu |  Solved |
+| **Day 175** | The Wide-Mouthed frog! | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
