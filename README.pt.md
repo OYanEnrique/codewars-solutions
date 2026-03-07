@@ -195,6 +195,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day172/         Encontrar o número perdido
     day173/         Calculadora Simples
     day174/         Formatação de casas decimais #0
+    day175/         O sapo de boca larga!
  
 ```
 
@@ -397,6 +398,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 172** | Encontrar o número perdido | 7 kyu |  Resolvido |
 | **Dia 173** | Calculadora Simples | 8 kyu |  Resolvido |
 | **Dia 174** | Formatação de casas decimais #0 | 8 kyu |  Resolvido |
+| **Dia 175** | O sapo de boca larga! | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
