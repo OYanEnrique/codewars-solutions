@@ -197,6 +197,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day174/         Formatação de casas decimais #0
     day175/         O sapo de boca larga!
     day176/         Alan Partridge II - Torta de Maçã
+    day177/         Trimestre do ano
  
 ```
 
@@ -401,6 +402,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 174** | Formatação de casas decimais #0 | 8 kyu |  Resolvido |
 | **Dia 175** | O sapo de boca larga! | 8 kyu |  Resolvido |
 | **Dia 176** | Alan Partridge II - Torta de Maçã | 8 kyu |  Resolvido |
+| **Dia 177** | Trimestre do ano | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
