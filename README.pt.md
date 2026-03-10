@@ -198,6 +198,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day175/         O sapo de boca larga!
     day176/         Alan Partridge II - Torta de Maçã
     day177/         Trimestre do ano
+    day178/         Strings Invertidas
  
 ```
 
@@ -403,6 +404,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 175** | O sapo de boca larga! | 8 kyu |  Resolvido |
 | **Dia 176** | Alan Partridge II - Torta de Maçã | 8 kyu |  Resolvido |
 | **Dia 177** | Trimestre do ano | 8 kyu |  Resolvido |
+| **Dia 178** | Strings Invertidas | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
