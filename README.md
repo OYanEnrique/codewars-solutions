@@ -199,6 +199,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day176/         Alan Partridge II - Apple Turnover
     day177/         Quarter of the year
     day178/         Reversed Strings
+    day179/         Lario and Muigi Pipe Problem
   Documentation   This amazing README! 
 ```
 
@@ -405,6 +406,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 176** | Alan Partridge II - Apple Turnover | 8 kyu |  Solved |
 | **Day 177** | Quarter of the year | 8 kyu |  Solved |
 | **Day 178** | Reversed Strings | 8 kyu |  Solved |
+| **Day 179** | Lario and Muigi Pipe Problem | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
