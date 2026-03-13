@@ -200,6 +200,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day177/         Quarter of the year
     day178/         Reversed Strings
     day179/         Lario and Muigi Pipe Problem
+    day180/         The Vowel Code
   Documentation   This amazing README! 
 ```
 
@@ -407,6 +408,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 177** | Quarter of the year | 8 kyu |  Solved |
 | **Day 178** | Reversed Strings | 8 kyu |  Solved |
 | **Day 179** | Lario and Muigi Pipe Problem | 8 kyu |  Solved |
+| **Day 180** | The Vowel Code | 6 kyu |  Solved |
 
 ##  Tech Stacks
 
