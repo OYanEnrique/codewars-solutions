@@ -201,6 +201,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day178/         Strings Invertidas
     day179/         Problema do Cano do Lario e Muigi
     day180/         O Codigo das Vogais
+    day181/         Soma de numeros de 0 a N
  
 ```
 
@@ -409,6 +410,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 178** | Strings Invertidas | 8 kyu |  Resolvido |
 | **Dia 179** | Problema do Cano do Lario e Muigi | 8 kyu |  Resolvido |
 | **Dia 180** | O Codigo das Vogais | 6 kyu |  Resolvido |
+| **Dia 181** | Soma de numeros de 0 a N | 7 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
