@@ -202,6 +202,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day179/         Lario and Muigi Pipe Problem
     day180/         The Vowel Code
     day181/         Sum of numbers from 0 to N
+    day182/         Area or Perimeter
   Documentation   This amazing README! 
 ```
 
@@ -411,6 +412,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 179** | Lario and Muigi Pipe Problem | 8 kyu |  Solved |
 | **Day 180** | The Vowel Code | 6 kyu |  Solved |
 | **Day 181** | Sum of numbers from 0 to N | 7 kyu |  Solved |
+| **Day 182** | Area or Perimeter | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
