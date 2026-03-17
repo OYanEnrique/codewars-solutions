@@ -204,6 +204,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day181/         Soma de numeros de 0 a N
     day182/         Area ou Perimetro
     day183/         Fundamentos: Retorno
+    day184/         Remover o Primeiro e o Último Caractere Parte Dois
  
 ```
 
@@ -415,6 +416,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 181** | Soma de numeros de 0 a N | 7 kyu |  Resolvido |
 | **Dia 182** | Area ou Perimetro | 8 kyu |  Resolvido |
 | **Dia 183** | Fundamentos: Retorno | 8 kyu |  Resolvido |
+| **Dia 184** | Remover o Primeiro e o Último Caractere Parte Dois | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
