@@ -206,6 +206,9 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day183/         Fundamentos: Retorno
     day184/         Remover o Primeiro e o Último Caractere Parte Dois
     day185/         Qual é o piso de verdade?
+    day186/         Boas vindas!
+
+
  
 ```
 
@@ -419,6 +422,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 183** | Fundamentos: Retorno | 8 kyu |  Resolvido |
 | **Dia 184** | Remover o Primeiro e o Último Caractere Parte Dois | 8 kyu |  Resolvido |
 | **Dia 185** | Qual é o piso de verdade? | 8 kyu |  Resolvido |
+| **Dia 186** | Boas vindas! | 8 kyu |  Resolvido |
 
 ##  Stack Tecnológica
 
