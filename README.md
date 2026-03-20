@@ -206,6 +206,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day183/         Fundamentals: Return
     day184/         Remove First and Last Character Part Two
     day185/         What's the real floor?
+    day186/         Welcome!
+
 
   Documentation   This amazing README! 
 ```
@@ -420,6 +422,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 183** | Fundamentals: Return | 8 kyu |  Solved |
 | **Day 184** | Remove First and Last Character Part Two | 8 kyu |  Solved |
 | **Day 185** | What's the real floor? | 8 kyu |  Solved |
+| **Day 186** | Welcome! | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
