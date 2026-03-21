@@ -208,10 +208,9 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day185/         What's the real floor?
     day186/         Welcome!
     day187/         Check same case
+    day188/         Sort array by string length
 
 
-
-  Documentation   This amazing README! 
 ```
 
 ##  Quick Start
@@ -426,6 +425,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 185** | What's the real floor? | 8 kyu |  Solved |
 | **Day 186** | Welcome! | 8 kyu |  Solved |
 | **Day 187** | Check same case | 8 kyu |  Solved |
+| **Day 188** | Sort array by string length | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
