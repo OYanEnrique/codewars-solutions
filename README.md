@@ -209,6 +209,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day186/         Welcome!
     day187/         Check same case
     day188/         Sort array by string length
+    day189/         Sorted? yes? no? how?
+
 
 
 ```
@@ -426,6 +428,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 186** | Welcome! | 8 kyu |  Solved |
 | **Day 187** | Check same case | 8 kyu |  Solved |
 | **Day 188** | Sort array by string length | 7 kyu |  Solved |
+| **Day 189** | Sorted? yes? no? how? | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
