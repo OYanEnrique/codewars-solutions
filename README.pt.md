@@ -210,6 +210,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day187/         Verificar se a capitalização é a mesma
     day188/         Ordenar array por comprimento da string
     day189/         Organizado? sim? não? como?
+    day190/         Treinamento JS nº 7: if..else e operador ternário
  
 
 ```
@@ -428,6 +429,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 187** | Verificar se a capitalização é a mesma | 8 kyu |  Resolvido |
 | **Dia 188** | Ordenar array por comprimento da string | 7 kyu |  Resolvido |
 | **Dia 189** | Organizado? sim? não? como? | 7 kyu |  Resolvido |
+| **Dia 190** | Treinamento JS nº 7: if..else e operador ternário | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
