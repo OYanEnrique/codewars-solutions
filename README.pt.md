@@ -211,6 +211,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day188/         Ordenar array por comprimento da string
     day189/         Organizado? sim? não? como?
     day190/         Treinamento JS nº 7: if..else e operador ternário
+    day191/         Preveja sua idade!
  
 
 ```
@@ -430,6 +431,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 188** | Ordenar array por comprimento da string | 7 kyu |  Resolvido |
 | **Dia 189** | Organizado? sim? não? como? | 7 kyu |  Resolvido |
 | **Dia 190** | Treinamento JS nº 7: if..else e operador ternário | 8 kyu |  Resolvido |
+| **Dia 191** | Preveja sua idade! | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
