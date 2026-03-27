@@ -211,6 +211,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day188/         Sort array by string length
     day189/         Sorted? yes? no? how?
     day190/         Training JS #7: if..else and ternary operator
+    day191/         Predict your age!
 
 
 ```
@@ -430,6 +431,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 188** | Sort array by string length | 7 kyu |  Solved |
 | **Day 189** | Sorted? yes? no? how? | 7 kyu |  Solved |
 | **Day 190** | Training JS #7: if..else and ternary operator | 8 kyu |  Solved |
+| **Day 191** | Predict your age! | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
