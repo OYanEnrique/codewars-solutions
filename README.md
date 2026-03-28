@@ -212,6 +212,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day189/         Sorted? yes? no? how?
     day190/         Training JS #7: if..else and ternary operator
     day191/         Predict your age!
+    day192/         Simple validation of a username with regex
 
 
 ```
@@ -432,6 +433,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 189** | Sorted? yes? no? how? | 7 kyu |  Solved |
 | **Day 190** | Training JS #7: if..else and ternary operator | 8 kyu |  Solved |
 | **Day 191** | Predict your age! | 7 kyu |  Solved |
+| **Day 192** | Simple validation of a username with regex | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
