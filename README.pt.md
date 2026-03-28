@@ -212,6 +212,8 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day189/         Organizado? sim? não? como?
     day190/         Treinamento JS nº 7: if..else e operador ternário
     day191/         Preveja sua idade!
+    day192/         Validação simples de um nome de usuário com regex
+
  
 
 ```
@@ -432,6 +434,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 189** | Organizado? sim? não? como? | 7 kyu |  Resolvido |
 | **Dia 190** | Treinamento JS nº 7: if..else e operador ternário | 8 kyu |  Resolvido |
 | **Dia 191** | Preveja sua idade! | 7 kyu |  Resolvido |
+| **Dia 192** | Validação simples de um nome de usuário com regex | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
