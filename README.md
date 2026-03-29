@@ -214,6 +214,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day191/         Predict your age!
     day192/         Simple validation of a username with regex
     day193/         Holiday VIII - Duty Free
+    day194/         Bumps in the Road
 
 
 ```
@@ -436,6 +437,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 191** | Predict your age! | 7 kyu |  Solved |
 | **Day 192** | Simple validation of a username with regex | 8 kyu |  Solved |
 | **Day 193** | Holiday VIII - Duty Free | 8 kyu |  Solved |
+| **Day 194** | Bumps in the Road | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
