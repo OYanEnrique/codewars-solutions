@@ -213,6 +213,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day190/         Training JS #7: if..else and ternary operator
     day191/         Predict your age!
     day192/         Simple validation of a username with regex
+    day193/         Holiday VIII - Duty Free
 
 
 ```
@@ -434,6 +435,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 190** | Training JS #7: if..else and ternary operator | 8 kyu |  Solved |
 | **Day 191** | Predict your age! | 7 kyu |  Solved |
 | **Day 192** | Simple validation of a username with regex | 8 kyu |  Solved |
+| **Day 193** | Holiday VIII - Duty Free | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
