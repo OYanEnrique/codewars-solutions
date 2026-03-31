@@ -215,6 +215,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day192/         Validação simples de um nome de usuário com regex
     day193/         Férias VIII - Livre de Impostos
     day194/         Obstáculos na Estrada
+    day195/         Quem comeu o biscoito?
 
  
 ```
@@ -438,6 +439,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 192** | Validação simples de um nome de usuário com regex | 8 kyu |  Resolvido |
 | **Dia 193** | Férias VIII - Livre de Impostos | 8 kyu |  Resolvido |
 | **Dia 194** | Obstáculos na Estrada | 8 kyu |  Resolvido |
+| **Dia 195** | Quem comeu o biscoito? | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
