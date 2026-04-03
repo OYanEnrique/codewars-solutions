@@ -218,6 +218,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day195/         Who ate the cookie?
     day196/         Exclamation marks series #2: Remove all exclamation marks from the end of sentence
     day197/         Greet Me
+    day198/         All Star Code Challenge #18
 
 
 ```
@@ -444,6 +445,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 195** | Who ate the cookie? | 8 kyu |  Solved |
 | **Day 196** | Exclamation marks series #2: Remove all exclamation marks from the end of sentence | 8 kyu |  Solved |
 | **Day 197** | Greet Me | 7 kyu |  Solved |
+| **Day 198** | All Star Code Challenge #18 | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
