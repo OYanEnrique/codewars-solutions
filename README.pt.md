@@ -219,6 +219,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day196/         Pontos de exclamação série #2: Remova todos os pontos de exclamação do final da frase
     day197/         Cumprimente-me
     day198/         Desafio de Código All Star #18
+    day199/         Noções básicas de expressões regulares - é um dígito?
 
  
 ```
@@ -446,6 +447,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 196** | Pontos de exclamação série #2: Remova todos os pontos de exclamação do final da frase | 8 kyu |  Resolvido |
 | **Dia 197** | Cumprimente-me | 7 kyu |  Resolvido |
 | **Dia 198** | Desafio de Código All Star #18 | 8 kyu |  Resolvido |
+| **Dia 199** | Noções básicas de expressões regulares - é um dígito? | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
