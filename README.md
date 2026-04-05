@@ -221,6 +221,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day198/         All Star Code Challenge #18
     day199/         Regexp Basics - is it a digit?
     day200/         Contamination #1 -String-
+    day201/         Number of Decimal Digits
 
 
 ```
@@ -450,6 +451,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 198** | All Star Code Challenge #18 | 8 kyu |  Solved |
 | **Day 199** | Regexp Basics - is it a digit? | 8 kyu |  Solved |
 | **Day 200** | Contamination #1 -String- | 8 kyu |  Solved |
+| **Day 201** | Number of Decimal Digits | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
