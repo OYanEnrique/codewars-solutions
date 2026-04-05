@@ -220,6 +220,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day197/         Greet Me
     day198/         All Star Code Challenge #18
     day199/         Regexp Basics - is it a digit?
+    day200/         Contamination #1 -String-
 
 
 ```
@@ -448,6 +449,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 197** | Greet Me | 7 kyu |  Solved |
 | **Day 198** | All Star Code Challenge #18 | 8 kyu |  Solved |
 | **Day 199** | Regexp Basics - is it a digit? | 8 kyu |  Solved |
+| **Day 200** | Contamination #1 -String- | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
