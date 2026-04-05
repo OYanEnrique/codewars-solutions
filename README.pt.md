@@ -220,6 +220,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day197/         Cumprimente-me
     day198/         Desafio de Código All Star #18
     day199/         Noções básicas de expressões regulares - é um dígito?
+    day200/         Contaminação #1 -String-
 
  
 ```
@@ -448,6 +449,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 197** | Cumprimente-me | 7 kyu |  Resolvido |
 | **Dia 198** | Desafio de Código All Star #18 | 8 kyu |  Resolvido |
 | **Dia 199** | Noções básicas de expressões regulares - é um dígito? | 8 kyu |  Resolvido |
+| **Dia 200** | Contaminação #1 -String- | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
