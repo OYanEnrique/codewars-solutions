@@ -222,6 +222,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day199/         Regexp Basics - is it a digit?
     day200/         Contamination #1 -String-
     day201/         Number of Decimal Digits
+    day202/         Flatten and sort an array
 
 
 ```
@@ -452,6 +453,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 199** | Regexp Basics - is it a digit? | 8 kyu |  Solved |
 | **Day 200** | Contamination #1 -String- | 8 kyu |  Solved |
 | **Day 201** | Number of Decimal Digits | 7 kyu |  Solved |
+| **Day 202** | Flatten and sort an array | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
