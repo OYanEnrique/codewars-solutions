@@ -222,6 +222,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day199/         Noções básicas de expressões regulares - é um dígito?
     day200/         Contaminação #1 -String-
     day201/         Número de Dígitos Decimais
+    day202/         Achatar e ordenar um array
 
  
 ```
@@ -452,6 +453,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 199** | Noções básicas de expressões regulares - é um dígito? | 8 kyu |  Resolvido |
 | **Dia 200** | Contaminação #1 -String- | 8 kyu |  Resolvido |
 | **Dia 201** | Número de Dígitos Decimais | 7 kyu |  Resolvido |
+| **Dia 202** | Achatar e ordenar um array | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
