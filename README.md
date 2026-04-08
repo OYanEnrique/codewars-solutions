@@ -224,6 +224,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day201/         Number of Decimal Digits
     day202/         Flatten and sort an array
     day203/         The Coupon Code
+    day204/         Maximum subarray sum
 
 
 ```
@@ -456,6 +457,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 201** | Number of Decimal Digits | 7 kyu |  Solved |
 | **Day 202** | Flatten and sort an array | 7 kyu |  Solved |
 | **Day 203** | The Coupon Code | 7 kyu |  Solved |
+| **Day 204** | Maximum subarray sum | 5 kyu |  Solved |
 
 
 ##  Tech Stacks
