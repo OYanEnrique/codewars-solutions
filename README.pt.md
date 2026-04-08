@@ -224,6 +224,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day201/         Número de Dígitos Decimais
     day202/         Achatar e ordenar um array
     day203/         O Código do Cupom
+    day204/         Soma máxima de subarray
 
  
 ```
@@ -456,6 +457,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 201** | Número de Dígitos Decimais | 7 kyu |  Resolvido |
 | **Dia 202** | Achatar e ordenar um array | 7 kyu |  Resolvido |
 | **Dia 203** | O Código do Cupom | 7 kyu |  Resolvido |
+| **Dia 204** | Soma máxima de subarray | 5 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
