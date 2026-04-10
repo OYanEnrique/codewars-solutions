@@ -225,6 +225,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day202/         Achatar e ordenar um array
     day203/         O Código do Cupom
     day204/         Soma máxima de subarray
+    day205/         Limpeza de Strings
 
  
 ```
@@ -458,6 +459,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 202** | Achatar e ordenar um array | 7 kyu |  Resolvido |
 | **Dia 203** | O Código do Cupom | 7 kyu |  Resolvido |
 | **Dia 204** | Soma máxima de subarray | 5 kyu |  Resolvido |
+| **Dia 205** | Limpeza de Strings | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
