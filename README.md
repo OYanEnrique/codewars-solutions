@@ -227,6 +227,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day204/         Maximum subarray sum
     day205/         String cleaning
     day206/         Grasshopper - Combine strings
+    day207/         Validate code with simple regex
 
 
 ```
@@ -462,6 +463,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 204** | Maximum subarray sum | 5 kyu |  Solved |
 | **Day 205** | String cleaning | 8 kyu |  Solved |
 | **Day 206** | Grasshopper - Combine strings | 8 kyu |  Solved |
+| **Day 207** | Validate code with simple regex | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
