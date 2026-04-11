@@ -226,6 +226,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day203/         The Coupon Code
     day204/         Maximum subarray sum
     day205/         String cleaning
+    day206/         Grasshopper - Combine strings
 
 
 ```
@@ -460,6 +461,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 203** | The Coupon Code | 7 kyu |  Solved |
 | **Day 204** | Maximum subarray sum | 5 kyu |  Solved |
 | **Day 205** | String cleaning | 8 kyu |  Solved |
+| **Day 206** | Grasshopper - Combine strings | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
