@@ -228,6 +228,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day205/         String cleaning
     day206/         Grasshopper - Combine strings
     day207/         Validate code with simple regex
+    day208/         Leonardo Dicaprio and Oscars
 
 
 ```
@@ -464,6 +465,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 205** | String cleaning | 8 kyu |  Solved |
 | **Day 206** | Grasshopper - Combine strings | 8 kyu |  Solved |
 | **Day 207** | Validate code with simple regex | 8 kyu |  Solved |
+| **Day 208** | Leonardo Dicaprio and Oscars | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
