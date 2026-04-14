@@ -228,6 +228,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day205/         Limpeza de Strings
     day206/         Grasshopper - Combinar strings
     day207/         Validar código com regex simples
+    day208/         Leonardo Dicaprio e Oscars
 
  
 ```
@@ -464,6 +465,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 205** | Limpeza de Strings | 8 kyu |  Resolvido |
 | **Dia 206** | Grasshopper - Combinar strings | 8 kyu |  Resolvido |
 | **Dia 207** | Validar código com regex simples | 8 kyu |  Resolvido |
+| **Dia 208** | Leonardo Dicaprio e Oscars | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
