@@ -230,6 +230,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day207/         Validar código com regex simples
     day208/         Leonardo Dicaprio e Oscars
     day209/         Nome no outdoor
+    day210/         Descubra se a forma é um cubo
 
  
 ```
@@ -468,6 +469,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 207** | Validar código com regex simples | 8 kyu |  Resolvido |
 | **Dia 208** | Leonardo Dicaprio e Oscars | 8 kyu |  Resolvido |
 | **Dia 209** | Nome no outdoor | 8 kyu |  Resolvido |
+| **Dia 210** | Descubra se a forma é um cubo | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
