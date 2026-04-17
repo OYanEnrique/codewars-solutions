@@ -230,6 +230,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day207/         Validate code with simple regex
     day208/         Leonardo Dicaprio and Oscars
     day209/         Name on billboard
+    day210/         Find out whether the shape is a cube
 
 
 ```
@@ -468,6 +469,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 207** | Validate code with simple regex | 8 kyu |  Solved |
 | **Day 208** | Leonardo Dicaprio and Oscars | 8 kyu |  Solved |
 | **Day 209** | Name on billboard | 8 kyu |  Solved |
+| **Day 210** | Find out whether the shape is a cube | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
