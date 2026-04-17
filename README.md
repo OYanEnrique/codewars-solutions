@@ -231,6 +231,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day208/         Leonardo Dicaprio and Oscars
     day209/         Name on billboard
     day210/         Find out whether the shape is a cube
+    day211/         Love vs friendship
 
 
 ```
@@ -470,6 +471,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 208** | Leonardo Dicaprio and Oscars | 8 kyu |  Solved |
 | **Day 209** | Name on billboard | 8 kyu |  Solved |
 | **Day 210** | Find out whether the shape is a cube | 8 kyu |  Solved |
+| **Day 211** | Love vs friendship | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
