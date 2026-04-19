@@ -232,6 +232,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day209/         Name on billboard
     day210/         Find out whether the shape is a cube
     day211/         Love vs friendship
+    day212/         Regex Password Validation
 
 
 ```
@@ -472,6 +473,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 209** | Name on billboard | 8 kyu |  Solved |
 | **Day 210** | Find out whether the shape is a cube | 8 kyu |  Solved |
 | **Day 211** | Love vs friendship | 7 kyu |  Solved |
+| **Day 212** | Regex Password Validation | 5 kyu |  Solved |
 
 
 ##  Tech Stacks
