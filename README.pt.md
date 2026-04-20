@@ -233,6 +233,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day210/         Descubra se a forma é um cubo
     day211/         Amor vs amizade
     day212/         Validação de Senha com Regex
+    day213/         Preço das Mangas
 
  
 ```
@@ -474,6 +475,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 210** | Descubra se a forma é um cubo | 8 kyu |  Resolvido |
 | **Dia 211** | Amor vs amizade | 7 kyu |  Resolvido |
 | **Dia 212** | Validação de Senha com Regex | 5 kyu |  Resolvido |
+| **Dia 213** | Preço das Mangas | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
