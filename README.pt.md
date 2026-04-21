@@ -235,6 +235,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day212/         Validação de Senha com Regex
     day213/         Preço das Mangas
     day214/         Mais dígitos
+    day215/         Corrigir maiúsculas e minúsculas da string
 
  
 ```
@@ -478,6 +479,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 212** | Validação de Senha com Regex | 5 kyu |  Resolvido |
 | **Dia 213** | Preço das Mangas | 8 kyu |  Resolvido |
 | **Dia 214** | Mais dígitos | 7 kyu |  Resolvido |
+| **Dia 215** | Corrigir maiúsculas e minúsculas da string | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
