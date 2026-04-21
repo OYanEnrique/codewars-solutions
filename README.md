@@ -235,6 +235,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day212/         Regex Password Validation
     day213/         Price of Mangoes
     day214/         Most digits
+    day215/         Fix string case
 
 
 ```
@@ -478,6 +479,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 212** | Regex Password Validation | 5 kyu |  Solved |
 | **Day 213** | Price of Mangoes | 8 kyu |  Solved |
 | **Day 214** | Most digits | 7 kyu |  Solved |
+| **Day 215** | Fix string case | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
