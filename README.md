@@ -234,6 +234,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day211/         Love vs friendship
     day212/         Regex Password Validation
     day213/         Price of Mangoes
+    day214/         Most digits
 
 
 ```
@@ -476,6 +477,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 211** | Love vs friendship | 7 kyu |  Solved |
 | **Day 212** | Regex Password Validation | 5 kyu |  Solved |
 | **Day 213** | Price of Mangoes | 8 kyu |  Solved |
+| **Day 214** | Most digits | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
