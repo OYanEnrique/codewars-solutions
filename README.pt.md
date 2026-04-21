@@ -234,6 +234,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day211/         Amor vs amizade
     day212/         Validação de Senha com Regex
     day213/         Preço das Mangas
+    day214/         Mais dígitos
 
  
 ```
@@ -476,6 +477,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 211** | Amor vs amizade | 7 kyu |  Resolvido |
 | **Dia 212** | Validação de Senha com Regex | 5 kyu |  Resolvido |
 | **Dia 213** | Preço das Mangas | 8 kyu |  Resolvido |
+| **Dia 214** | Mais dígitos | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
