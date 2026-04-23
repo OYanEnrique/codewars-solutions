@@ -236,6 +236,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day213/         Preço das Mangas
     day214/         Mais dígitos
     day215/         Corrigir maiúsculas e minúsculas da string
+    day216/         Obter valor ASCII de um caractere
 
  
 ```
@@ -480,6 +481,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 213** | Preço das Mangas | 8 kyu |  Resolvido |
 | **Dia 214** | Mais dígitos | 7 kyu |  Resolvido |
 | **Dia 215** | Corrigir maiúsculas e minúsculas da string | 7 kyu |  Resolvido |
+| **Dia 216** | Obter valor ASCII de um caractere | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
