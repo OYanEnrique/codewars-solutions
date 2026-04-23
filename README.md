@@ -236,6 +236,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day213/         Price of Mangoes
     day214/         Most digits
     day215/         Fix string case
+    day216/         Get ascii value of character
 
 
 ```
@@ -480,6 +481,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 213** | Price of Mangoes | 8 kyu |  Solved |
 | **Day 214** | Most digits | 7 kyu |  Solved |
 | **Day 215** | Fix string case | 7 kyu |  Solved |
+| **Day 216** | Get ascii value of character | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
