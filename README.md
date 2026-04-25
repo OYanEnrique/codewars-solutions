@@ -238,6 +238,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day215/         Fix string case
     day216/         Get ascii value of character
     day217/         Double Char
+    day218/         Build Tower
 
 
 ```
@@ -484,6 +485,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 215** | Fix string case | 7 kyu |  Solved |
 | **Day 216** | Get ascii value of character | 8 kyu |  Solved |
 | **Day 217** | Double Char | 8 kyu |  Solved |
+| **Day 218** | Build Tower | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
