@@ -237,6 +237,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day214/         Most digits
     day215/         Fix string case
     day216/         Get ascii value of character
+    day217/         Double Char
 
 
 ```
@@ -482,6 +483,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 214** | Most digits | 7 kyu |  Solved |
 | **Day 215** | Fix string case | 7 kyu |  Solved |
 | **Day 216** | Get ascii value of character | 8 kyu |  Solved |
+| **Day 217** | Double Char | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
