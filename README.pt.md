@@ -239,6 +239,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day216/         Obter valor ASCII de um caractere
     day217/         Caractere Duplo
     day218/         Construir Torre
+    day219/         Exemplo de Kata com um Diferencial
 
  
 ```
@@ -486,6 +487,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 216** | Obter valor ASCII de um caractere | 8 kyu |  Resolvido |
 | **Dia 217** | Caractere Duplo | 8 kyu |  Resolvido |
 | **Dia 218** | Construir Torre | 6 kyu |  Resolvido |
+| **Dia 219** | Exemplo de Kata com um Diferencial | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
