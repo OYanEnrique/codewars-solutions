@@ -239,6 +239,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day216/         Get ascii value of character
     day217/         Double Char
     day218/         Build Tower
+    day219/         Kata Example Twist
 
 
 ```
@@ -486,6 +487,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 216** | Get ascii value of character | 8 kyu |  Solved |
 | **Day 217** | Double Char | 8 kyu |  Solved |
 | **Day 218** | Build Tower | 6 kyu |  Solved |
+| **Day 219** | Kata Example Twist | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
