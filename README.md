@@ -242,6 +242,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day219/         Kata Example Twist
     day220/         Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
     day221/         Multiply the number
+    day222/         Sum of angles
 
 
 ```
@@ -492,6 +493,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 219** | Kata Example Twist | 8 kyu |  Solved |
 | **Day 220** | Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right | 8 kyu |  Solved |
 | **Day 221** | Multiply the number | 8 kyu |  Solved |
+| **Day 222** | Sum of angles | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
