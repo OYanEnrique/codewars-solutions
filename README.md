@@ -240,6 +240,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day217/         Double Char
     day218/         Build Tower
     day219/         Kata Example Twist
+    day220/         Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right
 
 
 ```
@@ -488,6 +489,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 217** | Double Char | 8 kyu |  Solved |
 | **Day 218** | Build Tower | 6 kyu |  Solved |
 | **Day 219** | Kata Example Twist | 8 kyu |  Solved |
+| **Day 220** | Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
