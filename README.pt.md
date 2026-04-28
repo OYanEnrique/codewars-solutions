@@ -240,6 +240,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day217/         Caractere Duplo
     day218/         Construir Torre
     day219/         Exemplo de Kata com um Diferencial
+    day220/         Série de pontos de exclamação #6: Remova n pontos de exclamação na frase da esquerda para a direita
 
  
 ```
@@ -488,6 +489,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 217** | Caractere Duplo | 8 kyu |  Resolvido |
 | **Dia 218** | Construir Torre | 6 kyu |  Resolvido |
 | **Dia 219** | Exemplo de Kata com um Diferencial | 8 kyu |  Resolvido |
+| **Dia 220** | Série de pontos de exclamação #6: Remova n pontos de exclamação na frase da esquerda para a direita | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
