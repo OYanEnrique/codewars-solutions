@@ -243,6 +243,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day220/         Série de pontos de exclamação #6: Remova n pontos de exclamação na frase da esquerda para a direita
     day221/         Multiplique o número
     day222/         Soma dos ângulos
+    day223/         Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre
 
  
 ```
@@ -494,6 +495,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 220** | Série de pontos de exclamação #6: Remova n pontos de exclamação na frase da esquerda para a direita | 8 kyu |  Resolvido |
 | **Dia 221** | Multiplique o número | 8 kyu |  Resolvido |
 | **Dia 222** | Soma dos ângulos | 7 kyu |  Resolvido |
+| **Dia 223** | Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
