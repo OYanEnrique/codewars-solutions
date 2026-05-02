@@ -495,7 +495,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 220** | Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right | 8 kyu |  Solved |
 | **Day 221** | Multiply the number | 8 kyu |  Solved |
 | **Day 222** | Sum of angles | 7 kyu |  Solved |
-| **Day223** | For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre | 8 kyu |  Solved |
+| **Day 223** | For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
