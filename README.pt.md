@@ -245,6 +245,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day222/         Soma dos ângulos
     day223/         Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre
     day224/         Filtrar o número
+    day225/         Adição Binária
 
  
 ```
@@ -498,6 +499,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 222** | Soma dos ângulos | 7 kyu |  Resolvido |
 | **Dia 223** | Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre | 8 kyu |  Resolvido |
 | **Dia 224** | Filtrar o número | 7 kyu |  Resolvido |
+| **Dia 225** | Adição Binária | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
