@@ -244,6 +244,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day221/         Multiply the number
     day222/         Sum of angles
     day223/         For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
+    day224/         Filter the number
 
 
 ```
@@ -496,6 +497,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 221** | Multiply the number | 8 kyu |  Solved |
 | **Day 222** | Sum of angles | 7 kyu |  Solved |
 | **Day 223** | For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre | 8 kyu |  Solved |
+| **Day 224** | Filter the number | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
