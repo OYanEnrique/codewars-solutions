@@ -246,6 +246,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day223/         Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre
     day224/         Filtrar o número
     day225/         Adição Binária
+    day226/         Classes Elegantes
 
  
 ```
@@ -500,6 +501,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 223** | Para Fãs de UFC (Total Iniciantes): Conor McGregor vs George Saint Pierre | 8 kyu |  Resolvido |
 | **Dia 224** | Filtrar o número | 7 kyu |  Resolvido |
 | **Dia 225** | Adição Binária | 7 kyu |  Resolvido |
+| **Dia 226** | Classes Elegantes | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
