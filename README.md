@@ -246,6 +246,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day223/         For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre
     day224/         Filter the number
     day225/         Binary Addition
+    day226/         Classy Classes
 
 
 ```
@@ -500,6 +501,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 223** | For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre | 8 kyu |  Solved |
 | **Day 224** | Filter the number | 7 kyu |  Solved |
 | **Day 225** | Binary Addition | 7 kyu |  Solved |
+| **Day 226** | Classy Classes | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
