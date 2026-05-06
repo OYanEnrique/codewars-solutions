@@ -247,6 +247,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day224/         Filter the number
     day225/         Binary Addition
     day226/         Classy Classes
+    day227/         Printing Array elements with Comma delimiters
 
 
 ```
@@ -502,6 +503,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 224** | Filter the number | 7 kyu |  Solved |
 | **Day 225** | Binary Addition | 7 kyu |  Solved |
 | **Day 226** | Classy Classes | 8 kyu |  Solved |
+| **Day 227** | Printing Array elements with Comma delimiters | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
