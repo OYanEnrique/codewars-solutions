@@ -248,6 +248,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day225/         Adição Binária
     day226/         Classes Elegantes
     day227/         Imprimindo elementos do array com delimitadores de vírgula
+    day228/         Potência
 
  
 ```
@@ -504,6 +505,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 225** | Adição Binária | 7 kyu |  Resolvido |
 | **Dia 226** | Classes Elegantes | 8 kyu |  Resolvido |
 | **Dia 227** | Imprimindo elementos do array com delimitadores de vírgula | 8 kyu |  Resolvido |
+| **Dia 228** | Potência | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
