@@ -248,6 +248,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day225/         Binary Addition
     day226/         Classy Classes
     day227/         Printing Array elements with Comma delimiters
+    day228/         Power
 
 
 ```
@@ -504,6 +505,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 225** | Binary Addition | 7 kyu |  Solved |
 | **Day 226** | Classy Classes | 8 kyu |  Solved |
 | **Day 227** | Printing Array elements with Comma delimiters | 8 kyu |  Solved |
+| **Day 228** | Power | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
