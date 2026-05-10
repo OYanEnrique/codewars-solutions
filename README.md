@@ -250,6 +250,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day227/         Printing Array elements with Comma delimiters
     day228/         Power
     day229/         Max diff - easy
+    day230/         Compare within margin
+
 
 
 ```
@@ -508,6 +510,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 227** | Printing Array elements with Comma delimiters | 8 kyu |  Solved |
 | **Day 228** | Power | 8 kyu |  Solved |
 | **Day 229** | Max diff - easy | 7 kyu |  Solved |
+| **Day 230** | Compare within margin | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
