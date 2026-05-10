@@ -249,6 +249,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day226/         Classes Elegantes
     day227/         Imprimindo elementos do array com delimitadores de vírgula
     day228/         Potência
+    day229/         Diferença máxima - fácil
 
  
 ```
@@ -506,6 +507,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 226** | Classes Elegantes | 8 kyu |  Resolvido |
 | **Dia 227** | Imprimindo elementos do array com delimitadores de vírgula | 8 kyu |  Resolvido |
 | **Dia 228** | Potência | 8 kyu |  Resolvido |
+| **Dia 229** | Diferença máxima - fácil | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
