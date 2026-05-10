@@ -249,6 +249,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day226/         Classy Classes
     day227/         Printing Array elements with Comma delimiters
     day228/         Power
+    day229/         Max diff - easy
 
 
 ```
@@ -506,6 +507,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 226** | Classy Classes | 8 kyu |  Solved |
 | **Day 227** | Printing Array elements with Comma delimiters | 8 kyu |  Solved |
 | **Day 228** | Power | 8 kyu |  Solved |
+| **Day 229** | Max diff - easy | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
