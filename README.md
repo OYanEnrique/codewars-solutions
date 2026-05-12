@@ -251,6 +251,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day228/         Power
     day229/         Max diff - easy
     day230/         Compare within margin
+    day231/         UEFA EURO 2016
 
 
 
@@ -511,6 +512,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 228** | Power | 8 kyu |  Solved |
 | **Day 229** | Max diff - easy | 7 kyu |  Solved |
 | **Day 230** | Compare within margin | 8 kyu |  Solved |
+| **Day 231** | UEFA EURO 2016 | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
