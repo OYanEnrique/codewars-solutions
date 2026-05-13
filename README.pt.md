@@ -252,6 +252,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day229/         Diferença máxima - fácil
     day230/         Comparar dentro da margem
     day231/         UEFA EURO 2016
+    day232/         Soma de Números Ímpares Elevados ao Cubo
 
  
 ```
@@ -512,6 +513,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 229** | Diferença máxima - fácil | 7 kyu |  Resolvido |
 | **Dia 230** | Comparar dentro da margem | 8 kyu |  Resolvido |
 | **Dia 231** | UEFA EURO 2016 | 8 kyu |  Resolvido |
+| **Dia 232** | Soma de Números Ímpares Elevados ao Cubo | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
