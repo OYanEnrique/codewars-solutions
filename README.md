@@ -253,6 +253,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day230/         Compare within margin
     day231/         UEFA EURO 2016
     day232/         Sum of Odd Cubed Numbers
+    day233/         Pillars
 
 
 
@@ -515,6 +516,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 230** | Compare within margin | 8 kyu |  Solved |
 | **Day 231** | UEFA EURO 2016 | 8 kyu |  Solved |
 | **Day 232** | Sum of Odd Cubed Numbers | 7 kyu |  Solved |
+| **Day 233** | Pillars | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
