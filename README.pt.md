@@ -254,6 +254,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day231/         UEFA EURO 2016
     day232/         Soma de Números Ímpares Elevados ao Cubo
     day233/         Pilares
+    day234/         Tripla Pitagórica
 
  
 ```
@@ -516,6 +517,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 231** | UEFA EURO 2016 | 8 kyu |  Resolvido |
 | **Dia 232** | Soma de Números Ímpares Elevados ao Cubo | 8 kyu |  Resolvido |
 | **Dia 233** | Pilares | 8 kyu |  Resolvido |
+| **Dia 234** | Tripla Pitagórica | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
