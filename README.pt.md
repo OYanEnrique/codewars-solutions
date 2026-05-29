@@ -255,6 +255,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day232/         Soma de Números Ímpares Elevados ao Cubo
     day233/         Pilares
     day234/         Tripla Pitagórica
+    day235/         Menor valor de um array
 
  
 ```
@@ -518,6 +519,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 232** | Soma de Números Ímpares Elevados ao Cubo | 8 kyu |  Resolvido |
 | **Dia 233** | Pilares | 8 kyu |  Resolvido |
 | **Dia 234** | Tripla Pitagórica | 8 kyu |  Resolvido |
+| **Dia 235** | Menor valor de um array | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
