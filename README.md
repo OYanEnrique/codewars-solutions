@@ -255,6 +255,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day232/         Sum of Odd Cubed Numbers
     day233/         Pillars
     day234/         Pythagorean Triple
+    day235/         Smallest value of an array
 
 
 
@@ -519,6 +520,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 232** | Sum of Odd Cubed Numbers | 7 kyu |  Solved |
 | **Day 233** | Pillars | 8 kyu |  Solved |
 | **Day 234** | Pythogorean Triple | 8 kyu |  Solved |
+| **Day 235** | Smallest value of an array | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
