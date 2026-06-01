@@ -258,6 +258,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day235/         Smallest value of an array
     day236/         Difference of Volumes of Cuboids
     day237/         V A P O R C O D E
+    day238/         Two to One
 
 
 
@@ -525,6 +526,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 235** | Smallest value of an array | 7 kyu |  Solved |
 | **Day 236** | Difference of Volumes of Cuboids | 8 kyu |  Solved |
 | **Day 237** | V A P O R C O D E | 7 kyu |  Solved |
+| **Day 238** | Two to One | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
