@@ -258,6 +258,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day235/         Menor valor de um array
     day236/         Diferença de Volumes de Cubóides
     day237/         V A P O R C O D E
+    day238/         Dois para um
 
  
 ```
@@ -524,6 +525,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 235** | Menor valor de um array | 7 kyu |  Resolvido |
 | **Dia 236** | Diferença de Volumes de Cubóides | 8 kyu |  Resolvido |
 | **Dia 237** | V A P O R C O D E | 7 kyu |  Resolvido |
+| **Dia 238** | Dois para um | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
