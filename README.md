@@ -259,6 +259,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day236/         Difference of Volumes of Cuboids
     day237/         V A P O R C O D E
     day238/         Two to One
+    day239/         Remove the time
 
 
 
@@ -527,6 +528,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 236** | Difference of Volumes of Cuboids | 8 kyu |  Solved |
 | **Day 237** | V A P O R C O D E | 7 kyu |  Solved |
 | **Day 238** | Two to One | 7 kyu |  Solved |
+| **Day 239** | Remove the time | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
