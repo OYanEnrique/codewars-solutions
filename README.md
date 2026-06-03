@@ -260,6 +260,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day237/         V A P O R C O D E
     day238/         Two to One
     day239/         Remove the time
+    day240/         Largest pair sum in array
 
 
 
@@ -529,6 +530,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 237** | V A P O R C O D E | 7 kyu |  Solved |
 | **Day 238** | Two to One | 7 kyu |  Solved |
 | **Day 239** | Remove the time | 8 kyu |  Solved |
+| **Day 240** | Largest pair sum in array | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
