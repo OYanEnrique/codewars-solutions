@@ -260,6 +260,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day237/         V A P O R C O D E
     day238/         Dois para um
     day239/         Remover o tempo
+    day240/         Maior soma de pares em um array
 
  
 ```
@@ -528,6 +529,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 237** | V A P O R C O D E | 7 kyu |  Resolvido |
 | **Dia 238** | Dois para um | 7 kyu |  Resolvido |
 | **Dia 239** | Remover o tempo | 8 kyu |  Resolvido |
+| **Dia 240** | Maior soma de pares em um array | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
