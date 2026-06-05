@@ -262,6 +262,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day239/         Remove the time
     day240/         Largest pair sum in array
     day241/         Is it a number?
+    day242/         Automorphic Number (Special Numbers Series #6)
 
 
 
@@ -533,6 +534,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 239** | Remove the time | 8 kyu |  Solved |
 | **Day 240** | Largest pair sum in array | 7 kyu |  Solved |
 | **Day 241** | Is it a number? | 8 kyu |  Solved |
+| **Day 242** | Automorphic Number (Special Numbers Series #6) | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
