@@ -263,6 +263,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day240/         Largest pair sum in array
     day241/         Is it a number?
     day242/         Automorphic Number (Special Numbers Series #6)
+    day243/         Round up to the next multiple of 5
 
 
 
@@ -535,6 +536,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 240** | Largest pair sum in array | 7 kyu |  Solved |
 | **Day 241** | Is it a number? | 8 kyu |  Solved |
 | **Day 242** | Automorphic Number (Special Numbers Series #6) | 7 kyu |  Solved |
+| **Day 243** | Round up to the next multiple of 5 | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
