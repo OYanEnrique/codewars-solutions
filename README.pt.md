@@ -263,6 +263,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day240/         Maior soma de pares em um array
     day241/         É um número?
     day242/         Número Automórfico (Série de Números Especiais #6)
+    day243/         Arredonde para o próximo múltiplo de 5
 
  
 ```
@@ -534,6 +535,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 240** | Maior soma de pares em um array | 7 kyu |  Resolvido |
 | **Dia 241** | É um número? | 8 kyu |  Resolvido |
 | **Dia 242** | Número Automórfico (Série de Números Especiais #6) | 7 kyu |  Resolvido |
+| **Dia 243** | Arredonde para o próximo múltiplo de 5 | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
