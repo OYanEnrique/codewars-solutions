@@ -264,6 +264,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day241/         É um número?
     day242/         Número Automórfico (Série de Números Especiais #6)
     day243/         Arredonde para o próximo múltiplo de 5
+    day244/         Potências de 2
 
  
 ```
@@ -536,6 +537,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 241** | É um número? | 8 kyu |  Resolvido |
 | **Dia 242** | Número Automórfico (Série de Números Especiais #6) | 7 kyu |  Resolvido |
 | **Dia 243** | Arredonde para o próximo múltiplo de 5 | 7 kyu |  Resolvido |
+| **Dia 244** | Potências de 2 | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
