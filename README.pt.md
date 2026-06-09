@@ -266,6 +266,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day243/         Arredonde para o próximo múltiplo de 5
     day244/         Potências de 2
     day245/         Total ASCII
+    day246/         Número Arrumado (Série Números Especiais #9)
 
  
 ```
@@ -540,6 +541,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 243** | Arredonde para o próximo múltiplo de 5 | 7 kyu |  Resolvido |
 | **Dia 244** | Potências de 2 | 8 kyu |  Resolvido |
 | **Dia 245** | Total ASCII | 8 kyu |  Resolvido |
+| **Dia 246** | Número Arrumado (Série Números Especiais #9) | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
