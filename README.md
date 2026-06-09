@@ -266,6 +266,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day243/         Round up to the next multiple of 5
     day244/         Powers of 2
     day245/         ASCII Total
+    day246/         Tidy Number (Special Numbers Series #9)
 
 
 
@@ -541,6 +542,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 243** | Round up to the next multiple of 5 | 7 kyu |  Solved |
 | **Day 244** | Powers of 2 | 8 kyu |  Solved |
 | **Day 245** | ASCII Total | 8 kyu |  Solved |
+| **Day 246** | Tidy Number (Special Numbers Series #9) | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
