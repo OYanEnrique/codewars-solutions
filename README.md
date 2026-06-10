@@ -267,6 +267,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day244/         Powers of 2
     day245/         ASCII Total
     day246/         Tidy Number (Special Numbers Series #9)
+    day247/         Highest Scoring Word
 
 
 
@@ -543,6 +544,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 244** | Powers of 2 | 8 kyu |  Solved |
 | **Day 245** | ASCII Total | 8 kyu |  Solved |
 | **Day 246** | Tidy Number (Special Numbers Series #9) | 7 kyu |  Solved |
+| **Day 247** | Highest Scoring Word | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
