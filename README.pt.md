@@ -267,6 +267,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day244/         Potências de 2
     day245/         Total ASCII
     day246/         Número Arrumado (Série Números Especiais #9)
+    day247/         Palavra com Maior Pontuação
 
  
 ```
@@ -542,6 +543,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 244** | Potências de 2 | 8 kyu |  Resolvido |
 | **Dia 245** | Total ASCII | 8 kyu |  Resolvido |
 | **Dia 246** | Número Arrumado (Série Números Especiais #9) | 7 kyu |  Resolvido |
+| **Dia 247** | Palavra com Maior Pontuação | 6 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
