@@ -269,6 +269,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day246/         Número Arrumado (Série Números Especiais #9)
     day247/         Palavra com Maior Pontuação
     day248/         Diversão Simples #176: Letra Invertida
+    day249/         Valor da consoante
 
  
 ```
@@ -546,6 +547,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 246** | Número Arrumado (Série Números Especiais #9) | 7 kyu |  Resolvido |
 | **Dia 247** | Palavra com Maior Pontuação | 6 kyu |  Resolvido |
 | **Dia 248** | Diversão Simples #176: Letra Invertida | 7 kyu |  Resolvido |
+| **Dia 249** | Valor da consoante | 6 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
