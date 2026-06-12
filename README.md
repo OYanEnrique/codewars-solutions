@@ -269,6 +269,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day246/         Tidy Number (Special Numbers Series #9)
     day247/         Highest Scoring Word
     day248/         Simple Fun #176: Reverse Letter
+    day249/         Consonant value
 
 
 
@@ -547,6 +548,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 246** | Tidy Number (Special Numbers Series #9) | 7 kyu |  Solved |
 | **Day 247** | Highest Scoring Word | 6 kyu |  Solved |
 | **Day 248** | Simple Fun #176: Reverse Letter | 7 kyu |  Solved |
+| **Day 249** | Consonant value | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
