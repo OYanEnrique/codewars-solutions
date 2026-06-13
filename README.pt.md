@@ -270,6 +270,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day247/         Palavra com Maior Pontuação
     day248/         Diversão Simples #176: Letra Invertida
     day249/         Valor da consoante
+    day250/         Encontre as Vogais
 
  
 ```
@@ -548,6 +549,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 247** | Palavra com Maior Pontuação | 6 kyu |  Resolvido |
 | **Dia 248** | Diversão Simples #176: Letra Invertida | 7 kyu |  Resolvido |
 | **Dia 249** | Valor da consoante | 6 kyu |  Resolvido |
+| **Dia 250** | Encontre as Vogais | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
