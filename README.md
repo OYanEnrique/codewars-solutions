@@ -270,6 +270,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day247/         Highest Scoring Word
     day248/         Simple Fun #176: Reverse Letter
     day249/         Consonant value
+    day250/         Find the vowels
 
 
 
@@ -549,6 +550,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 247** | Highest Scoring Word | 6 kyu |  Solved |
 | **Day 248** | Simple Fun #176: Reverse Letter | 7 kyu |  Solved |
 | **Day 249** | Consonant value | 6 kyu |  Solved |
+| **Day 250** | Find the vowels | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
