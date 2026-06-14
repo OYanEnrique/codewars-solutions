@@ -271,6 +271,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day248/         Diversão Simples #176: Letra Invertida
     day249/         Valor da consoante
     day250/         Encontre as Vogais
+    day251/         Escolha um conjunto dos primeiros elemento
 
  
 ```
@@ -550,6 +551,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 248** | Diversão Simples #176: Letra Invertida | 7 kyu |  Resolvido |
 | **Dia 249** | Valor da consoante | 6 kyu |  Resolvido |
 | **Dia 250** | Encontre as Vogais | 7 kyu |  Resolvido |
+| **Dia 251** | Escolha um conjunto dos primeiros elemento | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
