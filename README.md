@@ -274,7 +274,6 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day251/         Pick a set of first elements
 
 
-
 ```
 
 ##  Quick Start
