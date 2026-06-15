@@ -272,6 +272,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day249/         Valor da consoante
     day250/         Encontre as Vogais
     day251/         Escolha um conjunto dos primeiros elementos
+    day252/         Contagem simples de miçangas
 
  
 ```
@@ -552,6 +553,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 249** | Valor da consoante | 6 kyu |  Resolvido |
 | **Dia 250** | Encontre as Vogais | 7 kyu |  Resolvido |
 | **Dia 251** | Escolha um conjunto dos primeiros elementos | 8 kyu |  Resolvido |
+| **Dia 252** | Contagem simples de miçangas | 7 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
