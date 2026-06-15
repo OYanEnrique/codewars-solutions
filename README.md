@@ -272,6 +272,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day249/         Consonant value
     day250/         Find the vowels
     day251/         Pick a set of first elements
+    day252/         Simple beads count
 
 
 ```
@@ -552,6 +553,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 249** | Consonant value | 6 kyu |  Solved |
 | **Day 250** | Find the vowels | 7 kyu |  Solved |
 | **Day 251** | Pick a set of first elements | 8 kyu |  Solved |
+| **Day 252** | Simple beads count | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
