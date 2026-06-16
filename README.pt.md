@@ -273,6 +273,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day250/         Encontre as Vogais
     day251/         Escolha um conjunto dos primeiros elementos
     day252/         Contagem simples de miçangas
+    day253/         Formatação de strings
 
  
 ```
@@ -554,6 +555,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 250** | Encontre as Vogais | 7 kyu |  Resolvido |
 | **Dia 251** | Escolha um conjunto dos primeiros elementos | 8 kyu |  Resolvido |
 | **Dia 252** | Contagem simples de miçangas | 7 kyu |  Resolvido |
+| **Dia 253** | Formatação de strings | 8 kyu |  Resolvido |
 
 
 ##  Stack Tecnológica
