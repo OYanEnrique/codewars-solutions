@@ -273,6 +273,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day250/         Find the vowels
     day251/         Pick a set of first elements
     day252/         Simple beads count
+    day253/         Template Strings
 
 
 ```
@@ -554,6 +555,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 250** | Find the vowels | 7 kyu |  Solved |
 | **Day 251** | Pick a set of first elements | 8 kyu |  Solved |
 | **Day 252** | Simple beads count | 7 kyu |  Solved |
+| **Day 253** | Template Strings | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
