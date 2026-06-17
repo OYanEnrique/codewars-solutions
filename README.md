@@ -274,6 +274,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day251/         Pick a set of first elements
     day252/         Simple beads count
     day253/         Template Strings
+    day254/         Thinkful - Number Drills: Blue and red marbles
 
 
 ```
@@ -556,6 +557,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 251** | Pick a set of first elements | 8 kyu |  Solved |
 | **Day 252** | Simple beads count | 7 kyu |  Solved |
 | **Day 253** | Template Strings | 8 kyu |  Solved |
+| **Day 254** | Thinkful - Number Drills: Blue and red marbles | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
