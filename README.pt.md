@@ -274,6 +274,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day251/         Escolha um conjunto dos primeiros elementos
     day252/         Contagem simples de miçangas
     day253/         Formatação de strings
+    day254/         Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas
 
  
 ```
@@ -556,6 +557,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 251** | Escolha um conjunto dos primeiros elementos | 8 kyu |  Resolvido |
 | **Dia 252** | Contagem simples de miçangas | 7 kyu |  Resolvido |
 | **Dia 253** | Formatação de strings | 8 kyu |  Resolvido |
+| **Dia 254** | Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas | 8 kyu | Resolvido |
 
 
 ##  Stack Tecnológica
