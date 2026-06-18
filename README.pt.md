@@ -275,6 +275,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day252/         Contagem simples de miçangas
     day253/         Formatação de strings
     day254/         Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas
+    day255/         Área de um Quadrado
 
  
 ```
@@ -558,6 +559,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 252** | Contagem simples de miçangas | 7 kyu |  Resolvido |
 | **Dia 253** | Formatação de strings | 8 kyu |  Resolvido |
 | **Dia 254** | Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas | 8 kyu | Resolvido |
+| **Day 255** | Área de um Quadrado | 8 kyu |  Solved |
 
 
 ##  Stack Tecnológica
