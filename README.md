@@ -275,6 +275,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day252/         Simple beads count
     day253/         Template Strings
     day254/         Thinkful - Number Drills: Blue and red marbles
+    day255/         Area of a Square
 
 
 ```
@@ -558,6 +559,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 252** | Simple beads count | 7 kyu |  Solved |
 | **Day 253** | Template Strings | 8 kyu |  Solved |
 | **Day 254** | Thinkful - Number Drills: Blue and red marbles | 8 kyu |  Solved |
+| **Day 255** | Area of a Square | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
