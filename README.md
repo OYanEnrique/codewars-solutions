@@ -276,6 +276,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day253/         Template Strings
     day254/         Thinkful - Number Drills: Blue and red marbles
     day255/         Area of a Square
+    day256/         Sort and Star
 
 
 ```
@@ -560,6 +561,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 253** | Template Strings | 8 kyu |  Solved |
 | **Day 254** | Thinkful - Number Drills: Blue and red marbles | 8 kyu |  Solved |
 | **Day 255** | Area of a Square | 8 kyu |  Solved |
+| **Day 256** | Sort and Star | 8 kyu |  Solved
 
 
 ##  Tech Stacks
