@@ -278,6 +278,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day255/         Area of a Square
     day256/         Sort and Star
     day257/         Sort Out The Men From Boys
+    day258/         +1 Array
 
 
 ```
@@ -564,6 +565,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 255** | Area of a Square | 8 kyu |  Solved |
 | **Day 256** | Sort and Star | 8 kyu |  Solved |
 | **Day 257** | Sort Out The Men From Boys | 7 kyu |  Solved |
+| **Day 258** | +1 Array | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
