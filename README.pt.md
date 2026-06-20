@@ -277,6 +277,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day254/         Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas
     day255/         Área de um Quadrado
     day256/         Classificar e Adicionar Estrelas
+    day257/         Ordenar os Homens dos Meninos
 
  
 ```
@@ -562,6 +563,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Dia 254** | Pensamento - Exercícios de Números: Bolinhas azuis e vermelhas | 8 kyu | Resolvido |
 | **Day 255** | Área de um Quadrado | 8 kyu |  Solved |
 | **Day 256** | Classificar e Adicionar Estrelas | 8 kyu |  Solved |
+| **Day 257** | Ordenar os Homens dos Meninos | 7 kyu |  Solved |
 
 
 ##  Stack Tecnológica
