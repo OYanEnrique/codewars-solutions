@@ -278,6 +278,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day255/         Área de um Quadrado
     day256/         Classificar e Adicionar Estrelas
     day257/         Ordenar os Homens dos Meninos
+    day258/         Array +1
 
  
 ```
@@ -564,7 +565,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 255** | Área de um Quadrado | 8 kyu |  Solved |
 | **Day 256** | Classificar e Adicionar Estrelas | 8 kyu |  Solved |
 | **Day 257** | Ordenar os Homens dos Meninos | 7 kyu |  Solved |
-
+| **Day 258** | Array +1 | 6 kyu |  Solved |
 
 ##  Stack Tecnológica
 
