@@ -279,6 +279,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day256/         Classificar e Adicionar Estrelas
     day257/         Ordenar os Homens dos Meninos
     day258/         Array +1
+    day259/         Treinando JS #18: Métodos do objeto String--concat() split() e seu bom amigo join()
 
  
 ```
@@ -566,6 +567,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 256** | Classificar e Adicionar Estrelas | 8 kyu |  Solved |
 | **Day 257** | Ordenar os Homens dos Meninos | 7 kyu |  Solved |
 | **Day 258** | Array +1 | 6 kyu |  Solved |
+| **Day 259** | Treinando JS #18: Métodos do objeto String--concat() split() e seu bom amigo join() | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
