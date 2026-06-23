@@ -280,6 +280,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day257/         Sort Out The Men From Boys
     day258/         +1 Array
     day259/         Training JS #18: Methods of String object--concat() split() and its good friend join()
+    day260/         Building blocks
 
 
 ```
@@ -568,6 +569,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 257** | Sort Out The Men From Boys | 7 kyu |  Solved |
 | **Day 258** | +1 Array | 6 kyu |  Solved |
 | **Day 259** | Training JS #18: Methods of String object--concat() split() and its good friend join() | 8 kyu |  Solved |
+| **Day 260** | Building blocks | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
