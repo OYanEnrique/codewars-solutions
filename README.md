@@ -282,6 +282,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day259/         Training JS #18: Methods of String object--concat() split() and its good friend join()
     day260/         Building blocks
     day261/         Tip Calculator
+    day262/         Simple string characters
 
 
 ```
@@ -572,6 +573,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 259** | Training JS #18: Methods of String object--concat() split() and its good friend join() | 8 kyu |  Solved |
 | **Day 260** | Building blocks | 7 kyu |  Solved |
 | **Day 261** | Tip Calculator | 8 kyu |  Solved |
+| **Day 262** | Simple string characters | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
