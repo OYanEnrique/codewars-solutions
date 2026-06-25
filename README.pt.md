@@ -282,6 +282,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day259/         Treinando JS #18: Métodos do objeto String--concat() split() e seu bom amigo join()
     day260/         Blocos de construção
     day261/         Calculadora de gorjetas
+    day262/         Simples string de caracteres
 
  
 ```
@@ -572,6 +573,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 259** | Treinando JS #18: Métodos do objeto String--concat() split() e seu bom amigo join() | 8 kyu |  Solved |
 | **Day 260** | Blocos de construção | 7 kyu |  Solved |
 | **Day 261** | Calculadora de gorjetas | 8 kyu |  Solved |
+| **Day 262** | Simples string de caracteres | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
