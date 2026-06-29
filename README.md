@@ -283,6 +283,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day260/         Building blocks
     day261/         Tip Calculator
     day262/         Simple string characters
+    day263/         Sort the Gift Code
 
 
 ```
@@ -574,6 +575,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 260** | Building blocks | 7 kyu |  Solved |
 | **Day 261** | Tip Calculator | 8 kyu |  Solved |
 | **Day 262** | Simple string characters | 7 kyu |  Solved |
+| **Day 263** | Sort the Gift Code | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
