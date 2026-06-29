@@ -283,6 +283,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day260/         Blocos de construção
     day261/         Calculadora de gorjetas
     day262/         Simples string de caracteres
+    day263/         Ordenar o Código de Presente
 
  
 ```
@@ -574,6 +575,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 260** | Blocos de construção | 7 kyu |  Solved |
 | **Day 261** | Calculadora de gorjetas | 8 kyu |  Solved |
 | **Day 262** | Simples string de caracteres | 7 kyu |  Solved |
+| **Day 263** | Ordenar Código de Presente | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
