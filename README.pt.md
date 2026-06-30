@@ -284,6 +284,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day261/         Calculadora de gorjetas
     day262/         Simples string de caracteres
     day263/         Ordenar o Código de Presente
+    day264/         Mágica Enumerável #1 - True para Todos?
 
  
 ```
@@ -576,6 +577,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 261** | Calculadora de gorjetas | 8 kyu |  Solved |
 | **Day 262** | Simples string de caracteres | 7 kyu |  Solved |
 | **Day 263** | Ordenar Código de Presente | 7 kyu |  Solved |
+| **Day 264** | Mágica Enumerável #1 - True para Todos? | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
