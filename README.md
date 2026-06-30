@@ -284,6 +284,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day261/         Tip Calculator
     day262/         Simple string characters
     day263/         Sort the Gift Code
+    day264/         Enumerable Magic #1 - True for All?
 
 
 ```
@@ -576,6 +577,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 261** | Tip Calculator | 8 kyu |  Solved |
 | **Day 262** | Simple string characters | 7 kyu |  Solved |
 | **Day 263** | Sort the Gift Code | 7 kyu |  Solved |
+| **Day 264** | Enumerable Magic #1 - True for All? | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
