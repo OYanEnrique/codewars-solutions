@@ -285,6 +285,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day262/         Simples string de caracteres
     day263/         Ordenar o Código de Presente
     day264/         Mágica Enumerável #1 - True para Todos?
+    day265/         Conte os divisores de um número
 
  
 ```
@@ -578,6 +579,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 262** | Simples string de caracteres | 7 kyu |  Solved |
 | **Day 263** | Ordenar Código de Presente | 7 kyu |  Solved |
 | **Day 264** | Mágica Enumerável #1 - True para Todos? | 8 kyu |  Solved |
+| **Day 265** | Conte os divisores de um número | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
