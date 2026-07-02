@@ -286,6 +286,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day263/         Sort the Gift Code
     day264/         Enumerable Magic #1 - True for All?
     day265/         Count the divisors of a number
+    day266/         Categorize New Member
 
 
 ```
@@ -580,6 +581,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 263** | Sort the Gift Code | 7 kyu |  Solved |
 | **Day 264** | Enumerable Magic #1 - True for All? | 8 kyu |  Solved |
 | **Day 265** | Count the divisors of a number | 7 kyu |  Solved |
+| **Day 266** | Categorize New Member | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
