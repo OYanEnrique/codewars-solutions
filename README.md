@@ -287,6 +287,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day264/         Enumerable Magic #1 - True for All?
     day265/         Count the divisors of a number
     day266/         Categorize New Member
+    day267/         Divide and Conquer
 
 
 ```
@@ -582,6 +583,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 264** | Enumerable Magic #1 - True for All? | 8 kyu |  Solved |
 | **Day 265** | Count the divisors of a number | 7 kyu |  Solved |
 | **Day 266** | Categorize New Member | 7 kyu |  Solved |
+| **Day 267** | Divide and Conquer | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
