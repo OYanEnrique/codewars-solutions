@@ -288,6 +288,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day265/         Conte os divisores de um número
     day266/         Categorizar Novo Membro
     day267/         Dividir e Conquistar
+    day268/         Soma Máxima de Três (Série de Arrays #7)
 
  
 ```
@@ -584,6 +585,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 265** | Conte os divisores de um número | 7 kyu |  Solved |
 | **Day 266** | Categorizar Novo Membro | 7 kyu |  Solved |
 | **Day 267** | Dividir e Conquistar | 7 kyu |  Solved |
+| **Day 268** | Soma Máxima de Três (Série de Arrays #7) | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
