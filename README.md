@@ -288,6 +288,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day265/         Count the divisors of a number
     day266/         Categorize New Member
     day267/         Divide and Conquer
+    day268/         Maximum Triplet Sum (Array Series #7)
 
 
 ```
@@ -584,6 +585,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 265** | Count the divisors of a number | 7 kyu |  Solved |
 | **Day 266** | Categorize New Member | 7 kyu |  Solved |
 | **Day 267** | Divide and Conquer | 7 kyu |  Solved |
+| **Day 268** | Maximum Triplet Sum (Array Series #7) | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
