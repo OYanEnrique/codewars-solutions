@@ -289,6 +289,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day266/         Categorize New Member
     day267/         Divide and Conquer
     day268/         Maximum Triplet Sum (Array Series #7)
+    day269/         Sum of Cubes
 
 
 ```
@@ -586,6 +587,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 266** | Categorize New Member | 7 kyu |  Solved |
 | **Day 267** | Divide and Conquer | 7 kyu |  Solved |
 | **Day 268** | Maximum Triplet Sum (Array Series #7) | 7 kyu |  Solved |
+| **Day 269** | Sum of Cubes | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
