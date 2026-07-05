@@ -289,6 +289,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day266/         Categorizar Novo Membro
     day267/         Dividir e Conquistar
     day268/         Soma Máxima de Três (Série de Arrays #7)
+    day269/         Soma dos Cubos
 
  
 ```
@@ -586,6 +587,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 266** | Categorizar Novo Membro | 7 kyu |  Solved |
 | **Day 267** | Dividir e Conquistar | 7 kyu |  Solved |
 | **Day 268** | Soma Máxima de Três (Série de Arrays #7) | 7 kyu |  Solved |
+| **Day 269** | Soma dos Cubos | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
