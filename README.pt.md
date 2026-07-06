@@ -290,6 +290,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day267/         Dividir e Conquistar
     day268/         Soma Máxima de Três (Série de Arrays #7)
     day269/         Soma dos Cubos
+    day270/         Sujeito Persistente
 
  
 ```
@@ -588,6 +589,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 267** | Dividir e Conquistar | 7 kyu |  Solved |
 | **Day 268** | Soma Máxima de Três (Série de Arrays #7) | 7 kyu |  Solved |
 | **Day 269** | Soma dos Cubos | 7 kyu |  Solved |
+| **Day 270** | Sujeito Persistente | 6 kyu |  Solved |
 
 ##  Stack Tecnológica
 
