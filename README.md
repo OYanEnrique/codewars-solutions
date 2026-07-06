@@ -290,6 +290,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day267/         Divide and Conquer
     day268/         Maximum Triplet Sum (Array Series #7)
     day269/         Sum of Cubes
+    day270/         Persistent Bugger
 
 
 ```
@@ -588,6 +589,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 267** | Divide and Conquer | 7 kyu |  Solved |
 | **Day 268** | Maximum Triplet Sum (Array Series #7) | 7 kyu |  Solved |
 | **Day 269** | Sum of Cubes | 7 kyu |  Solved |
+| **Day 270** | Persistent Bugger | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
