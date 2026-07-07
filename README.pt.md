@@ -291,6 +291,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day268/         Soma Máxima de Três (Série de Arrays #7)
     day269/         Soma dos Cubos
     day270/         Sujeito Persistente
+    day271/         cAixA aLtErNaDa <=> CaIXa AlTeRnAdA
 
  
 ```
@@ -590,6 +591,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 268** | Soma Máxima de Três (Série de Arrays #7) | 7 kyu |  Solved |
 | **Day 269** | Soma dos Cubos | 7 kyu |  Solved |
 | **Day 270** | Sujeito Persistente | 6 kyu |  Solved |
+| **Day 271** | cAIXA aLtErNaDa <=> CaIXa AlTeRnAdA | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
