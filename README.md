@@ -291,6 +291,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day268/         Maximum Triplet Sum (Array Series #7)
     day269/         Sum of Cubes
     day270/         Persistent Bugger
+    day271/         altERnaTIng cAsE <=> ALTerNAtiNG CaSe
 
 
 ```
@@ -590,6 +591,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 268** | Maximum Triplet Sum (Array Series #7) | 7 kyu |  Solved |
 | **Day 269** | Sum of Cubes | 7 kyu |  Solved |
 | **Day 270** | Persistent Bugger | 6 kyu |  Solved |
+| **Day 271** | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
