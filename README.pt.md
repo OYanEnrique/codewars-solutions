@@ -293,6 +293,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day270/         Sujeito Persistente
     day271/         cAixA aLtErNaDa <=> CaIXa AlTeRnAdA
     day272/         Ordenação de Strings Ímpar-Par
+    day273/         Inverta uma a cada duas palavras na string
 
  
 ```
@@ -594,6 +595,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 270** | Sujeito Persistente | 6 kyu |  Solved |
 | **Day 271** | cAIXA aLtErNaDa <=> CaIXa AlTeRnAdA | 8 kyu |  Solved |
 | **Day 272** | Ordenação de Strings Ímpar-Par | 7 kyu |  Solved |
+| **Day 273** | Inverta uma a cada duas palavras na string | 6 kyu |  Solved |
 
 ##  Stack Tecnológica
 
