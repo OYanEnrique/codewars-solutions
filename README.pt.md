@@ -292,6 +292,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day269/         Soma dos Cubos
     day270/         Sujeito Persistente
     day271/         cAixA aLtErNaDa <=> CaIXa AlTeRnAdA
+    day272/         Ordenação de Strings Ímpar-Par
 
  
 ```
@@ -592,6 +593,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 269** | Soma dos Cubos | 7 kyu |  Solved |
 | **Day 270** | Sujeito Persistente | 6 kyu |  Solved |
 | **Day 271** | cAIXA aLtErNaDa <=> CaIXa AlTeRnAdA | 8 kyu |  Solved |
+| **Day 272** | Ordenação de Strings Ímpar-Par | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
