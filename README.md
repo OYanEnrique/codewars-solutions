@@ -294,6 +294,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day271/         altERnaTIng cAsE <=> ALTerNAtiNG CaSe
     day272/         Odd-Even String Sort
     day273/         Reverse every other word in the string
+    day274/         Nth Smallest Element (Array Series #4)
 
 
 ```
@@ -596,6 +597,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 271** | altERnaTIng cAsE <=> ALTerNAtiNG CaSe | 8 kyu |  Solved |
 | **Day 272** | Odd-Even String Sort | 7 kyu |  Solved |
 | **Day 273** | Reverse every other word in the string | 6 kyu |  Solved |
+| **Day 274** | Nth Smallest Element (Array Series #4) | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
