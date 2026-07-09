@@ -294,6 +294,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day271/         cAixA aLtErNaDa <=> CaIXa AlTeRnAdA
     day272/         Ordenação de Strings Ímpar-Par
     day273/         Inverta uma a cada duas palavras na string
+    day274/         Enésimo Menor Elemento (Série de Arrays #4)
 
  
 ```
@@ -596,6 +597,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 271** | cAIXA aLtErNaDa <=> CaIXa AlTeRnAdA | 8 kyu |  Solved |
 | **Day 272** | Ordenação de Strings Ímpar-Par | 7 kyu |  Solved |
 | **Day 273** | Inverta uma a cada duas palavras na string | 6 kyu |  Solved |
+| **Day 274** | Enésimo Menor Elemento (Série de Arrays #4) | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
