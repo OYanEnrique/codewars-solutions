@@ -296,6 +296,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day273/         Inverta uma a cada duas palavras na string
     day274/         Enésimo Menor Elemento (Série de Arrays #4)
     day275/         Xis e Ós
+    day276/         Iniciante - Jogo de Terminal nº 1
 
  
 ```
@@ -600,6 +601,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 273** | Inverta uma a cada duas palavras na string | 6 kyu |  Solved |
 | **Day 274** | Enésimo Menor Elemento (Série de Arrays #4) | 7 kyu |  Solved |
 | **Day 275** | Xis e Ós | 7 kyu |  Solved |
+| **Day 276** | Iniciante - Jogo de Terminal nº 1 | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
