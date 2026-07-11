@@ -296,6 +296,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day273/         Reverse every other word in the string
     day274/         Nth Smallest Element (Array Series #4)
     day275/         Exes and Ohs
+    day276/         Grasshopper - Terminal Game #1
 
 
 ```
@@ -600,6 +601,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 273** | Reverse every other word in the string | 6 kyu |  Solved |
 | **Day 274** | Nth Smallest Element (Array Series #4) | 7 kyu |  Solved |
 | **Day 275** | Exes and Ohs | 7 kyu |  Solved |
+| **Day 276** | Grasshopper - Terminal Game #1 | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
