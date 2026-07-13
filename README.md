@@ -297,6 +297,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day274/         Nth Smallest Element (Array Series #4)
     day275/         Exes and Ohs
     day276/         Grasshopper - Terminal Game #1
+    day277/         Find the Integral
 
 
 ```
@@ -602,6 +603,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 274** | Nth Smallest Element (Array Series #4) | 7 kyu |  Solved |
 | **Day 275** | Exes and Ohs | 7 kyu |  Solved |
 | **Day 276** | Grasshopper - Terminal Game #1 | 8 kyu |  Solved |
+| **Day 277** | Find the Integral | 8 kyu |  Solved |
 
 
 ##  Tech Stacks
