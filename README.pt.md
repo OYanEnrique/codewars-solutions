@@ -297,6 +297,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day274/         Enésimo Menor Elemento (Série de Arrays #4)
     day275/         Xis e Ós
     day276/         Iniciante - Jogo de Terminal nº 1
+    day277/         Encontre a Integral
 
  
 ```
@@ -602,6 +603,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 274** | Enésimo Menor Elemento (Série de Arrays #4) | 7 kyu |  Solved |
 | **Day 275** | Xis e Ós | 7 kyu |  Solved |
 | **Day 276** | Iniciante - Jogo de Terminal nº 1 | 8 kyu |  Solved |
+| **Day 277** | Encontre a Integral | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
