@@ -299,7 +299,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day276/         Iniciante - Jogo de Terminal nº 1
     day277/         Encontre a Integral
     day278/         Dinheiro, Dinheiro, Dinheiro
-    day279/         Detecção de Anagramas
+    day279/         Detecção de Anagramas 
 
  
 ```
