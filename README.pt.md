@@ -300,6 +300,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day277/         Encontre a Integral
     day278/         Dinheiro, Dinheiro, Dinheiro
     day279/         Detecção de Anagramas 
+    day280/         Encontre o número ímpar
 
  
 ```
@@ -608,6 +609,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 277** | Encontre a Integral | 8 kyu |  Solved |
 | **Day 278** | Dinheiro, Dinheiro, Dinheiro | 7 kyu |  Solved |
 | **Day 279** | Detecção de Anagramas | 7 kyu |  Solved |
+| **Day 280** | Encontre o número ímpar | 6 kyu |  Solved |
 
 ##  Stack Tecnológica
 
