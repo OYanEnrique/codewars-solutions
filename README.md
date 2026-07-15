@@ -300,6 +300,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day277/         Find the Integral
     day278/         Money, Money, Money
     day279/         Anagram Detection
+    day280/         Find the odd int
 
 
 ```
@@ -607,7 +608,8 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 276** | Grasshopper - Terminal Game #1 | 8 kyu |  Solved |
 | **Day 277** | Find the Integral | 8 kyu |  Solved |
 | **Day 278** | Money, Money, Money | 7 kyu |  Solved |
-| **Day 279** | Anagram Detection | 7 kyu |  Solved | 
+| **Day 279** | Anagram Detection | 7 kyu |  Solved |
+| **Day 280** | Find the odd int | 6 kyu |  Solved |
 
 
 ##  Tech Stacks
