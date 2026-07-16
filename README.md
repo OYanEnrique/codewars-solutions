@@ -301,6 +301,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day278/         Money, Money, Money
     day279/         Anagram Detection
     day280/         Find the odd int
+    day281/         Find the middle element
 
 
 ```
@@ -610,6 +611,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 278** | Money, Money, Money | 7 kyu |  Solved |
 | **Day 279** | Anagram Detection | 7 kyu |  Solved |
 | **Day 280** | Find the odd int | 6 kyu |  Solved |
+| **Day 281** | Find the middle element | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
