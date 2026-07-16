@@ -301,6 +301,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day278/         Dinheiro, Dinheiro, Dinheiro
     day279/         Detecção de Anagramas 
     day280/         Encontre o número ímpar
+    day281/         Encontre o elemento do meio
 
  
 ```
@@ -610,6 +611,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 278** | Dinheiro, Dinheiro, Dinheiro | 7 kyu |  Solved |
 | **Day 279** | Detecção de Anagramas | 7 kyu |  Solved |
 | **Day 280** | Encontre o número ímpar | 6 kyu |  Solved |
+| **Day 281** | Encontre o elemento do meio | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
