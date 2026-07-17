@@ -302,6 +302,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day279/         Detecção de Anagramas 
     day280/         Encontre o número ímpar
     day281/         Encontre o elemento do meio
+    day282/         Números pares em um array
 
  
 ```
@@ -612,6 +613,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 279** | Detecção de Anagramas | 7 kyu |  Solved |
 | **Day 280** | Encontre o número ímpar | 6 kyu |  Solved |
 | **Day 281** | Encontre o elemento do meio | 7 kyu |  Solved |
+| **Day 282** | Números pares em um array | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
