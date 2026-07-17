@@ -302,6 +302,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day279/         Anagram Detection
     day280/         Find the odd int
     day281/         Find the middle element
+    day282/         Even numbers in an array
 
 
 ```
@@ -612,6 +613,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 279** | Anagram Detection | 7 kyu |  Solved |
 | **Day 280** | Find the odd int | 6 kyu |  Solved |
 | **Day 281** | Find the middle element | 7 kyu |  Solved |
+| **Day 282** | Even numbers in an array | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
