@@ -303,6 +303,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day280/         Encontre o número ímpar
     day281/         Encontre o elemento do meio
     day282/         Números pares em um array
+    day283/         Capitalização indexada
 
  
 ```
@@ -614,6 +615,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 280** | Encontre o número ímpar | 6 kyu |  Solved |
 | **Day 281** | Encontre o elemento do meio | 7 kyu |  Solved |
 | **Day 282** | Números pares em um array | 7 kyu |  Solved |
+| **Day 283** | Capitalização indexada | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
