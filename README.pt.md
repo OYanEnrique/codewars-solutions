@@ -304,6 +304,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day281/         Encontre o elemento do meio
     day282/         Números pares em um array
     day283/         Capitalização indexada
+    day284/         Converter um array de strings em um array de números
 
  
 ```
@@ -616,6 +617,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 281** | Encontre o elemento do meio | 7 kyu |  Solved |
 | **Day 282** | Números pares em um array | 7 kyu |  Solved |
 | **Day 283** | Capitalização indexada | 7 kyu |  Solved |
+| **Day 284** | Converter um array de strings em um array de números | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
