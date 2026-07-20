@@ -305,6 +305,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day282/         Números pares em um array
     day283/         Capitalização indexada
     day284/         Converter um array de strings em um array de números
+    day285/         Troca
 
  
 ```
@@ -618,6 +619,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 282** | Números pares em um array | 7 kyu |  Solved |
 | **Day 283** | Capitalização indexada | 7 kyu |  Solved |
 | **Day 284** | Converter um array de strings em um array de números | 7 kyu |  Solved |
+| **Day 285** | Troca | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
