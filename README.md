@@ -305,6 +305,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day282/         Even numbers in an array
     day283/         Indexed capitalization
     day284/         Convert an array of strings to array of numbers
+    day285/         Switcheroo
 
 
 ```
@@ -618,6 +619,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 282** | Even numbers in an array | 7 kyu |  Solved |
 | **Day 283** | Indexed capitalization | 7 kyu |  Solved |
 | **Day 284** | Convert an array of strings to array of numbers | 7 kyu |  Solved |
+| **Day 285** | Switcheroo | 7 kyu |  Solved |
 
 
 ##  Tech Stacks
