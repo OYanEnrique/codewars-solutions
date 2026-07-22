@@ -307,7 +307,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day284/         Converter um array de strings em um array de números
     day285/         Troca
     day286/         Alfabeto polonês
-
+    day287/         Encontre o primeiro número não consecutivo
  
 ```
 
@@ -622,6 +622,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 284** | Converter um array de strings em um array de números | 7 kyu |  Solved |
 | **Day 285** | Troca | 7 kyu |  Solved |
 | **Day 286** | Alfabeto polonês | 8 kyu |  Solved |
+| **Day 287** | Encontre o primeiro número não consecutivo | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
