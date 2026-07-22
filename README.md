@@ -307,6 +307,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day284/         Convert an array of strings to array of numbers
     day285/         Switcheroo
     day286/         Polish alphabet
+    day287/         Find the first non-consecutive number
 
 
 ```
@@ -622,6 +623,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 284** | Convert an array of strings to array of numbers | 7 kyu |  Solved |
 | **Day 285** | Switcheroo | 7 kyu |  Solved |
 | **Day 286** | Polish alphabet | 8 kyu |  Solved |
+| **Day 287** | Find the first non-consecutive number | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
