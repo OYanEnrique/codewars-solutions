@@ -308,6 +308,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day285/         Switcheroo
     day286/         Polish alphabet
     day287/         Find the first non-consecutive number
+    day288/         Kebabize
 
 
 ```
@@ -624,6 +625,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 285** | Switcheroo | 7 kyu |  Solved |
 | **Day 286** | Polish alphabet | 8 kyu |  Solved |
 | **Day 287** | Find the first non-consecutive number | 8 kyu |  Solved |
+| **Day 288** | Kebabize | 6 kyu |  Solved |
 
 ##  Tech Stacks
 
