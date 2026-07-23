@@ -308,6 +308,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day285/         Troca
     day286/         Alfabeto polonês
     day287/         Encontre o primeiro número não consecutivo
+    day288/         Kebabizar
  
 ```
 
@@ -623,6 +624,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 285** | Troca | 7 kyu |  Solved |
 | **Day 286** | Alfabeto polonês | 8 kyu |  Solved |
 | **Day 287** | Encontre o primeiro número não consecutivo | 8 kyu |  Solved |
+| **Day 288** | Kebabizar | 6 kyu |  Solved |
 
 ##  Stack Tecnológica
 
