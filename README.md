@@ -309,6 +309,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day286/         Polish alphabet
     day287/         Find the first non-consecutive number
     day288/         Kebabize
+    day289/         Build a square
 
 
 ```
@@ -626,6 +627,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 286** | Polish alphabet | 8 kyu |  Solved |
 | **Day 287** | Find the first non-consecutive number | 8 kyu |  Solved |
 | **Day 288** | Kebabize | 6 kyu |  Solved |
+| **Day 289** | Build a square | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
