@@ -310,6 +310,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day287/         Encontre o primeiro número não consecutivo
     day288/         Kebabizar
     day289/         Construa um quadrado
+    day290/         Soma das diferenças no array
  
 ```
 
@@ -627,6 +628,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 287** | Encontre o primeiro número não consecutivo | 8 kyu |  Solved |
 | **Day 288** | Kebabizar | 6 kyu |  Solved |
 | **Day 289** | Construa um quadrado | 7 kyu |  Solved |
+| **Day 290** | Soma das diferenças no array | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
