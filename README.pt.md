@@ -311,6 +311,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day288/         Kebabizar
     day289/         Construa um quadrado
     day290/         Soma das diferenças no array
+    day291/         Cálculo do Código do Caractere
  
 ```
 
@@ -629,6 +630,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 288** | Kebabizar | 6 kyu |  Solved |
 | **Day 289** | Construa um quadrado | 7 kyu |  Solved |
 | **Day 290** | Soma das diferenças no array | 8 kyu |  Solved |
+| **Day 291** | Cálculo do Código do Caractere | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
