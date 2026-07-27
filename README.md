@@ -312,6 +312,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day289/         Build a square
     day290/         Sum of differences in array
     day291/         Char Code Calculation
+    day292/         Testing 1-2-3
 
 
 ```
@@ -632,6 +633,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 289** | Build a square | 7 kyu |  Solved |
 | **Day 290** | Sum of differences in array | 8 kyu |  Solved |
 | **Day 291** | Char Code Calculation | 7 kyu |  Solved |
+| **Day 292** | Testing 1-2-3 | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
