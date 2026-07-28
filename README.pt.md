@@ -313,6 +313,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day290/         Soma das diferenças no array
     day291/         Cálculo do Código do Caractere
     day292/         Testando 1-2-3
+    day293/         Defina um naipe de carta
  
 ```
 
@@ -633,6 +634,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 290** | Soma das diferenças no array | 8 kyu |  Solved |
 | **Day 291** | Cálculo do Código do Caractere | 7 kyu |  Solved |
 | **Day 292** | Testando 1-2-3 | 7 kyu |  Solved |
+| **Day 293** | Defina um naipe de carta | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
