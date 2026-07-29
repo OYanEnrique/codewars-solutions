@@ -314,6 +314,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day291/         Char Code Calculation
     day292/         Testing 1-2-3
     day293/         Define a card suit
+    day294/         Maximum Product
 
 
 ```
@@ -636,6 +637,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 291** | Char Code Calculation | 7 kyu |  Solved |
 | **Day 292** | Testing 1-2-3 | 7 kyu |  Solved |
 | **Day 293** | Define a card suit | 8 kyu |  Solved |
+| **Day 294** | Maximum Product | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
