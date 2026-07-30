@@ -315,6 +315,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day292/         Testando 1-2-3
     day293/         Defina um naipe de carta
     day294/         Produto Máximo
+    day295/         Explosão de dígitos
  
 ```
 
@@ -637,6 +638,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 292** | Testando 1-2-3 | 7 kyu |  Solved |
 | **Day 293** | Defina um naipe de carta | 8 kyu |  Solved |
 | **Day 294** | Produto Máximo | 7 kyu |  Solved |
+| **Day 295** | Explosão de dígitos | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
