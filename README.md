@@ -316,6 +316,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day293/         Define a card suit
     day294/         Maximum Product
     day295/         Digits explosion
+    day296/         Who is going to pay for the wall?
 
 
 ```
@@ -640,6 +641,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 293** | Define a card suit | 8 kyu |  Solved |
 | **Day 294** | Maximum Product | 7 kyu |  Solved |
 | **Day 295** | Digits explosion | 7 kyu |  Solved |
+| **Day 296** | Who is going to pay for the wall? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
