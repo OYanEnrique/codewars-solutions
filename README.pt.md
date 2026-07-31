@@ -316,6 +316,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day293/         Defina um naipe de carta
     day294/         Produto Máximo
     day295/         Explosão de dígitos
+    day296/         Quem vai pagar pela parede?
  
 ```
 
@@ -639,6 +640,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 293** | Defina um naipe de carta | 8 kyu |  Solved |
 | **Day 294** | Produto Máximo | 7 kyu |  Solved |
 | **Day 295** | Explosão de dígitos | 7 kyu |  Solved |
+| **Day 296** | Quem vai pagar pela parede? | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
