@@ -317,6 +317,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day294/         Produto Máximo
     day295/         Explosão de dígitos
     day296/         Quem vai pagar pela parede?
+    day297/         Tradutor freudiano
  
 ```
 
@@ -641,6 +642,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 294** | Produto Máximo | 7 kyu |  Solved |
 | **Day 295** | Explosão de dígitos | 7 kyu |  Solved |
 | **Day 296** | Quem vai pagar pela parede? | 8 kyu |  Solved |
+| **Day 297** | Tradutor freudiano | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
