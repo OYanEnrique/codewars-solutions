@@ -318,6 +318,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day295/         Digits explosion
     day296/         Who is going to pay for the wall?
     day297/         Freudian translator
+    day298/         Color Ghost
 
 
 ```
@@ -644,6 +645,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 295** | Digits explosion | 7 kyu |  Solved |
 | **Day 296** | Who is going to pay for the wall? | 8 kyu |  Solved |
 | **Day 297** | Freudian translator | 8 kyu |  Solved |
+| **Day 298** | Color Ghost | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
