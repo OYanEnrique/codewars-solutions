@@ -318,6 +318,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day295/         Explosão de dígitos
     day296/         Quem vai pagar pela parede?
     day297/         Tradutor freudiano
+    day298/         Fantasma Colorido
  
 ```
 
@@ -643,6 +644,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 295** | Explosão de dígitos | 7 kyu |  Solved |
 | **Day 296** | Quem vai pagar pela parede? | 8 kyu |  Solved |
 | **Day 297** | Tradutor freudiano | 8 kyu |  Solved |
+| **Day 298** | Fantasma Colorido | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
