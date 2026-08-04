@@ -320,6 +320,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day297/         Freudian translator
     day298/         Color Ghost
     day299/         Did she say hallo?
+    day300/         Is there a vowel in there?
 
 
 ```
@@ -648,6 +649,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 297** | Freudian translator | 8 kyu |  Solved |
 | **Day 298** | Color Ghost | 8 kyu |  Solved |
 | **Day 299** | Did she say hallo? | 8 kyu |  Solved |
+| **Day 300** | Is there a vowel in there? | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
