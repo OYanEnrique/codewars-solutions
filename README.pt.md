@@ -320,6 +320,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day297/         Tradutor freudiano
     day298/         Fantasma Colorido
     day299/         Ela disse olá?
+    day300/         Tem alguma vogal aí?
  
 ```
 
@@ -647,6 +648,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 297** | Tradutor freudiano | 8 kyu |  Solved |
 | **Day 298** | Fantasma Colorido | 8 kyu |  Solved |
 | **Day 299** | Ela disse olá? | 8 kyu |  Solved |
+| **Day 300** | Tem alguma vogal aí? | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
