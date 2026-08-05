@@ -321,6 +321,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day298/         Color Ghost
     day299/         Did she say hallo?
     day300/         Is there a vowel in there?
+    day301/         Product Of Maximums Of Array (Array Series #2)
 
 
 ```
@@ -650,6 +651,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 298** | Color Ghost | 8 kyu |  Solved |
 | **Day 299** | Did she say hallo? | 8 kyu |  Solved |
 | **Day 300** | Is there a vowel in there? | 8 kyu |  Solved |
+| **Day 301** | Product Of Maximums Of Array (Array Series #2) | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
