@@ -321,6 +321,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day298/         Fantasma Colorido
     day299/         Ela disse olá?
     day300/         Tem alguma vogal aí?
+    day301/         Produto dos Máximos de um Array (Série de Arrays #2)
  
 ```
 
@@ -649,6 +650,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 298** | Fantasma Colorido | 8 kyu |  Solved |
 | **Day 299** | Ela disse olá? | 8 kyu |  Solved |
 | **Day 300** | Tem alguma vogal aí? | 8 kyu |  Solved |
+| **Day 301** | Produto dos Máximos de um Array (Série de Arrays #2) | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
