@@ -322,6 +322,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day299/         Ela disse olá?
     day300/         Tem alguma vogal aí?
     day301/         Produto dos Máximos de um Array (Série de Arrays #2)
+    day302/         Quadrantes
  
 ```
 
@@ -651,6 +652,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 299** | Ela disse olá? | 8 kyu |  Solved |
 | **Day 300** | Tem alguma vogal aí? | 8 kyu |  Solved |
 | **Day 301** | Produto dos Máximos de um Array (Série de Arrays #2) | 7 kyu |  Solved |
+| **Day 302** | Quadrantes | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
