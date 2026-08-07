@@ -323,6 +323,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day300/         Is there a vowel in there?
     day301/         Product Of Maximums Of Array (Array Series #2)
     day302/         Quadrants
+    day303/         Summing a number's digits
 
 
 ```
@@ -654,6 +655,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 300** | Is there a vowel in there? | 8 kyu |  Solved |
 | **Day 301** | Product Of Maximums Of Array (Array Series #2) | 7 kyu |  Solved |
 | **Day 302** | Quadrants | 8 kyu |  Solved |
+| **Day 303** | Summing a number's digits | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
