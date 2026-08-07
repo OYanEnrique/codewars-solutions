@@ -323,6 +323,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day300/         Tem alguma vogal aí?
     day301/         Produto dos Máximos de um Array (Série de Arrays #2)
     day302/         Quadrantes
+    day303/         Somando os dígitos de um número
  
 ```
 
@@ -653,6 +654,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 300** | Tem alguma vogal aí? | 8 kyu |  Solved |
 | **Day 301** | Produto dos Máximos de um Array (Série de Arrays #2) | 7 kyu |  Solved |
 | **Day 302** | Quadrantes | 8 kyu |  Solved |
+| **Day 303** | Somando os dígitos de um número | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
