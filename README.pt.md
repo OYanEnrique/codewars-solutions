@@ -324,6 +324,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day301/         Produto dos Máximos de um Array (Série de Arrays #2)
     day302/         Quadrantes
     day303/         Somando os dígitos de um número
+    day304/         The Office I - Descoberto
  
 ```
 
@@ -655,6 +656,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 301** | Produto dos Máximos de um Array (Série de Arrays #2) | 7 kyu |  Solved |
 | **Day 302** | Quadrantes | 8 kyu |  Solved |
 | **Day 303** | Somando os dígitos de um número | 7 kyu |  Solved |
+| **Day 304** | The Office I - Descoberto | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
