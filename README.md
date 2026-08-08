@@ -324,6 +324,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day301/         Product Of Maximums Of Array (Array Series #2)
     day302/         Quadrants
     day303/         Summing a number's digits
+    day304/         The Office I - Outed
 
 
 ```
@@ -656,6 +657,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 301** | Product Of Maximums Of Array (Array Series #2) | 7 kyu |  Solved |
 | **Day 302** | Quadrants | 8 kyu |  Solved |
 | **Day 303** | Summing a number's digits | 7 kyu |  Solved |
+| **Day 304** | The Office I - Outed | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
