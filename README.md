@@ -325,6 +325,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day302/         Quadrants
     day303/         Summing a number's digits
     day304/         The Office I - Outed
+    day305/         Ensure question
 
 
 ```
@@ -658,6 +659,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 302** | Quadrants | 8 kyu |  Solved |
 | **Day 303** | Summing a number's digits | 7 kyu |  Solved |
 | **Day 304** | The Office I - Outed | 7 kyu |  Solved |
+| **Day 305** | Ensure question | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
