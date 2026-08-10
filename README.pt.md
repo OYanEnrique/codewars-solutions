@@ -326,6 +326,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day303/         Somando os dígitos de um número
     day304/         The Office I - Descoberto
     day305/         Garantir a pergunta
+    day306/         A função 'if'
  
 ```
 
@@ -659,6 +660,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 303** | Somando os dígitos de um número | 7 kyu |  Solved |
 | **Day 304** | The Office I - Descoberto | 7 kyu |  Solved |
 | **Day 305** | Garantir a pergunta | 8 kyu |  Solved |
+| **Day 306** | A função 'if' | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
