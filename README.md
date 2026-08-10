@@ -326,6 +326,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day303/         Summing a number's digits
     day304/         The Office I - Outed
     day305/         Ensure question
+    day306/         The 'if' function
 
 
 ```
@@ -660,6 +661,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 303** | Summing a number's digits | 7 kyu |  Solved |
 | **Day 304** | The Office I - Outed | 7 kyu |  Solved |
 | **Day 305** | Ensure question | 8 kyu |  Solved |
+| **Day 306** | The 'if' function | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
