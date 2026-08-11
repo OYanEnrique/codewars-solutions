@@ -327,6 +327,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day304/         The Office I - Outed
     day305/         Ensure question
     day306/         The 'if' function
+    day307/         Alphabet symmetry
 
 
 ```
@@ -662,6 +663,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 304** | The Office I - Outed | 7 kyu |  Solved |
 | **Day 305** | Ensure question | 8 kyu |  Solved |
 | **Day 306** | The 'if' function | 8 kyu |  Solved |
+| **Day 307** | Alphabet symmetry | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
