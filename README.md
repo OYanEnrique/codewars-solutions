@@ -328,6 +328,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day305/         Ensure question
     day306/         The 'if' function
     day307/         Alphabet symmetry
+    day308/         esreveR
 
 
 ```
@@ -664,6 +665,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 305** | Ensure question | 8 kyu |  Solved |
 | **Day 306** | The 'if' function | 8 kyu |  Solved |
 | **Day 307** | Alphabet symmetry | 7 kyu |  Solved |
+| **Day 308** | esreveR | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
