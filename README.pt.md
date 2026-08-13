@@ -329,6 +329,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day306/         A função 'if'
     day307/         Simetria do alfabeto
     day308/         osreveR
+    day309/         Encontre a inclinação
  
 ```
 
@@ -665,6 +666,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 306** | A função 'if' | 8 kyu |  Solved |
 | **Day 307** | Simetria do alfabeto | 7 kyu |  Solved |
 | **Day 308** | osreveR | 7 kyu |  Solved |
+| **Day 309** | Encontre a inclinação | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
