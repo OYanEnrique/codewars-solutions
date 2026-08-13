@@ -329,6 +329,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day306/         The 'if' function
     day307/         Alphabet symmetry
     day308/         esreveR
+    day309/         Find the Slope
 
 
 ```
@@ -666,6 +667,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 306** | The 'if' function | 8 kyu |  Solved |
 | **Day 307** | Alphabet symmetry | 7 kyu |  Solved |
 | **Day 308** | esreveR | 7 kyu |  Solved |
+| **Day 309** | Find the Slope | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
