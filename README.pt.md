@@ -330,6 +330,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day307/         Simetria do alfabeto
     day308/         osreveR
     day309/         Encontre a inclinação
+    day310/         Iniciante - Caçando Erros
  
 ```
 
@@ -667,6 +668,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 307** | Simetria do alfabeto | 7 kyu |  Solved |
 | **Day 308** | osreveR | 7 kyu |  Solved |
 | **Day 309** | Encontre a inclinação | 8 kyu |  Solved |
+| **Day 310** | Iniciante - Caçando Erros | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
