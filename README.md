@@ -330,6 +330,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day307/         Alphabet symmetry
     day308/         esreveR
     day309/         Find the Slope
+    day310/         Grasshopper - Bug Squashing
 
 
 ```
@@ -668,6 +669,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 307** | Alphabet symmetry | 7 kyu |  Solved |
 | **Day 308** | esreveR | 7 kyu |  Solved |
 | **Day 309** | Find the Slope | 8 kyu |  Solved |
+| **Day 310** | Grasshopper - Bug Squashing | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
