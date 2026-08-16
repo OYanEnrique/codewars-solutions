@@ -332,6 +332,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day309/         Find the Slope
     day310/         Grasshopper - Bug Squashing
     day311/         OOP: Object Oriented Piracy
+    day312/         Crash Override
 
 
 ```
@@ -672,6 +673,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 309** | Find the Slope | 8 kyu |  Solved |
 | **Day 310** | Grasshopper - Bug Squashing | 8 kyu |  Solved |
 | **Day 311** | OOP: Object Oriented Piracy | 8 kyu |  Solved |
+| **Day 312** | Crash Override | 8 kyu |  Solved |
 
 ##  Tech Stacks
 
