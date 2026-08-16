@@ -332,6 +332,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day309/         Encontre a inclinação
     day310/         Iniciante - Caçando Erros
     day311/         OOP: Pirataria Orientada a Objetos
+    day312/         Anulação de Falha
  
 ```
 
@@ -671,6 +672,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 309** | Encontre a inclinação | 8 kyu |  Solved |
 | **Day 310** | Iniciante - Caçando Erros | 8 kyu |  Solved |
 | **Day 311** | OOP: Pirataria Orientada a Objetos | 8 kyu |  Solved |
+| **Day 312** | Anulação de Falhas | 8 kyu |  Solved |
 
 ##  Stack Tecnológica
 
