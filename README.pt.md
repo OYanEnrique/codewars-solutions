@@ -333,6 +333,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day310/         Iniciante - Caçando Erros
     day311/         OOP: Pirataria Orientada a Objetos
     day312/         Anulação de Falha
+    day313/         Números para Letras
  
 ```
 
@@ -673,6 +674,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 310** | Iniciante - Caçando Erros | 8 kyu |  Solved |
 | **Day 311** | OOP: Pirataria Orientada a Objetos | 8 kyu |  Solved |
 | **Day 312** | Anulação de Falhas | 8 kyu |  Solved |
+| **Day 313** | Números para Letras | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
