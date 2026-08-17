@@ -333,6 +333,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day310/         Grasshopper - Bug Squashing
     day311/         OOP: Object Oriented Piracy
     day312/         Crash Override
+    day313/         Numbers to Letters
 
 
 ```
@@ -674,6 +675,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 310** | Grasshopper - Bug Squashing | 8 kyu |  Solved |
 | **Day 311** | OOP: Object Oriented Piracy | 8 kyu |  Solved |
 | **Day 312** | Crash Override | 8 kyu |  Solved |
+| **Day 313** | Numbers to Letters | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
