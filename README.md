@@ -334,6 +334,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day311/         OOP: Object Oriented Piracy
     day312/         Crash Override
     day313/         Numbers to Letters
+    day314/         Remove the minimum
 
 
 ```
@@ -676,6 +677,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 311** | OOP: Object Oriented Piracy | 8 kyu |  Solved |
 | **Day 312** | Crash Override | 8 kyu |  Solved |
 | **Day 313** | Numbers to Letters | 7 kyu |  Solved |
+| **Day 314** | Remove the minimum | 7 kyu |  Solved |
 
 ##  Tech Stacks
 
