@@ -335,6 +335,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day312/         Anulação de Falha
     day313/         Números para Letras
     day314/         Remova o mínimo
+    day315/         Malvado ou Odioso
  
 ```
 
@@ -677,6 +678,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 312** | Anulação de Falhas | 8 kyu |  Solved |
 | **Day 313** | Números para Letras | 7 kyu |  Solved |
 | **Day 314** | Remova o mínimo | 7 kyu |  Solved |
+| **Day 315** | Malvado ou Odioso | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
