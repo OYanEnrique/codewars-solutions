@@ -334,6 +334,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day311/         OOP: Pirataria Orientada a Objetos
     day312/         Anulação de Falha
     day313/         Números para Letras
+    day314/         Remova o mínimo
  
 ```
 
@@ -675,6 +676,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 311** | OOP: Pirataria Orientada a Objetos | 8 kyu |  Solved |
 | **Day 312** | Anulação de Falhas | 8 kyu |  Solved |
 | **Day 313** | Números para Letras | 7 kyu |  Solved |
+| **Day 314** | Remova o mínimo | 7 kyu |  Solved |
 
 ##  Stack Tecnológica
 
