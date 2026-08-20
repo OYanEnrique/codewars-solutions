@@ -336,6 +336,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day313/         Numbers to Letters
     day314/         Remove the minimum
     day315/         Evil or Odious
+    day316/         Remove All The Marked Elements of a List
 
 
 ```
@@ -680,6 +681,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 313** | Numbers to Letters | 7 kyu |  Solved |
 | **Day 314** | Remove the minimum | 7 kyu |  Solved |
 | **Day 315** | Evil or Odious | 8 kyu | Solved |
+| **Day 316** | Remove All The Marked Elements of a List | 7 kyu | Solved |
 
 ##  Tech Stacks
 
