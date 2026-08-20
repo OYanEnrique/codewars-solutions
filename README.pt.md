@@ -336,6 +336,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day313/         Números para Letras
     day314/         Remova o mínimo
     day315/         Malvado ou Odioso
+    day316/         Remover todos os itens marcados de uma lista
  
 ```
 
@@ -679,6 +680,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 313** | Números para Letras | 7 kyu |  Solved |
 | **Day 314** | Remova o mínimo | 7 kyu |  Solved |
 | **Day 315** | Malvado ou Odioso | 8 kyu | Solved |
+| **Day 316** | Remover todos os itens marcados de uma lista | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
