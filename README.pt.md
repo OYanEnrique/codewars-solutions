@@ -337,6 +337,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day314/         Remova o mínimo
     day315/         Malvado ou Odioso
     day316/         Remover todos os itens marcados de uma lista
+    day317/         Forme o mínimo
  
 ```
 
@@ -681,6 +682,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 314** | Remova o mínimo | 7 kyu |  Solved |
 | **Day 315** | Malvado ou Odioso | 8 kyu | Solved |
 | **Day 316** | Remover todos os itens marcados de uma lista | 7 kyu | Solved |
+| **Day 317** | Forme o mínimo | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
