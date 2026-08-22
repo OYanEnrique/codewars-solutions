@@ -337,6 +337,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day314/         Remove the minimum
     day315/         Evil or Odious
     day316/         Remove All The Marked Elements of a List
+    day317/         Form The Minimum
 
 
 ```
@@ -682,6 +683,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 314** | Remove the minimum | 7 kyu |  Solved |
 | **Day 315** | Evil or Odious | 8 kyu | Solved |
 | **Day 316** | Remove All The Marked Elements of a List | 7 kyu | Solved |
+| **Day 317** | Form The Minimum | 7 kyu | Solved |
 
 ##  Tech Stacks
 
