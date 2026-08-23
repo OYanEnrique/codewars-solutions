@@ -338,6 +338,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day315/         Evil or Odious
     day316/         Remove All The Marked Elements of a List
     day317/         Form The Minimum
+    day318/         Cat and Mouse - Easy Version
 
 
 ```
@@ -684,6 +685,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 315** | Evil or Odious | 8 kyu | Solved |
 | **Day 316** | Remove All The Marked Elements of a List | 7 kyu | Solved |
 | **Day 317** | Form The Minimum | 7 kyu | Solved |
+| **Day 318** | Cat and Mouse - Easy Version | 7 kyu | Solved |
 
 ##  Tech Stacks
 
