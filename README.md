@@ -339,6 +339,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day316/         Remove All The Marked Elements of a List
     day317/         Form The Minimum
     day318/         Cat and Mouse - Easy Version
+    day319/         The old switcheroo
 
 
 ```
@@ -686,6 +687,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 316** | Remove All The Marked Elements of a List | 7 kyu | Solved |
 | **Day 317** | Form The Minimum | 7 kyu | Solved |
 | **Day 318** | Cat and Mouse - Easy Version | 7 kyu | Solved |
+| **Day 319** | The old switcheroo | 7 kyu | Solved |
 
 ##  Tech Stacks
 
