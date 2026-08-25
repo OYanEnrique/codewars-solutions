@@ -340,6 +340,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day317/         Form The Minimum
     day318/         Cat and Mouse - Easy Version
     day319/         The old switcheroo
+    day320/         Return Two Highest Values in List
 
 
 ```
@@ -688,6 +689,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 317** | Form The Minimum | 7 kyu | Solved |
 | **Day 318** | Cat and Mouse - Easy Version | 7 kyu | Solved |
 | **Day 319** | The old switcheroo | 7 kyu | Solved |
+| **Day 320** | Return Two Highest Values in List | 8 kyu | Solved |
 
 ##  Tech Stacks
 
