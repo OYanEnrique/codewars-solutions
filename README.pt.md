@@ -340,6 +340,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day317/         Forme o mínimo
     day318/         Gato e Rato - Versão Fácil
     day319/         A velha troca
+    day320/        Retornar os dois maiores valores da lista
  
 ```
 
@@ -687,6 +688,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 317** | Forme o mínimo | 7 kyu | Solved |
 | **Day 318** | Gato e Rato - Versão Fácil | 7 kyu | Solved |
 | **Day 319** | A velha troca | 7 kyu | Solved |
+| **Day 320** | Retornar os dois maiores valores da lista | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
