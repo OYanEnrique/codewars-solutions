@@ -341,6 +341,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day318/         Cat and Mouse - Easy Version
     day319/         The old switcheroo
     day320/         Return Two Highest Values in List
+    day321/         Filter out the geese
 
 
 ```
@@ -690,6 +691,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 318** | Cat and Mouse - Easy Version | 7 kyu | Solved |
 | **Day 319** | The old switcheroo | 7 kyu | Solved |
 | **Day 320** | Return Two Highest Values in List | 8 kyu | Solved |
+| **Day 321** | Filter out the geese | 8 kyu | Solved |
 
 ##  Tech Stacks
 
