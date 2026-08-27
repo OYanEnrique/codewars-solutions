@@ -342,6 +342,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day319/         The old switcheroo
     day320/         Return Two Highest Values in List
     day321/         Filter out the geese
+    day322/         Row Weights
 
 
 ```
@@ -692,6 +693,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 319** | The old switcheroo | 7 kyu | Solved |
 | **Day 320** | Return Two Highest Values in List | 8 kyu | Solved |
 | **Day 321** | Filter out the geese | 8 kyu | Solved |
+| **Day 322** | Row Weights | 7 kyu | Solved |
 
 ##  Tech Stacks
 
