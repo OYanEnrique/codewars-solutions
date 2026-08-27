@@ -342,6 +342,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day319/         A velha troca
     day320/         Retornar os dois maiores valores da lista
     day321/         Filtrar os gansos
+    day322/         Pesos das Linhas
  
 ```
 
@@ -691,6 +692,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 319** | A velha troca | 7 kyu | Solved |
 | **Day 320** | Retornar os dois maiores valores da lista | 8 kyu | Solved |
 | **Day 321** | Filtrar os gansos | 8 kyu | Solved |
+| **Day 322** | Pesos das Linhas | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
