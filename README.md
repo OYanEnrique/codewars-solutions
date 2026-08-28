@@ -343,6 +343,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day320/         Return Two Highest Values in List
     day321/         Filter out the geese
     day322/         Row Weights
+    day323/         Calculate Price Excluding VAT
 
 
 ```
@@ -694,6 +695,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 320** | Return Two Highest Values in List | 8 kyu | Solved |
 | **Day 321** | Filter out the geese | 8 kyu | Solved |
 | **Day 322** | Row Weights | 7 kyu | Solved |
+| **Day 323** | Calculate Price Excluding VAT | 8 kyu | Solved |
 
 ##  Tech Stacks
 
