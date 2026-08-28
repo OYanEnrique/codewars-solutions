@@ -343,6 +343,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day320/         Retornar os dois maiores valores da lista
     day321/         Filtrar os gansos
     day322/         Pesos das Linhas
+    day323/         Calcular preço sem IVA
  
 ```
 
@@ -693,6 +694,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 320** | Retornar os dois maiores valores da lista | 8 kyu | Solved |
 | **Day 321** | Filtrar os gansos | 8 kyu | Solved |
 | **Day 322** | Pesos das Linhas | 7 kyu | Solved |
+| **Day 323** | Calcular preço sem IVA | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
