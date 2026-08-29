@@ -344,6 +344,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day321/         Filtrar os gansos
     day322/         Pesos das Linhas
     day323/         Calcular preço sem IVA
+    day324/         Iniciante - Crie os quartos
  
 ```
 
@@ -695,6 +696,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 321** | Filtrar os gansos | 8 kyu | Solved |
 | **Day 322** | Pesos das Linhas | 7 kyu | Solved |
 | **Day 323** | Calcular preço sem IVA | 8 kyu | Solved |
+| **Day 324** | Iniciante - Crie os quartos | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
