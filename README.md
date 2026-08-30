@@ -345,6 +345,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day322/         Row Weights
     day323/         Calculate Price Excluding VAT
     day324/         Grasshopper - Create the rooms
+    day325/         Fuel Calculator: Total Cost
 
 
 ```
@@ -698,6 +699,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 322** | Row Weights | 7 kyu | Solved |
 | **Day 323** | Calculate Price Excluding VAT | 8 kyu | Solved |
 | **Day 324** | Grasshopper - Create the rooms | 8 kyu | Solved |
+| **Day 325** | Fuel Calculator: Total Cost | 8 kyu | Solved |
 
 ##  Tech Stacks
 
