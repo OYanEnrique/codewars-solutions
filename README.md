@@ -346,6 +346,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day323/         Calculate Price Excluding VAT
     day324/         Grasshopper - Create the rooms
     day325/         Fuel Calculator: Total Cost
+    day326/         Longest vowel chain
 
 
 ```
@@ -700,6 +701,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 323** | Calculate Price Excluding VAT | 8 kyu | Solved |
 | **Day 324** | Grasshopper - Create the rooms | 8 kyu | Solved |
 | **Day 325** | Fuel Calculator: Total Cost | 8 kyu | Solved |
+| **Day 326** | Longest vowel chain | 7 kyu | Solved |
 
 ##  Tech Stacks
 
