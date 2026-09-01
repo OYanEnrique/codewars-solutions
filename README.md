@@ -347,6 +347,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day324/         Grasshopper - Create the rooms
     day325/         Fuel Calculator: Total Cost
     day326/         Longest vowel chain
+    day327/         Return the first M multiples of N
 
 
 ```
@@ -702,6 +703,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 324** | Grasshopper - Create the rooms | 8 kyu | Solved |
 | **Day 325** | Fuel Calculator: Total Cost | 8 kyu | Solved |
 | **Day 326** | Longest vowel chain | 7 kyu | Solved |
+| **Day 327** | Return the first M multiples of N | 7 kyu | Solved |
 
 ##  Tech Stacks
 
