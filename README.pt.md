@@ -347,6 +347,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day324/         Iniciante - Crie os quartos
     day325/         Calculadora de Combustível: Custo Total
     day326/         Sequência de vogais mais longa
+    day327/         Retorne os primeiros M múltiplos de N
  
 ```
 
@@ -701,6 +702,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 324** | Iniciante - Crie os quartos | 8 kyu | Solved |
 | **Day 325** | Calculadora de Combustível: Custo Total | 8 kyu | Solved |
 | **Day 326** | Sequência de vogais mais longa | 7 kyu | Solved |
+| **Day 327** | Retorne os primeiros M múltiplos de N | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
