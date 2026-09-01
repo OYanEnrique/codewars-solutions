@@ -348,6 +348,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day325/         Fuel Calculator: Total Cost
     day326/         Longest vowel chain
     day327/         Return the first M multiples of N
+    day328/         New Cashier Does Not Know About Space or Shift
 
 
 ```
@@ -704,6 +705,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 325** | Fuel Calculator: Total Cost | 8 kyu | Solved |
 | **Day 326** | Longest vowel chain | 7 kyu | Solved |
 | **Day 327** | Return the first M multiples of N | 7 kyu | Solved |
+| **Day 328** | New Cashier Does Not Know About Space or Shift | 6 kyu | Solved |
 
 ##  Tech Stacks
 
