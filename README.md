@@ -349,6 +349,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day326/         Longest vowel chain
     day327/         Return the first M multiples of N
     day328/         New Cashier Does Not Know About Space or Shift
+    day329/         Counting Duplicates
 
 
 ```
@@ -706,6 +707,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 326** | Longest vowel chain | 7 kyu | Solved |
 | **Day 327** | Return the first M multiples of N | 7 kyu | Solved |
 | **Day 328** | New Cashier Does Not Know About Space or Shift | 6 kyu | Solved |
+| **Day 329** | Counting Duplicates | 6 kyu | Solved |
 
 ##  Tech Stacks
 
