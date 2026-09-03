@@ -350,6 +350,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day327/         Retorne os primeiros M múltiplos de N
     day328/         O caixa novo não sabe sobre espaço ou turno
     day329/         Contando Duplicados
+    day330/         Número Especial (Série Números Especiais #5)
  
 ```
 
@@ -707,6 +708,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 327** | Retorne os primeiros M múltiplos de N | 7 kyu | Solved |
 | **Day 328** | O caixa novo não sabe sobre espaço ou turno | 6 kyu | Solved |
 | **Day 329** | Contando Duplicados | 6 kyu | Solved |
+| **Day 330** | Número Especial (Série Números Especiais #5) | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
