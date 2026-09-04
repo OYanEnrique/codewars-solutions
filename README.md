@@ -351,6 +351,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day328/         New Cashier Does Not Know About Space or Shift
     day329/         Counting Duplicates
     day330/         Special Number (Special Numbers Series #5)
+    day331/         Find Count of Most Frequent Item in an Array
 
 
 ```
@@ -710,6 +711,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 328** | New Cashier Does Not Know About Space or Shift | 6 kyu | Solved |
 | **Day 329** | Counting Duplicates | 6 kyu | Solved |
 | **Day 330** | Special Number (Special Numbers Series #5) | 7 kyu | Solved |
+| **Day 331** | Find Count of Most Frequent Item in an Array | 7 kyu | Solved |
 
 ##  Tech Stacks
 
