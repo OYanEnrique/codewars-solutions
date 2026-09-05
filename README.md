@@ -352,6 +352,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day329/         Counting Duplicates
     day330/         Special Number (Special Numbers Series #5)
     day331/         Find Count of Most Frequent Item in an Array
+    day332/         Quadratic Coefficients Solver
 
 
 ```
@@ -712,6 +713,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 329** | Counting Duplicates | 6 kyu | Solved |
 | **Day 330** | Special Number (Special Numbers Series #5) | 7 kyu | Solved |
 | **Day 331** | Find Count of Most Frequent Item in an Array | 7 kyu | Solved |
+| **Day 332** | Quadratic Coefficients Solver | 8 kyu | Solved |
 
 ##  Tech Stacks
 
