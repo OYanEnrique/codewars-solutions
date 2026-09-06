@@ -353,6 +353,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day330/         Número Especial (Série Números Especiais #5)
     day331/         Encontrar a quantidade do item mais frequente em um array
     day332/         Resolvedor de Coeficientes Quadráticos
+    day333/         Trocando letras
  
 ```
 
@@ -713,6 +714,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 330** | Número Especial (Série Números Especiais #5) | 7 kyu | Solved |
 | **Day 331** | Encontrar a quantidade do item mais frequente em um array | 7 kyu | Solved |
 | **Day 332** | Resolvedor de Coeficientes Quadráticos | 8 kyu | Solved |
+| **Day 333** | Trocando letras | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
