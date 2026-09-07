@@ -354,6 +354,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day331/         Find Count of Most Frequent Item in an Array
     day332/         Quadratic Coefficients Solver
     day333/         Changing letters
+    day334/         Encrypt this!
 
 
 ```
@@ -716,6 +717,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 331** | Find Count of Most Frequent Item in an Array | 7 kyu | Solved |
 | **Day 332** | Quadratic Coefficients Solver | 8 kyu | Solved |
 | **Day 333** | Changing letters | 7 kyu | Solved |
+| **Day 334** | Encrypt this! | 6 kyu | Solved |
 
 ##  Tech Stacks
 
