@@ -354,6 +354,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day331/         Encontrar a quantidade do item mais frequente em um array
     day332/         Resolvedor de Coeficientes Quadráticos
     day333/         Trocando letras
+    day334/         Criptografe isso!
  
 ```
 
@@ -715,6 +716,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 331** | Encontrar a quantidade do item mais frequente em um array | 7 kyu | Solved |
 | **Day 332** | Resolvedor de Coeficientes Quadráticos | 8 kyu | Solved |
 | **Day 333** | Trocando letras | 7 kyu | Solved |
+| **Day 334** | Criptografe isso! | 6 kyu | Solved |
 
 ##  Stack Tecnológica
 
