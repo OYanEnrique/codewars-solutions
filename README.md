@@ -355,6 +355,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day332/         Quadratic Coefficients Solver
     day333/         Changing letters
     day334/         Encrypt this!
+    day335/         I love you, a little , a lot, passionately ... not at all
 
 
 ```
@@ -718,6 +719,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 332** | Quadratic Coefficients Solver | 8 kyu | Solved |
 | **Day 333** | Changing letters | 7 kyu | Solved |
 | **Day 334** | Encrypt this! | 6 kyu | Solved |
+| **Day 335** | I love you, a little , a lot, passionately ... not at all | 8 kyu | Solved |
 
 ##  Tech Stacks
 
