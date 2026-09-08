@@ -355,6 +355,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day332/         Resolvedor de Coeficientes Quadráticos
     day333/         Trocando letras
     day334/         Criptografe isso!
+    day335/         Eu te amo, um pouco, muito, apaixonadamente... nada
  
 ```
 
@@ -717,6 +718,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 332** | Resolvedor de Coeficientes Quadráticos | 8 kyu | Solved |
 | **Day 333** | Trocando letras | 7 kyu | Solved |
 | **Day 334** | Criptografe isso! | 6 kyu | Solved |
+| **Day 335** | Eu te amo, um pouco, muito, apaixonadamente... nada | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
