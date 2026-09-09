@@ -356,6 +356,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day333/         Trocando letras
     day334/         Criptografe isso!
     day335/         Eu te amo, um pouco, muito, apaixonadamente... nada
+    day336/         O Escritório IV - Encontre uma Sala de Reunião
  
 ```
 
@@ -719,6 +720,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 333** | Trocando letras | 7 kyu | Solved |
 | **Day 334** | Criptografe isso! | 6 kyu | Solved |
 | **Day 335** | Eu te amo, um pouco, muito, apaixonadamente... nada | 8 kyu | Solved |
+| **Day 336** | O Escritório IV - Encontre uma Sala de Reunião | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
