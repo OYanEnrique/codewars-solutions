@@ -357,6 +357,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day334/         Criptografe isso!
     day335/         Eu te amo, um pouco, muito, apaixonadamente... nada
     day336/         O Escritório IV - Encontre uma Sala de Reunião
+    day337/         Bilhete de Loteria
  
 ```
 
@@ -721,6 +722,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 334** | Criptografe isso! | 6 kyu | Solved |
 | **Day 335** | Eu te amo, um pouco, muito, apaixonadamente... nada | 8 kyu | Solved |
 | **Day 336** | O Escritório IV - Encontre uma Sala de Reunião | 7 kyu | Solved |
+| **Day 337** | Bilhete de Loteria | 6 kyu | Solved |
 
 ##  Stack Tecnológica
 
