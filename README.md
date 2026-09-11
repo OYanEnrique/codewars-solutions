@@ -358,6 +358,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day335/         I love you, a little , a lot, passionately ... not at all
     day336/         The Office IV - Find a Meeting Room
     day337/         Lottery Ticket
+    day338/         For Twins: 1. Types
 
 
 ```
@@ -724,6 +725,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 335** | I love you, a little , a lot, passionately ... not at all | 8 kyu | Solved |
 | **Day 336** | The Office IV - Find a Meeting Room | 7 kyu | Solved |
 | **Day 337** | Lottery Ticket | 6 kyu | Solved |
+| **Day 338** | For Twins: 1. Types | 8 kyu | Solved |
 
 ##  Tech Stacks
 
