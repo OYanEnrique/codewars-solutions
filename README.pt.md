@@ -359,6 +359,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day336/         O Escritório IV - Encontre uma Sala de Reunião
     day337/         Bilhete de Loteria
     day338/         Para Gêmeos: 1. Tipos
+    day339/         Equação de Compatibilidade de Idade
  
 ```
 
@@ -725,6 +726,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 336** | O Escritório IV - Encontre uma Sala de Reunião | 7 kyu | Solved |
 | **Day 337** | Bilhete de Loteria | 6 kyu | Solved |
 | **Day 338** | Para Gêmeos: 1. Tipos | 8 kyu | Solved |
+| **Day 339** | Equação de Compatibilidade de Idade | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
