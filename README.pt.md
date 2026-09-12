@@ -360,6 +360,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day337/         Bilhete de Loteria
     day338/         Para Gêmeos: 1. Tipos
     day339/         Equação de Compatibilidade de Idade
+    day340/         Representação CSV de array
  
 ```
 
@@ -727,6 +728,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 337** | Bilhete de Loteria | 6 kyu | Solved |
 | **Day 338** | Para Gêmeos: 1. Tipos | 8 kyu | Solved |
 | **Day 339** | Equação de Compatibilidade de Idade | 8 kyu | Solved |
+| **Day 340** | Representação CSV de array | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
