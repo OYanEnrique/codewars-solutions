@@ -360,6 +360,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day337/         Lottery Ticket
     day338/         For Twins: 1. Types
     day339/         Age Range Compatibility Equation
+    day340/         CSV representation of array
 
 
 ```
@@ -728,6 +729,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 337** | Lottery Ticket | 6 kyu | Solved |
 | **Day 338** | For Twins: 1. Types | 8 kyu | Solved |
 | **Day 339** | Age Range Compatibility Equation | 8 kyu | Solved |
+| **Day 340** | CSV representation of array | 8 kyu | Solved |
 
 ##  Tech Stacks
 
