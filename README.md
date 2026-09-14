@@ -361,6 +361,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day338/         For Twins: 1. Types
     day339/         Age Range Compatibility Equation
     day340/         CSV representation of array
+    day341/         Squares sequence
 
 
 ```
@@ -730,6 +731,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 338** | For Twins: 1. Types | 8 kyu | Solved |
 | **Day 339** | Age Range Compatibility Equation | 8 kyu | Solved |
 | **Day 340** | CSV representation of array | 8 kyu | Solved |
+| **Day 341** | Squares sequence | 7 kyu | Solved |
 
 ##  Tech Stacks
 
