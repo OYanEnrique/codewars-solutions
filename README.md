@@ -362,6 +362,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day339/         Age Range Compatibility Equation
     day340/         CSV representation of array
     day341/         Squares sequence
+    day342/         NBA full 48 minutes average
 
 
 ```
@@ -732,6 +733,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 339** | Age Range Compatibility Equation | 8 kyu | Solved |
 | **Day 340** | CSV representation of array | 8 kyu | Solved |
 | **Day 341** | Squares sequence | 7 kyu | Solved |
+| **Day 342** | NBA full 48 minutes average | 8 kyu | Solved |
 
 ##  Tech Stacks
 
