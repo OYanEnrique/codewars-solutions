@@ -363,6 +363,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day340/         Representação CSV de array
     day341/         Sequência de quadrados
     day342/         Média de 48 minutos completos da NBA
+    day343/         Contagem Ordenada de Caracteres
  
 ```
 
@@ -733,6 +734,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 340** | Representação CSV de array | 8 kyu | Solved |
 | **Day 341** | Sequência de quadrados | 7 kyu | Solved |
 | **Day 342** | Média de 48 minutos completos da NBA | 8 kyu | Solved |
+| **Day 343** | Contagem Ordenada de Caracteres | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
