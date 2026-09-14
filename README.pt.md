@@ -362,6 +362,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day339/         Equação de Compatibilidade de Idade
     day340/         Representação CSV de array
     day341/         Sequência de quadrados
+    day342/         Média de 48 minutos completos da NBA
  
 ```
 
@@ -731,6 +732,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 339** | Equação de Compatibilidade de Idade | 8 kyu | Solved |
 | **Day 340** | Representação CSV de array | 8 kyu | Solved |
 | **Day 341** | Sequência de quadrados | 7 kyu | Solved |
+| **Day 342** | Média de 48 minutos completos da NBA | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
