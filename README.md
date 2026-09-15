@@ -364,6 +364,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day341/         Squares sequence
     day342/         NBA full 48 minutes average
     day343/         Ordered Count of Characters
+    day344/         Multiple of index
 
 
 ```
@@ -736,6 +737,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 341** | Squares sequence | 7 kyu | Solved |
 | **Day 342** | NBA full 48 minutes average | 8 kyu | Solved |
 | **Day 343** | Ordered Count of Characters | 7 kyu | Solved |
+| **Day 344** | Multiple of index | 8 kyu | Solved |
 
 ##  Tech Stacks
 
