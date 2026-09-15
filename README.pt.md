@@ -364,6 +364,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day341/         Sequência de quadrados
     day342/         Média de 48 minutos completos da NBA
     day343/         Contagem Ordenada de Caracteres
+    day344/         Múltiplo do índice
  
 ```
 
@@ -735,6 +736,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 341** | Sequência de quadrados | 7 kyu | Solved |
 | **Day 342** | Média de 48 minutos completos da NBA | 8 kyu | Solved |
 | **Day 343** | Contagem Ordenada de Caracteres | 7 kyu | Solved |
+| **Day 344** | Múltiplo do índice | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
