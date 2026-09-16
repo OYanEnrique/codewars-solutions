@@ -365,6 +365,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day342/         NBA full 48 minutes average
     day343/         Ordered Count of Characters
     day344/         Multiple of index
+    day345/         Last Survivor
 
 
 ```
@@ -738,6 +739,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 342** | NBA full 48 minutes average | 8 kyu | Solved |
 | **Day 343** | Ordered Count of Characters | 7 kyu | Solved |
 | **Day 344** | Multiple of index | 8 kyu | Solved |
+| **Day 345** | Last Survivor | 7 kyu | Solved |
 
 ##  Tech Stacks
 
