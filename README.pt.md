@@ -366,6 +366,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day343/         Contagem Ordenada de Caracteres
     day344/         Múltiplo do índice
     day345/         Último Sobrevivente
+    day346/         Pato Pato Ganso
  
 ```
 
@@ -739,6 +740,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 343** | Contagem Ordenada de Caracteres | 7 kyu | Solved |
 | **Day 344** | Múltiplo do índice | 8 kyu | Solved |
 | **Day 345** | Último Sobrevivente | 7 kyu | Solved |
+| **Day 346** | Pato Pato Ganso | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
