@@ -366,6 +366,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day343/         Ordered Count of Characters
     day344/         Multiple of index
     day345/         Last Survivor
+    day346/         Duck Duck Goose
 
 
 ```
@@ -740,6 +741,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 343** | Ordered Count of Characters | 7 kyu | Solved |
 | **Day 344** | Multiple of index | 8 kyu | Solved |
 | **Day 345** | Last Survivor | 7 kyu | Solved |
+| **Day 346** | Duck Duck Goose | 8 kyu | Solved |
 
 ##  Tech Stacks
 
