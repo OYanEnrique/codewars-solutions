@@ -367,6 +367,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day344/         Multiple of index
     day345/         Last Survivor
     day346/         Duck Duck Goose
+    day347/         Merging sorted integer arrays (without duplicates)
 
 
 ```
@@ -742,6 +743,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 344** | Multiple of index | 8 kyu | Solved |
 | **Day 345** | Last Survivor | 7 kyu | Solved |
 | **Day 346** | Duck Duck Goose | 8 kyu | Solved |
+| **Day 347** | Merging sorted integer arrays (without duplicates) | 8 kyu | Solved |
 
 ##  Tech Stacks
 
