@@ -368,6 +368,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day345/         Último Sobrevivente
     day346/         Pato Pato Ganso
     day347/         Mesclando arrays de inteiros ordenados (sem duplicatas)
+    day348/         Interpretadores 8kyu: HQ9+
  
 ```
 
@@ -743,6 +744,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 345** | Último Sobrevivente | 7 kyu | Solved |
 | **Day 346** | Pato Pato Ganso | 8 kyu | Solved |
 | **Day 347** | Mesclando arrays de inteiros ordenados (sem duplicatas) | 8 kyu | Solved |
+| **Day 348** | Interpretadores 8kyu: HQ9+ | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
