@@ -368,6 +368,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day345/         Last Survivor
     day346/         Duck Duck Goose
     day347/         Merging sorted integer arrays (without duplicates)
+    day348/         8kyu interpreters: HQ9+
 
 
 ```
@@ -744,6 +745,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 345** | Last Survivor | 7 kyu | Solved |
 | **Day 346** | Duck Duck Goose | 8 kyu | Solved |
 | **Day 347** | Merging sorted integer arrays (without duplicates) | 8 kyu | Solved |
+| **Day 348** | 8kyu interpreters: HQ9+ | 8 kyu | Solved |
 
 ##  Tech Stacks
 
