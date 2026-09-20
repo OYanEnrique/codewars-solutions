@@ -369,6 +369,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day346/         Duck Duck Goose
     day347/         Merging sorted integer arrays (without duplicates)
     day348/         8kyu interpreters: HQ9+
+    day349/         String Merge!
 
 
 ```
@@ -746,6 +747,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 346** | Duck Duck Goose | 8 kyu | Solved |
 | **Day 347** | Merging sorted integer arrays (without duplicates) | 8 kyu | Solved |
 | **Day 348** | 8kyu interpreters: HQ9+ | 8 kyu | Solved |
+| **Day 349** | String Merge! | 7 kyu | Solved |
 
 ##  Tech Stacks
 
