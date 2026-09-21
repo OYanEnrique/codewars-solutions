@@ -370,6 +370,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day347/         Mesclando arrays de inteiros ordenados (sem duplicatas)
     day348/         Interpretadores 8kyu: HQ9+
     day349/         Juntar Strings!
+    day350/         Caracteres únicos da string
  
 ```
 
@@ -747,6 +748,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 347** | Mesclando arrays de inteiros ordenados (sem duplicatas) | 8 kyu | Solved |
 | **Day 348** | Interpretadores 8kyu: HQ9+ | 8 kyu | Solved |
 | **Day 349** | Juntar Strings! | 7 kyu | Solved |
+| **Day 350** | Caracteres únicos da string | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
