@@ -372,6 +372,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day349/         String Merge!
     day350/         Unique string characters
     day351/         Split In Parts
+    day352/         Online RPG: player to qualifying stage?
 
 
 ```
@@ -752,6 +753,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 349** | String Merge! | 7 kyu | Solved |
 | **Day 350** | Unique string characters | 7 kyu | Solved |
 | **Day 351** | Split In Parts | 7 kyu | Solved |
+| **Day 352** | Online RPG: player to qualifying stage? | 8 kyu | Solved |
 
 ##  Tech Stacks
 
