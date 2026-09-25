@@ -373,6 +373,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day350/         Caracteres únicos da string
     day351/         Dividir em Partes
     day352/         RPG online: jogador vai para a fase de qualificação?
+    day353/         Ajude o Cara das Frutas
  
 ```
 
@@ -753,6 +754,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 350** | Caracteres únicos da string | 7 kyu | Solved |
 | **Day 351** | Dividir em Partes | 7 kyu | Solved |
 | **Day 352** | RPG online: jogador vai para a fase de qualificação? | 8 kyu | Solved |
+| **Day 353** | Ajude o Cara das Frutas | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
