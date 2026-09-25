@@ -373,6 +373,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day350/         Unique string characters
     day351/         Split In Parts
     day352/         Online RPG: player to qualifying stage?
+    day353/         Help the Fruit Guy
 
 
 ```
@@ -754,6 +755,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 350** | Unique string characters | 7 kyu | Solved |
 | **Day 351** | Split In Parts | 7 kyu | Solved |
 | **Day 352** | Online RPG: player to qualifying stage? | 8 kyu | Solved |
+| **Day 353** | Help the Fruit Guy | 7 kyu | Solved |
 
 ##  Tech Stacks
 
