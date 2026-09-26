@@ -375,6 +375,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day352/         RPG online: jogador vai para a fase de qualificação?
     day353/         Ajude o Cara das Frutas
     day354/         Desafio de Código All Star #22
+    day355/         Substituindo Variáveis em Strings: Números com Preenchimento
  
 ```
 
@@ -757,6 +758,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 352** | RPG online: jogador vai para a fase de qualificação? | 8 kyu | Solved |
 | **Day 353** | Ajude o Cara das Frutas | 7 kyu | Solved |
 | **Day 354** | Desafio de Código All Star #22 | 7 kyu | Solved |
+| **Day 355** | Substituindo Variáveis em Strings: Números com Preenchimento | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
