@@ -376,6 +376,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day353/         Help the Fruit Guy
     day354/         All Star Code Challenge #22
     day355/         Substituting Variables Into Strings: Padded Numbers
+    day356/         Jumping Number (Special Numbers Series #4)
 
 
 ```
@@ -760,6 +761,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 353** | Help the Fruit Guy | 7 kyu | Solved |
 | **Day 354** | All Star Code Challenge #22 | 7 kyu | Solved |
 | **Day 355** | Substituting Variables Into Strings: Padded Numbers | 7 kyu | Solved |
+| **Day 356** | Jumping Number (Special Numbers Series #4) | 7 kyu | Solved |
 
 ##  Tech Stacks
 
