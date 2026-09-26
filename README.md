@@ -375,6 +375,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day352/         Online RPG: player to qualifying stage?
     day353/         Help the Fruit Guy
     day354/         All Star Code Challenge #22
+    day355/         Substituting Variables Into Strings: Padded Numbers
 
 
 ```
@@ -758,6 +759,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 352** | Online RPG: player to qualifying stage? | 8 kyu | Solved |
 | **Day 353** | Help the Fruit Guy | 7 kyu | Solved |
 | **Day 354** | All Star Code Challenge #22 | 7 kyu | Solved |
+| **Day 355** | Substituting Variables Into Strings: Padded Numbers | 7 kyu | Solved |
 
 ##  Tech Stacks
 
