@@ -376,6 +376,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day353/         Ajude o Cara das Frutas
     day354/         Desafio de Código All Star #22
     day355/         Substituindo Variáveis em Strings: Números com Preenchimento
+    day356/         Número Saltitante (Série Números Especiais #4)
  
 ```
 
@@ -759,6 +760,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 353** | Ajude o Cara das Frutas | 7 kyu | Solved |
 | **Day 354** | Desafio de Código All Star #22 | 7 kyu | Solved |
 | **Day 355** | Substituindo Variáveis em Strings: Números com Preenchimento | 7 kyu | Solved |
+| **Day 356** | Número Saltitante (Série Números Especiais #4) | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
