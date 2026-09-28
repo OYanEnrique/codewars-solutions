@@ -377,6 +377,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day354/         All Star Code Challenge #22
     day355/         Substituting Variables Into Strings: Padded Numbers
     day356/         Jumping Number (Special Numbers Series #4)
+    day357/         Shorter concat [reverse longer]
 
 
 ```
@@ -762,6 +763,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 354** | All Star Code Challenge #22 | 7 kyu | Solved |
 | **Day 355** | Substituting Variables Into Strings: Padded Numbers | 7 kyu | Solved |
 | **Day 356** | Jumping Number (Special Numbers Series #4) | 7 kyu | Solved |
+| **Day 357** | Shorter concat [reverse longer] | 7 kyu | Solved |
 
 ##  Tech Stacks
 
