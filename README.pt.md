@@ -378,6 +378,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day355/         Substituindo Variáveis em Strings: Números com Preenchimento
     day356/         Número Saltitante (Série Números Especiais #4)
     day357/         Concat mais curto [inverter mais longo]
+    day358/         Terminar o jogo de adivinhar o número
  
 ```
 
@@ -763,6 +764,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 355** | Substituindo Variáveis em Strings: Números com Preenchimento | 7 kyu | Solved |
 | **Day 356** | Número Saltitante (Série Números Especiais #4) | 7 kyu | Solved |
 | **Day 357** | Concat mais curto [inverter mais longo] | 7 kyu | Solved |
+| **Day 358** | Terminar o jogo de adivinhar o número | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
