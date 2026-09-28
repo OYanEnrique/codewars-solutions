@@ -378,6 +378,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day355/         Substituting Variables Into Strings: Padded Numbers
     day356/         Jumping Number (Special Numbers Series #4)
     day357/         Shorter concat [reverse longer]
+    day358/         Finish Guess the Number Game
 
 
 ```
@@ -764,6 +765,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 355** | Substituting Variables Into Strings: Padded Numbers | 7 kyu | Solved |
 | **Day 356** | Jumping Number (Special Numbers Series #4) | 7 kyu | Solved |
 | **Day 357** | Shorter concat [reverse longer] | 7 kyu | Solved |
+| **Day 358** | Finish Guess the Number Game | 8 kyu | Solved |
 
 ##  Tech Stacks
 
