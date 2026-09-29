@@ -380,6 +380,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day357/         Concat mais curto [inverter mais longo]
     day358/         Terminar o jogo de adivinhar o número
     day359/         Guerra do alfabeto
+    day360/         Proteger Entrada do Usuário Parte I - caracteresespeciaishtml
  
 ```
 
@@ -767,6 +768,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 357** | Concat mais curto [inverter mais longo] | 7 kyu | Solved |
 | **Day 358** | Terminar o jogo de adivinhar o número | 8 kyu | Solved |
 | **Day 359** | Guerra do alfabeto | 7 kyu | Solved |
+| **Day 360** | Proteger Entrada do Usuário Parte I - caracteresespeciaishtml | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
