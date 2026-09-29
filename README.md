@@ -379,6 +379,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day356/         Jumping Number (Special Numbers Series #4)
     day357/         Shorter concat [reverse longer]
     day358/         Finish Guess the Number Game
+    day359/         Alphabet war
 
 
 ```
@@ -766,6 +767,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 356** | Jumping Number (Special Numbers Series #4) | 7 kyu | Solved |
 | **Day 357** | Shorter concat [reverse longer] | 7 kyu | Solved |
 | **Day 358** | Finish Guess the Number Game | 8 kyu | Solved |
+| **Day 359** | Alphabet war | 7 kyu | Solved |
 
 ##  Tech Stacks
 
