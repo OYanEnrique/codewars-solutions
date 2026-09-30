@@ -381,6 +381,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day358/         Finish Guess the Number Game
     day359/         Alphabet war
     day360/         Safen User Input Part I - htmlspecialchars
+    day361/         Sort by Last Char
 
 
 ```
@@ -770,6 +771,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 358** | Finish Guess the Number Game | 8 kyu | Solved |
 | **Day 359** | Alphabet war | 7 kyu | Solved |
 | **Day 360** | Safen User Input Part I - htmlspecialchars | 8 kyu | Solved |
+| **Day 361** | Sort by Last Char | 7 kyu | Solved |
 
 ##  Tech Stacks
 
