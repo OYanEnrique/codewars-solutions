@@ -382,6 +382,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day359/         Guerra do alfabeto
     day360/         Proteger Entrada do Usuário Parte I - caracteresespeciaishtml
     day361/         Ordenar pelo último caractere
+    day362/         Mágica Enumerável #20 - Subconjuntos em Cascata
  
 ```
 
@@ -771,6 +772,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 359** | Guerra do alfabeto | 7 kyu | Solved |
 | **Day 360** | Proteger Entrada do Usuário Parte I - caracteresespeciaishtml | 8 kyu | Solved |
 | **Day 361** | Ordenar pelo último caractere | 7 kyu | Solved |
+| **Day 362** | Mágica Enumerável #20 - Subconjuntos em Cascata | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
