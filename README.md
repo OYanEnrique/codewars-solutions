@@ -383,6 +383,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day360/         Safen User Input Part I - htmlspecialchars
     day361/         Sort by Last Char
     day362/         Enumerable Magic #20 - Cascading Subsets
+    day363/         Mumbling
 
 
 ```
@@ -774,6 +775,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 360** | Safen User Input Part I - htmlspecialchars | 8 kyu | Solved |
 | **Day 361** | Sort by Last Char | 7 kyu | Solved |
 | **Day 362** | Enumerable Magic #20 - Cascading Subsets | 8 kyu | Solved |
+| **Day 363** | Mumbling | 7 kyu | Solved |
 
 ##  Tech Stacks
 
