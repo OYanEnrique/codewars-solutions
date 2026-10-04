@@ -385,6 +385,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day362/         Mágica Enumerável #20 - Subconjuntos em Cascata
     day363/         Resmungando
     day364/         Calculadora Lógica
+    day365/         O Escritório II - Índice de Tédio
  
 ```
 
@@ -777,6 +778,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 362** | Mágica Enumerável #20 - Subconjuntos em Cascata | 8 kyu | Solved |
 | **Day 363** | Resmungando | 7 kyu | Solved |
 | **Day 364** | Calculadora Lógica | 8 kyu | Solved |
+| **Day 365** | O Escritório II - Índice de Tédio | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
