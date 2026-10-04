@@ -385,6 +385,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day362/         Enumerable Magic #20 - Cascading Subsets
     day363/         Mumbling
     day364/         Logical calculator
+    day365/         The Office II - Boredom Score
 
 
 ```
@@ -778,6 +779,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 362** | Enumerable Magic #20 - Cascading Subsets | 8 kyu | Solved |
 | **Day 363** | Mumbling | 7 kyu | Solved |
 | **Day 364** | Logical calculator | 8 kyu | Solved |
+| **Day 365** | The Office II - Boredom Score | 7 kyu | Solved |
 
 ##  Tech Stacks
 
