@@ -386,6 +386,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day363/         Mumbling
     day364/         Logical calculator
     day365/         The Office II - Boredom Score
+    day366/         Count all the sheep on farm in the heights of New Zealand
 
 
 ```
@@ -780,6 +781,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 363** | Mumbling | 7 kyu | Solved |
 | **Day 364** | Logical calculator | 8 kyu | Solved |
 | **Day 365** | The Office II - Boredom Score | 7 kyu | Solved |
+| **Day 366** | Count all the sheep on farm in the heights of New Zealand | 7 kyu | Solved |
 
 ##  Tech Stacks
 
