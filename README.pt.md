@@ -387,6 +387,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day364/         Calculadora Lógica
     day365/         O Escritório II - Índice de Tédio
     day366/         Conte todas as ovelhas na fazenda nas altitudes da Nova Zelândia
+    day367/         Treinamento Básico: Adicionar item a um Array
  
 ```
 
@@ -781,6 +782,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 364** | Calculadora Lógica | 8 kyu | Solved |
 | **Day 365** | O Escritório II - Índice de Tédio | 7 kyu | Solved |
 | **Day 366** | Conte todas as ovelhas na fazenda nas altitudes da Nova Zelândia | 7 kyu | Solved |
+| **Day 367** | Treinamento Básico: Adicionar item a um Array | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
