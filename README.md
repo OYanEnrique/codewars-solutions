@@ -387,6 +387,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day364/         Logical calculator
     day365/         The Office II - Boredom Score
     day366/         Count all the sheep on farm in the heights of New Zealand
+    day367/         Basic Training: Add item to an Array
 
 
 ```
@@ -782,6 +783,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 364** | Logical calculator | 8 kyu | Solved |
 | **Day 365** | The Office II - Boredom Score | 7 kyu | Solved |
 | **Day 366** | Count all the sheep on farm in the heights of New Zealand | 7 kyu | Solved |
+| **Day 367** | Basic Training: Add item to an Array | 8 kyu | Solved |
 
 ##  Tech Stacks
 
