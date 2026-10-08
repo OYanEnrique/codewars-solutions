@@ -390,6 +390,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day367/         Treinamento Básico: Adicionar item a um Array
     day368/         Rot13
     day369/         Os Ratos Surdos de Hamelin
+    day370/         Número de Pessoas no Ônibus
  
 ```
 
@@ -787,6 +788,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 367** | Treinamento Básico: Adicionar item a um Array | 8 kyu | Solved |
 | **Day 368** | Rot13 | 5 kyu | Solved |
 | **Day 369** | Os Ratos Surdos de Hamelin | 6 kyu | Solved |
+| **Day 370** | Número de Pessoas no Ônibus | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
