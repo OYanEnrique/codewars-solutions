@@ -389,6 +389,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day366/         Conte todas as ovelhas na fazenda nas altitudes da Nova Zelândia
     day367/         Treinamento Básico: Adicionar item a um Array
     day368/         Rot13
+    day369/         Os Ratos Surdos de Hamelin
  
 ```
 
@@ -785,6 +786,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 366** | Conte todas as ovelhas na fazenda nas altitudes da Nova Zelândia | 7 kyu | Solved |
 | **Day 367** | Treinamento Básico: Adicionar item a um Array | 8 kyu | Solved |
 | **Day 368** | Rot13 | 5 kyu | Solved |
+| **Day 369** | Os Ratos Surdos de Hamelin | 6 kyu | Solved |
 
 ##  Stack Tecnológica
 
