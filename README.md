@@ -390,6 +390,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day367/         Basic Training: Add item to an Array
     day368/         Rot13
     day369/         The Deaf Rats of Hamelin
+    day370/         Number of People in the Bus
 
 
 ```
@@ -788,6 +789,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 367** | Basic Training: Add item to an Array | 8 kyu | Solved |
 | **Day 368** | Rot13 | 5 kyu | Solved |
 | **Day 369** | The Deaf Rats of Hamelin | 6 kyu | Solved |
+| **Day 370** | Number of People in the Bus | 7 kyu | Solved |
 
 ##  Tech Stacks
 
