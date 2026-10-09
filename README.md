@@ -391,6 +391,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day368/         Rot13
     day369/         The Deaf Rats of Hamelin
     day370/         Number of People in the Bus
+    day371/         Holiday III - Fire on the boat
 
 
 ```
@@ -790,6 +791,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 368** | Rot13 | 5 kyu | Solved |
 | **Day 369** | The Deaf Rats of Hamelin | 6 kyu | Solved |
 | **Day 370** | Number of People in the Bus | 7 kyu | Solved |
+| **Day 371** | Holiday III - Fire on the boat | 7 kyu | Solved |
 
 ##  Tech Stacks
 
