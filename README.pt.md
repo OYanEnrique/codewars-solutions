@@ -391,6 +391,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day368/         Rot13
     day369/         Os Ratos Surdos de Hamelin
     day370/         Número de Pessoas no Ônibus
+    day371/         Férias III - Fogo no barco
  
 ```
 
@@ -789,6 +790,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 368** | Rot13 | 5 kyu | Solved |
 | **Day 369** | Os Ratos Surdos de Hamelin | 6 kyu | Solved |
 | **Day 370** | Número de Pessoas no Ônibus | 7 kyu | Solved |
+| **Day 371** | Férias III - Fogo no barco | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
