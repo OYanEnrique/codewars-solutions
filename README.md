@@ -393,6 +393,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day370/         Number of People in the Bus
     day371/         Holiday III - Fire on the boat
     day372/         Digital cypher
+    day373/         Elevator Distance
 
 
 ```
@@ -794,6 +795,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 370** | Number of People in the Bus | 7 kyu | Solved |
 | **Day 371** | Holiday III - Fire on the boat | 7 kyu | Solved |
 | **Day 372** | Digital cypher | 7 kyu | Solved |
+| **Day 373** | Elevator Distance | 7 kyu | Solved |
 
 ##  Tech Stacks
 
