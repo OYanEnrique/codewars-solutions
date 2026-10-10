@@ -393,6 +393,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day370/         Número de Pessoas no Ônibus
     day371/         Férias III - Fogo no barco
     day372/         Cifra digital
+    day373/         Distância do Elevador
  
 ```
 
@@ -793,6 +794,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 370** | Número de Pessoas no Ônibus | 7 kyu | Solved |
 | **Day 371** | Férias III - Fogo no barco | 7 kyu | Solved |
 | **Day 372** | Cifra digital | 7 kyu | Solved |
+| **Day 373** | Distância do Elevador | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
