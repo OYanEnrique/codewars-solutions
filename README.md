@@ -394,6 +394,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day371/         Holiday III - Fire on the boat
     day372/         Digital cypher
     day373/         Elevator Distance
+    day374/         Clean up after your dog
 
 
 ```
@@ -796,6 +797,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 371** | Holiday III - Fire on the boat | 7 kyu | Solved |
 | **Day 372** | Digital cypher | 7 kyu | Solved |
 | **Day 373** | Elevator Distance | 7 kyu | Solved |
+| **Day 374** | Clean up after your dog | 7 kyu | Solved |
 
 ##  Tech Stacks
 
