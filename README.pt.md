@@ -395,6 +395,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day372/         Cifra digital
     day373/         Distância do Elevador
     day374/         Limpe a sujeira do seu cachorro
+    day375/         Dobrar seu caminho até a lua
  
 ```
 
@@ -797,6 +798,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 372** | Cifra digital | 7 kyu | Solved |
 | **Day 373** | Distância do Elevador | 7 kyu | Solved |
 | **Day 374** | Limpe a sujeira do seu cachorro | 7 kyu | Solved |
+| **Day 375** | Dobrar seu caminho até a lua | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
