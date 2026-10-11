@@ -394,6 +394,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day371/         Férias III - Fogo no barco
     day372/         Cifra digital
     day373/         Distância do Elevador
+    day374/         Limpe a sujeira do seu cachorro
  
 ```
 
@@ -795,6 +796,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 371** | Férias III - Fogo no barco | 7 kyu | Solved |
 | **Day 372** | Cifra digital | 7 kyu | Solved |
 | **Day 373** | Distância do Elevador | 7 kyu | Solved |
+| **Day 374** | Limpe a sujeira do seu cachorro | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
