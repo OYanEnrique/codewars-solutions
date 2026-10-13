@@ -397,6 +397,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day374/         Clean up after your dog
     day375/         Folding your way to the moon
     day376/         String transformer
+    day377/         Basic subclasses - Adam and Eve
 
 
 ```
@@ -802,6 +803,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 374** | Clean up after your dog | 7 kyu | Solved |
 | **Day 375** | Folding your way to the moon | 7 kyu | Solved |
 | **Day 376** | String transformer | 6 kyu | Solved |
+| **Day 377** | Basic subclasses - Adam and Eve | 8 kyu | Solved |
 
 ##  Tech Stacks
 
