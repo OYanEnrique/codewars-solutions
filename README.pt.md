@@ -397,6 +397,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day374/         Limpe a sujeira do seu cachorro
     day375/         Dobrar seu caminho até a lua
     day376/         Transformador de string
+    day377/         Subclasses básicas - Adão e Eva
  
 ```
 
@@ -801,6 +802,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 374** | Limpe a sujeira do seu cachorro | 7 kyu | Solved |
 | **Day 375** | Dobrar seu caminho até a lua | 7 kyu | Solved |
 | **Day 376** | Transformador de string | 6 kyu | Solved |
+| **Day 377** | Subclasses básicas - Adão e Eva | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
