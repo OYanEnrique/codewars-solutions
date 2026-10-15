@@ -399,6 +399,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day376/         Transformador de string
     day377/         Subclasses básicas - Adão e Eva
     day378/         ParaLínguaLeet
+    day379/         Férias VI - Píer do Tubarão
  
 ```
 
@@ -805,6 +806,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 376** | Transformador de string | 6 kyu | Solved |
 | **Day 377** | Subclasses básicas - Adão e Eva | 8 kyu | Solved |
 | **Day 378** | ParaLínguaLeet | 7 kyu | Solved |
+| **Day 379** | Férias VI - Píer do Tubarão | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
