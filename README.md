@@ -400,6 +400,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day377/         Basic subclasses - Adam and Eve
     day378/         ToLeetSpeak
     day379/         Holiday VI - Shark Pontoon
+    day380/         Disarium Number (Special Numbers Series #3)
 
 
 ```
@@ -808,6 +809,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 377** | Basic subclasses - Adam and Eve | 8 kyu | Solved |
 | **Day 378** | ToLeetSpeak | 7 kyu | Solved |
 | **Day 379** | Holiday VI - Shark Pontoon | 8 kyu | Solved |
+| **Day 380** | Disarium Number (Special Numbers Series #3) | 7 kyu | Solved |
 
 ##  Tech Stacks
 
