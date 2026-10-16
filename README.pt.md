@@ -400,6 +400,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day377/         Subclasses básicas - Adão e Eva
     day378/         ParaLínguaLeet
     day379/         Férias VI - Píer do Tubarão
+    day380/         Número Disarium (Série Números Especiais #3)
  
 ```
 
@@ -807,6 +808,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 377** | Subclasses básicas - Adão e Eva | 8 kyu | Solved |
 | **Day 378** | ParaLínguaLeet | 7 kyu | Solved |
 | **Day 379** | Férias VI - Píer do Tubarão | 8 kyu | Solved |
+| **Day 380** | Número Disarium (Série Números Especiais #3) | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
