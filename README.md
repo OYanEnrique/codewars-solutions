@@ -402,6 +402,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day379/         Holiday VI - Shark Pontoon
     day380/         Disarium Number (Special Numbers Series #3)
     day381/         Maximum Length Difference
+    day382/         Band name generator
 
 
 ```
@@ -812,6 +813,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 379** | Holiday VI - Shark Pontoon | 8 kyu | Solved |
 | **Day 380** | Disarium Number (Special Numbers Series #3) | 7 kyu | Solved |
 | **Day 381** | Maximum Length Difference | 7 kyu | Solved |
+| **Day 382** | Band name generator | 7 kyu | Solved |
 
 ##  Tech Stacks
 
