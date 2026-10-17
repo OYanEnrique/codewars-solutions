@@ -402,6 +402,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day379/         Férias VI - Píer do Tubarão
     day380/         Número Disarium (Série Números Especiais #3)
     day381/         Diferença Máxima de Comprimento
+    day382/         Gerador de nome de banda
  
 ```
 
@@ -811,6 +812,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 379** | Férias VI - Píer do Tubarão | 8 kyu | Solved |
 | **Day 380** | Número Disarium (Série Números Especiais #3) | 7 kyu | Solved |
 | **Day 381** | Diferença Máxima de Comprimento | 7 kyu | Solved |
+| **Day 382** | Gerador de nome de banda | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
