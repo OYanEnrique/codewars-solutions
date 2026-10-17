@@ -401,6 +401,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day378/         ParaLínguaLeet
     day379/         Férias VI - Píer do Tubarão
     day380/         Número Disarium (Série Números Especiais #3)
+    day381/         Diferença Máxima de Comprimento
  
 ```
 
@@ -809,6 +810,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 378** | ParaLínguaLeet | 7 kyu | Solved |
 | **Day 379** | Férias VI - Píer do Tubarão | 8 kyu | Solved |
 | **Day 380** | Número Disarium (Série Números Especiais #3) | 7 kyu | Solved |
+| **Day 381** | Diferença Máxima de Comprimento | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
