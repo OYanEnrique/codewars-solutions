@@ -403,6 +403,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day380/         Número Disarium (Série Números Especiais #3)
     day381/         Diferença Máxima de Comprimento
     day382/         Gerador de nome de banda
+    day383/         Inverter Dados
  
 ```
 
@@ -813,6 +814,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 380** | Número Disarium (Série Números Especiais #3) | 7 kyu | Solved |
 | **Day 381** | Diferença Máxima de Comprimento | 7 kyu | Solved |
 | **Day 382** | Gerador de nome de banda | 7 kyu | Solved |
+| **Day 383** | Inverter Dados | 6 kyu | Solved |
 
 ##  Stack Tecnológica
 
