@@ -404,6 +404,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day381/         Diferença Máxima de Comprimento
     day382/         Gerador de nome de banda
     day383/         Inverter Dados
+    day384/         Encontrar mínimo e máximo
  
 ```
 
@@ -815,6 +816,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 381** | Diferença Máxima de Comprimento | 7 kyu | Solved |
 | **Day 382** | Gerador de nome de banda | 7 kyu | Solved |
 | **Day 383** | Inverter Dados | 6 kyu | Solved |
+| **Day 384** | Encontrar mínimo e máximo | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
