@@ -403,6 +403,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day380/         Disarium Number (Special Numbers Series #3)
     day381/         Maximum Length Difference
     day382/         Band name generator
+    day383/         Data Reverse
 
 
 ```
@@ -814,6 +815,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 380** | Disarium Number (Special Numbers Series #3) | 7 kyu | Solved |
 | **Day 381** | Maximum Length Difference | 7 kyu | Solved |
 | **Day 382** | Band name generator | 7 kyu | Solved |
+| **Day 383** | Data Reverse | 6 kyu | Solved |
 
 ##  Tech Stacks
 
