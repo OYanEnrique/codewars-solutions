@@ -404,6 +404,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day381/         Maximum Length Difference
     day382/         Band name generator
     day383/         Data Reverse
+    day384/         Find min and max
 
 
 ```
@@ -816,6 +817,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 381** | Maximum Length Difference | 7 kyu | Solved |
 | **Day 382** | Band name generator | 7 kyu | Solved |
 | **Day 383** | Data Reverse | 6 kyu | Solved |
+| **Day 384** | Find min and max | 7 kyu | Solved |
 
 ##  Tech Stacks
 
