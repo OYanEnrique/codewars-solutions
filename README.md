@@ -405,6 +405,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day382/         Band name generator
     day383/         Data Reverse
     day384/         Find min and max
+    day385/         Incrementer
 
 
 ```
@@ -818,6 +819,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 382** | Band name generator | 7 kyu | Solved |
 | **Day 383** | Data Reverse | 6 kyu | Solved |
 | **Day 384** | Find min and max | 7 kyu | Solved |
+| **Day 385** | Incrementer | 7 kyu | Solved |
 
 ##  Tech Stacks
 
