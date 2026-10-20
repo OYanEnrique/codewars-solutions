@@ -405,6 +405,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day382/         Gerador de nome de banda
     day383/         Inverter Dados
     day384/         Encontrar mínimo e máximo
+    day385/         Incrementador
  
 ```
 
@@ -817,6 +818,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 382** | Gerador de nome de banda | 7 kyu | Solved |
 | **Day 383** | Inverter Dados | 6 kyu | Solved |
 | **Day 384** | Encontrar mínimo e máximo | 7 kyu | Solved |
+| **Day 385** | Incrementador | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
