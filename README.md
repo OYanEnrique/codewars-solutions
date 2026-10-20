@@ -406,6 +406,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day383/         Data Reverse
     day384/         Find min and max
     day385/         Incrementer
+    day386/         Grader
 
 
 ```
@@ -820,6 +821,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 383** | Data Reverse | 6 kyu | Solved |
 | **Day 384** | Find min and max | 7 kyu | Solved |
 | **Day 385** | Incrementer | 7 kyu | Solved |
+| **Day 386** | Grader | 8 kyu | Solved |
 
 ##  Tech Stacks
 
