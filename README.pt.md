@@ -407,6 +407,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day384/         Encontrar mínimo e máximo
     day385/         Incrementador
     day386/         Avaliador
+    day387/         Insira traços
  
 ```
 
@@ -821,6 +822,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 384** | Encontrar mínimo e máximo | 7 kyu | Solved |
 | **Day 385** | Incrementador | 7 kyu | Solved |
 | **Day 386** | Avaliador | 8 kyu | Solved |
+| **Day 387** | Insira traços | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
