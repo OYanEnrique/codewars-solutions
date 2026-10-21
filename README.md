@@ -407,6 +407,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day384/         Find min and max
     day385/         Incrementer
     day386/         Grader
+    day387/         Insert dashes
 
 
 ```
@@ -822,6 +823,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 384** | Find min and max | 7 kyu | Solved |
 | **Day 385** | Incrementer | 7 kyu | Solved |
 | **Day 386** | Grader | 8 kyu | Solved |
+| **Day 387** | Insert dashes | 7 kyu | Solved |
 
 ##  Tech Stacks
 
