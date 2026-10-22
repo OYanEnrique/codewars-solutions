@@ -408,6 +408,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day385/         Incrementer
     day386/         Grader
     day387/         Insert dashes
+    day388/         SevenAte9
 
 
 ```
@@ -824,6 +825,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 385** | Incrementer | 7 kyu | Solved |
 | **Day 386** | Grader | 8 kyu | Solved |
 | **Day 387** | Insert dashes | 7 kyu | Solved |
+| **Day 388** | SevenAte9 | 7 kyu | Solved |
 
 ##  Tech Stacks
 
