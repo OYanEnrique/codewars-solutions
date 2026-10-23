@@ -409,6 +409,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day386/         Grader
     day387/         Insert dashes
     day388/         SevenAte9
+    day389/         Is your period late?
 
 
 ```
@@ -826,6 +827,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 386** | Grader | 8 kyu | Solved |
 | **Day 387** | Insert dashes | 7 kyu | Solved |
 | **Day 388** | SevenAte9 | 7 kyu | Solved |
+| **Day 389** | Is your period late? | 8 kyu | Solved |
 
 ##  Tech Stacks
 
