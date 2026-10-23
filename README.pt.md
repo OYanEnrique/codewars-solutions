@@ -409,6 +409,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day386/         Avaliador
     day387/         Insira traços
     day388/         SeteComeNove
+    day389/         Sua menstruação está atrasada?
  
 ```
 
@@ -825,6 +826,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 386** | Avaliador | 8 kyu | Solved |
 | **Day 387** | Insira traços | 7 kyu | Solved |
 | **Day 388** | SeteComeNove | 7 kyu | Solved |
+| **Day 389** | Sua menstruação está atrasada? | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
