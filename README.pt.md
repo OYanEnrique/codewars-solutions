@@ -410,6 +410,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day387/         Insira traços
     day388/         SeteComeNove
     day389/         Sua menstruação está atrasada?
+    day390/         Comparar Strings pela Soma dos Caracteres
  
 ```
 
@@ -827,6 +828,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 387** | Insira traços | 7 kyu | Solved |
 | **Day 388** | SeteComeNove | 7 kyu | Solved |
 | **Day 389** | Sua menstruação está atrasada? | 8 kyu | Solved |
+| **Day 390** | Comparar Strings pela Soma dos Caracteres | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
