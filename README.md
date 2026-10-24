@@ -410,6 +410,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day387/         Insert dashes
     day388/         SevenAte9
     day389/         Is your period late?
+    day390/         Compare Strings by Sum of Chars
 
 
 ```
@@ -828,6 +829,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 387** | Insert dashes | 7 kyu | Solved |
 | **Day 388** | SevenAte9 | 7 kyu | Solved |
 | **Day 389** | Is your period late? | 8 kyu | Solved |
+| **Day 390** | Compare Strings by Sum of Chars | 7 kyu | Solved |
 
 ##  Tech Stacks
 
