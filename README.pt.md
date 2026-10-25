@@ -411,6 +411,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day388/         SeteComeNove
     day389/         Sua menstruação está atrasada?
     day390/         Comparar Strings pela Soma dos Caracteres
+    day391/         Checar três e dois
  
 ```
 
@@ -829,6 +830,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 388** | SeteComeNove | 7 kyu | Solved |
 | **Day 389** | Sua menstruação está atrasada? | 8 kyu | Solved |
 | **Day 390** | Comparar Strings pela Soma dos Caracteres | 7 kyu | Solved |
+| **Day 391** | Checar três e dois | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
