@@ -412,6 +412,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day389/         Is your period late?
     day390/         Compare Strings by Sum of Chars
     day391/         Check three and two
+    day392/         Barking mad
 
 
 ```
@@ -832,6 +833,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 389** | Is your period late? | 8 kyu | Solved |
 | **Day 390** | Compare Strings by Sum of Chars | 7 kyu | Solved |
 | **Day 391** | Check three and two | 7 kyu | Solved |
+| **Day 392** | Barking mad | 8 kyu | Solved |
 
 ##  Tech Stacks
 
