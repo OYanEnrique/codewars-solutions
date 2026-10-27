@@ -413,6 +413,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day390/         Comparar Strings pela Soma dos Caracteres
     day391/         Checar três e dois
     day392/         Completamente louco
+    day393/         Descubra o Preço Original
  
 ```
 
@@ -833,6 +834,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 390** | Comparar Strings pela Soma dos Caracteres | 7 kyu | Solved |
 | **Day 391** | Checar três e dois | 7 kyu | Solved |
 | **Day 392** | Completamente louco | 8 kyu | Solved |
+| **Day 393** | Descubra o Preço Original | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
