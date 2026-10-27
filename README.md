@@ -413,6 +413,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day390/         Compare Strings by Sum of Chars
     day391/         Check three and two
     day392/         Barking mad
+    day393/         Discover The Original Price
 
 
 ```
@@ -834,6 +835,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 390** | Compare Strings by Sum of Chars | 7 kyu | Solved |
 | **Day 391** | Check three and two | 7 kyu | Solved |
 | **Day 392** | Barking mad | 8 kyu | Solved |
+| **Day 393** | Discover The Original Price | 7 kyu | Solved |
 
 ##  Tech Stacks
 
