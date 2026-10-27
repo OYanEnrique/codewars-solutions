@@ -414,6 +414,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day391/         Check three and two
     day392/         Barking mad
     day393/         Discover The Original Price
+    day394/         A Strange Trip to the Market
 
 
 ```
@@ -836,6 +837,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 391** | Check three and two | 7 kyu | Solved |
 | **Day 392** | Barking mad | 8 kyu | Solved |
 | **Day 393** | Discover The Original Price | 7 kyu | Solved |
+| **Day 394** | A Strange Trip to the Market | 8 kyu | Solved |
 
 ##  Tech Stacks
 
