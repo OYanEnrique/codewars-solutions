@@ -414,6 +414,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day391/         Checar três e dois
     day392/         Completamente louco
     day393/         Descubra o Preço Original
+    day394/         Uma Viagem Estranha ao Mercado
  
 ```
 
@@ -835,6 +836,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 391** | Checar três e dois | 7 kyu | Solved |
 | **Day 392** | Completamente louco | 8 kyu | Solved |
 | **Day 393** | Descubra o Preço Original | 7 kyu | Solved |
+| **Day 394** | Uma Viagem Estranha ao Mercado | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
