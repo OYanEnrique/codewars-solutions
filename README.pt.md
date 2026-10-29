@@ -415,6 +415,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day392/         Completamente louco
     day393/         Descubra o Preço Original
     day394/         Uma Viagem Estranha ao Mercado
+    day395/         Currying de funções: multiplicar todos os elementos de um array
  
 ```
 
@@ -837,6 +838,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 392** | Completamente louco | 8 kyu | Solved |
 | **Day 393** | Descubra o Preço Original | 7 kyu | Solved |
 | **Day 394** | Uma Viagem Estranha ao Mercado | 8 kyu | Solved |
+| **Day 395** | Currying de funções: multiplicar todos os elementos de um array | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
