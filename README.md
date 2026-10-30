@@ -417,6 +417,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day394/         A Strange Trip to the Market
     day395/         Currying functions: multiply all elements in an array
     day396/         Classy Extensions
+    day397/         Inspiring Strings
 
 
 ```
@@ -842,6 +843,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 394** | A Strange Trip to the Market | 8 kyu | Solved |
 | **Day 395** | Currying functions: multiply all elements in an array | 7 kyu | Solved |
 | **Day 396** | Classy Extensions | 8 kyu | Solved |
+| **Day 397** | Inspiring Strings | 7 kyu | Solved |
 
 ##  Tech Stacks
 
