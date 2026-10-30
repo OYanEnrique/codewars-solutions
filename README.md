@@ -418,6 +418,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day395/         Currying functions: multiply all elements in an array
     day396/         Classy Extensions
     day397/         Inspiring Strings
+    day398/         Evens times last
 
 
 ```
@@ -844,6 +845,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 395** | Currying functions: multiply all elements in an array | 7 kyu | Solved |
 | **Day 396** | Classy Extensions | 8 kyu | Solved |
 | **Day 397** | Inspiring Strings | 7 kyu | Solved |
+| **Day 398** | Evens times last | 7 kyu | Solved |
 
 ##  Tech Stacks
 
