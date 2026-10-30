@@ -416,6 +416,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day393/         Descubra o Preço Original
     day394/         Uma Viagem Estranha ao Mercado
     day395/         Currying de funções: multiplicar todos os elementos de um array
+    day396/         Extensões Elegantes
  
 ```
 
@@ -839,6 +840,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 393** | Descubra o Preço Original | 7 kyu | Solved |
 | **Day 394** | Uma Viagem Estranha ao Mercado | 8 kyu | Solved |
 | **Day 395** | Currying de funções: multiplicar todos os elementos de um array | 7 kyu | Solved |
+| **Day 396** | Extensões Elegantes | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
