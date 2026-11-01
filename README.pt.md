@@ -419,6 +419,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day396/         Extensões Elegantes
     day397/         Strings Inspiradoras
     day398/         Pares vezes por último
+    day399/         Beber com responsabilidade
  
 ```
 
@@ -845,6 +846,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 396** | Extensões Elegantes | 8 kyu | Solved |
 | **Day 397** | Strings Inspiradoras | 7 kyu | Solved |
 | **Day 398** | Pares vezes por último | 7 kyu | Solved |
+| **Day 399** | Beber com responsabilidade | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
