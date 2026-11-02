@@ -421,6 +421,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day398/         Pares vezes por último
     day399/         Beber com responsabilidade
     day400/         Itens consecutivos
+    day401/         Adição Funcional
  
 ```
 
@@ -849,6 +850,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 398** | Pares vezes por último | 7 kyu | Solved |
 | **Day 399** | Beber com responsabilidade | 7 kyu | Solved |
 | **Day 400** | Itens consecutivos | 7 kyu | Solved |
+| **Day 401** | Adição Funcional | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
