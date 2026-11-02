@@ -420,6 +420,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day397/         Inspiring Strings
     day398/         Evens times last
     day399/         Responsible Drinking
+    day400/         Consecutive items
 
 
 ```
@@ -848,6 +849,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 397** | Inspiring Strings | 7 kyu | Solved |
 | **Day 398** | Evens times last | 7 kyu | Solved |
 | **Day 399** | Responsible Drinking | 7 kyu | Solved |
+| **Day 400** | Consecutive items | 7 kyu | Solved |
 
 ##  Tech Stacks
 
