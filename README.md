@@ -422,6 +422,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day399/         Responsible Drinking
     day400/         Consecutive items
     day401/         Functional Addition
+    day402/         How many arguments
 
 
 ```
@@ -852,6 +853,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 399** | Responsible Drinking | 7 kyu | Solved |
 | **Day 400** | Consecutive items | 7 kyu | Solved |
 | **Day 401** | Functional Addition | 7 kyu | Solved |
+| **Day 402** | How many arguments | 7 kyu | Solved |
 
 ##  Tech Stacks
 
