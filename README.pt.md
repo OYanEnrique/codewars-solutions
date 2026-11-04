@@ -423,6 +423,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day400/         Itens consecutivos
     day401/         Adição Funcional
     day402/         Quantos argumentos
+    day403/         Bola Regular Super Bola
  
 ```
 
@@ -853,6 +854,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 400** | Itens consecutivos | 7 kyu | Solved |
 | **Day 401** | Adição Funcional | 7 kyu | Solved |
 | **Day 402** | Quantos argumentos | 7 kyu | Solved |
+| **Day 403** | Bola Regular Super Bola | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
