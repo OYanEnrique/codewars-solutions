@@ -423,6 +423,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day400/         Consecutive items
     day401/         Functional Addition
     day402/         How many arguments
+    day403/         Regular Ball Super Ball
 
 
 ```
@@ -854,6 +855,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 400** | Consecutive items | 7 kyu | Solved |
 | **Day 401** | Functional Addition | 7 kyu | Solved |
 | **Day 402** | How many arguments | 7 kyu | Solved |
+| **Day 403** | Regular Ball Super Ball | 8 kyu | Solved |
 
 ##  Tech Stacks
 
