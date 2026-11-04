@@ -424,6 +424,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day401/         Functional Addition
     day402/         How many arguments
     day403/         Regular Ball Super Ball
+    day404/         Extract portion of file name
 
 
 ```
@@ -856,6 +857,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 401** | Functional Addition | 7 kyu | Solved |
 | **Day 402** | How many arguments | 7 kyu | Solved |
 | **Day 403** | Regular Ball Super Ball | 8 kyu | Solved |
+| **Day 404** | Extract portion of file name | 6 kyu | Solved |
 
 ##  Tech Stacks
 
