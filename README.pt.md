@@ -426,6 +426,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day403/         Bola Regular Super Bola
     day404/         Extrair parte do nome do arquivo
     day405/         Neutralização
+    day406/         Brincando com blocos II
  
 ```
 
@@ -859,6 +860,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 403** | Bola Regular Super Bola | 8 kyu | Solved |
 | **Day 404** | Extrair parte do nome do arquivo | 6 kyu | Solved |
 | **Day 405** | Neutralização | 8 kyu | Solved |
+| **Day 406** | Brincando com blocos II | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
