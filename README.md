@@ -426,6 +426,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day403/         Regular Ball Super Ball
     day404/         Extract portion of file name
     day405/         Neutralisation
+    day406/         Playing with cubes II
 
 
 ```
@@ -860,6 +861,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 403** | Regular Ball Super Ball | 8 kyu | Solved |
 | **Day 404** | Extract portion of file name | 6 kyu | Solved |
 | **Day 405** | Neutralisation | 8 kyu | Solved |
+| **Day 406** | Playing with cubes II | 8 kyu | Solved |
 
 ##  Tech Stacks
 
