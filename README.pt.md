@@ -427,6 +427,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day404/         Extrair parte do nome do arquivo
     day405/         Neutralização
     day406/         Brincando com blocos II
+    day407/         Inicializar meu nome
  
 ```
 
@@ -861,6 +862,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 404** | Extrair parte do nome do arquivo | 6 kyu | Solved |
 | **Day 405** | Neutralização | 8 kyu | Solved |
 | **Day 406** | Brincando com blocos II | 8 kyu | Solved |
+| **Day 407** | Inicializar meu nome | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
