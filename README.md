@@ -427,6 +427,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day404/         Extract portion of file name
     day405/         Neutralisation
     day406/         Playing with cubes II
+    day407/         Initialize my name
 
 
 ```
@@ -862,6 +863,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 404** | Extract portion of file name | 6 kyu | Solved |
 | **Day 405** | Neutralisation | 8 kyu | Solved |
 | **Day 406** | Playing with cubes II | 8 kyu | Solved |
+| **Day 407** | Initialize my name | 7 kyu | Solved |
 
 ##  Tech Stacks
 
