@@ -429,6 +429,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day406/         Brincando com blocos II
     day407/         Inicializar meu nome
     day408/         Organizar meus livros
+    day409/         Autenticação do Trenó
  
 ```
 
@@ -865,6 +866,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 406** | Brincando com blocos II | 8 kyu | Solved |
 | **Day 407** | Inicializar meu nome | 7 kyu | Solved |
 | **Day 408** | Organizar meus livros | 8 kyu | Solved |
+| **Day 409** | Autenticação do Trenó | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
