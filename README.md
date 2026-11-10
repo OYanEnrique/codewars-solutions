@@ -429,6 +429,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day406/         Playing with cubes II
     day407/         Initialize my name
     day408/         Sort My Textbooks
+    day409/         Sleigh Authentication
 
 
 ```
@@ -866,6 +867,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 406** | Playing with cubes II | 8 kyu | Solved |
 | **Day 407** | Initialize my name | 7 kyu | Solved |
 | **Day 408** | Sort My Textbooks | 8 kyu | Solved |
+| **Day 409** | Sleigh Authentication | 8 kyu | Solved |
 
 ##  Tech Stacks
 
