@@ -430,6 +430,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day407/         Inicializar meu nome
     day408/         Organizar meus livros
     day409/         Autenticação do Trenó
+    day410/         Pontuações Médias
  
 ```
 
@@ -867,6 +868,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 407** | Inicializar meu nome | 7 kyu | Solved |
 | **Day 408** | Organizar meus livros | 8 kyu | Solved |
 | **Day 409** | Autenticação do Trenó | 8 kyu | Solved |
+| **Day 410** | Pontuações Médias | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
