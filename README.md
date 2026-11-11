@@ -431,6 +431,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day408/         Sort My Textbooks
     day409/         Sleigh Authentication
     day410/         Average Scores
+    day411/         Say hello!
 
 
 ```
@@ -870,6 +871,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 408** | Sort My Textbooks | 8 kyu | Solved |
 | **Day 409** | Sleigh Authentication | 8 kyu | Solved |
 | **Day 410** | Average Scores | 7 kyu | Solved |
+| **Day 411** | Say hello! | 7 kyu | Solved |
 
 ##  Tech Stacks
 
