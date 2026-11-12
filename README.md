@@ -432,6 +432,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day409/         Sleigh Authentication
     day410/         Average Scores
     day411/         Say hello!
+    day412/         Find the lucky numbers
 
 
 ```
@@ -872,6 +873,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 409** | Sleigh Authentication | 8 kyu | Solved |
 | **Day 410** | Average Scores | 7 kyu | Solved |
 | **Day 411** | Say hello! | 7 kyu | Solved |
+| **Day 412** | Find the lucky numbers | 7 kyu | Solved |
 
 ##  Tech Stacks
 
