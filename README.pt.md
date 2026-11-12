@@ -432,6 +432,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day409/         Autenticação do Trenó
     day410/         Pontuações Médias
     day411/         Diga olá!
+    day412/         Encontre os números da sorte
  
 ```
 
@@ -871,6 +872,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 409** | Autenticação do Trenó | 8 kyu | Solved |
 | **Day 410** | Pontuações Médias | 7 kyu | Solved |
 | **Day 411** | Diga olá! | 7 kyu | Solved |
+| **Day 412** | Encontre os números da sorte | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
