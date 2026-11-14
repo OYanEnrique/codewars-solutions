@@ -433,6 +433,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day410/         Average Scores
     day411/         Say hello!
     day412/         Find the lucky numbers
+    day413/         Drone Fly-By
 
 
 ```
@@ -874,6 +875,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 410** | Average Scores | 7 kyu | Solved |
 | **Day 411** | Say hello! | 7 kyu | Solved |
 | **Day 412** | Find the lucky numbers | 7 kyu | Solved |
+| **Day 413** | Drone Fly-By | 7 kyu | Solved |
 
 ##  Tech Stacks
 
