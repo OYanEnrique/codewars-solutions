@@ -434,6 +434,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day411/         Say hello!
     day412/         Find the lucky numbers
     day413/         Drone Fly-By
+    day414/         Calculating with Functions
 
 
 ```
@@ -876,6 +877,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 411** | Say hello! | 7 kyu | Solved |
 | **Day 412** | Find the lucky numbers | 7 kyu | Solved |
 | **Day 413** | Drone Fly-By | 7 kyu | Solved |
+| **Day 414** | Calculating with Functions | 5 kyu | Solved |
 
 ##  Tech Stacks
 
