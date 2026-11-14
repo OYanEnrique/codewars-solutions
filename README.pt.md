@@ -433,6 +433,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day410/         Pontuações Médias
     day411/         Diga olá!
     day412/         Encontre os números da sorte
+    day413/         Drone Sobrevoando
  
 ```
 
@@ -873,6 +874,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 410** | Pontuações Médias | 7 kyu | Solved |
 | **Day 411** | Diga olá! | 7 kyu | Solved |
 | **Day 412** | Encontre os números da sorte | 7 kyu | Solved |
+| **Day 413** | Drone Sobrevoando | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
