@@ -436,6 +436,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day413/         Drone Fly-By
     day414/         Calculating with Functions
     day415/         Help Bob count letters and digits
+    day416/         Title Case
 
 
 ```
@@ -880,6 +881,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 413** | Drone Fly-By | 7 kyu | Solved |
 | **Day 414** | Calculating with Functions | 5 kyu | Solved |
 | **Day 415** | Help Bob count letters and digits | 7 kyu | Solved |
+| **Day 416** | Title Case | 6 kyu | Solved |
 
 ##  Tech Stacks
 
