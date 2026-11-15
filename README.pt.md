@@ -435,6 +435,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day412/         Encontre os números da sorte
     day413/         Drone Sobrevoando
     day414/         Calculando com Funções
+    day415/         Ajude o Bob a contar letras e números
  
 ```
 
@@ -877,6 +878,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 412** | Encontre os números da sorte | 7 kyu | Solved |
 | **Day 413** | Drone Sobrevoando | 7 kyu | Solved |
 | **Day 414** | Calculando com Funções | 5 kyu | Solved |
+| **Day 415** | Ajude o Bob a contar letras e números | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
