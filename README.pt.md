@@ -437,6 +437,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day414/         Calculando com Funções
     day415/         Ajude o Bob a contar letras e números
     day416/         Letra Maiúscula no Início das Palavras
+    day417/         Ainda tem flechas?
  
 ```
 
@@ -881,6 +882,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 414** | Calculando com Funções | 5 kyu | Solved |
 | **Day 415** | Ajude o Bob a contar letras e números | 7 kyu | Solved |
 | **Day 416** | Letra Maiúscula no Início das Palavras | 6 kyu | Solved |
+| **Day 417** | Ainda tem flechas? | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
