@@ -439,6 +439,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day416/         Title Case
     day417/         Are there any arrows left?
     day418/         Flick Switch
+    day419/         Valid Spacing
 
 
 ```
@@ -886,6 +887,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 416** | Title Case | 6 kyu | Solved |
 | **Day 417** | Are there any arrows left? | 8 kyu | Solved |
 | **Day 418** | Flick Switch | 8 kyu | Solved |
+| **Day 419** | Valid Spacing | 7 kyu | Solved |
 
 ##  Tech Stacks
 
