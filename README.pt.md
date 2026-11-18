@@ -438,6 +438,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day415/         Ajude o Bob a contar letras e números
     day416/         Letra Maiúscula no Início das Palavras
     day417/         Ainda tem flechas?
+    day418/         Chave de Alavanca
  
 ```
 
@@ -883,6 +884,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 415** | Ajude o Bob a contar letras e números | 7 kyu | Solved |
 | **Day 416** | Letra Maiúscula no Início das Palavras | 6 kyu | Solved |
 | **Day 417** | Ainda tem flechas? | 8 kyu | Solved |
+| **Day 418** | Chave de Alavanca | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
