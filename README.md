@@ -438,6 +438,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day415/         Help Bob count letters and digits
     day416/         Title Case
     day417/         Are there any arrows left?
+    day418/         Flick Switch
 
 
 ```
@@ -884,6 +885,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 415** | Help Bob count letters and digits | 7 kyu | Solved |
 | **Day 416** | Title Case | 6 kyu | Solved |
 | **Day 417** | Are there any arrows left? | 8 kyu | Solved |
+| **Day 418** | Flick Switch | 8 kyu | Solved |
 
 ##  Tech Stacks
 
