@@ -439,6 +439,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day416/         Letra Maiúscula no Início das Palavras
     day417/         Ainda tem flechas?
     day418/         Chave de Alavanca
+    day419/         Espaçamento Válido
  
 ```
 
@@ -885,6 +886,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 416** | Letra Maiúscula no Início das Palavras | 6 kyu | Solved |
 | **Day 417** | Ainda tem flechas? | 8 kyu | Solved |
 | **Day 418** | Chave de Alavanca | 8 kyu | Solved |
+| **Day 419** | Espaçamento Válido | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
