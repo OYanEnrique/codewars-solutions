@@ -440,6 +440,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day417/         Are there any arrows left?
     day418/         Flick Switch
     day419/         Valid Spacing
+    day420/         Training JS #32: methods of Math---round() ceil() and floor()
 
 
 ```
@@ -888,6 +889,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 417** | Are there any arrows left? | 8 kyu | Solved |
 | **Day 418** | Flick Switch | 8 kyu | Solved |
 | **Day 419** | Valid Spacing | 7 kyu | Solved |
+| **Day 420** | Training JS #32: methods of Math---round() ceil() and floor() | 8 kyu | Solved |
 
 ##  Tech Stacks
 
