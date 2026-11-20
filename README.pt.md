@@ -440,6 +440,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day417/         Ainda tem flechas?
     day418/         Chave de Alavanca
     day419/         Espaçamento Válido
+    day420/         Treinando JS #32: métodos do Math---round(), ceil() e floor()
  
 ```
 
@@ -887,6 +888,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 417** | Ainda tem flechas? | 8 kyu | Solved |
 | **Day 418** | Chave de Alavanca | 8 kyu | Solved |
 | **Day 419** | Espaçamento Válido | 7 kyu | Solved |
+| **Day 420** | Treinando JS #32: métodos do Math---round(), ceil() e floor() | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
