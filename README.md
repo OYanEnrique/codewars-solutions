@@ -442,7 +442,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day419/         Valid Spacing
     day420/         Training JS #32: methods of Math---round() ceil() and floor()
     day421/         Move 10
-
+    day422/         Bingo ( Or Not )
 
 ```
 
@@ -892,6 +892,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 419** | Valid Spacing | 7 kyu | Solved |
 | **Day 420** | Training JS #32: methods of Math---round() ceil() and floor() | 8 kyu | Solved |
 | **Day 421** | Move 10 | 7 kyu | Solved |
+| **Day 422** | Bingo ( Or Not ) | 7 kyu | Solved |
 
 ##  Tech Stacks
 
