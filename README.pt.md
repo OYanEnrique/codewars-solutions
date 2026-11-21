@@ -441,6 +441,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day418/         Chave de Alavanca
     day419/         Espaçamento Válido
     day420/         Treinando JS #32: métodos do Math---round(), ceil() e floor()
+    day421/         Mover 10
  
 ```
 
@@ -889,6 +890,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 418** | Chave de Alavanca | 8 kyu | Solved |
 | **Day 419** | Espaçamento Válido | 7 kyu | Solved |
 | **Day 420** | Treinando JS #32: métodos do Math---round(), ceil() e floor() | 8 kyu | Solved |
+| **Day 421** | Mover 10 | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
