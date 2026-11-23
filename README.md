@@ -443,6 +443,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day420/         Training JS #32: methods of Math---round() ceil() and floor()
     day421/         Move 10
     day422/         Bingo ( Or Not )
+    day423/         Return the Missing Element
 
 ```
 
@@ -893,6 +894,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 420** | Training JS #32: methods of Math---round() ceil() and floor() | 8 kyu | Solved |
 | **Day 421** | Move 10 | 7 kyu | Solved |
 | **Day 422** | Bingo ( Or Not ) | 7 kyu | Solved |
+| **Day 423** | Return the Missing Element | 7 kyu | Solved |
 
 ##  Tech Stacks
 
