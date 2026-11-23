@@ -443,6 +443,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day420/         Treinando JS #32: métodos do Math---round(), ceil() e floor()
     day421/         Mover 10
     day422/         Bingo (Ou Não)
+    day423/         Encontre o Elemento que Está Faltando
  
 ```
 
@@ -893,6 +894,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 420** | Treinando JS #32: métodos do Math---round(), ceil() e floor() | 8 kyu | Solved |
 | **Day 421** | Mover 10 | 7 kyu | Solved |
 | **Day 422** | Bingo (Ou Não) | 7 kyu | Solved |
+| **Day 423** | Encontre o Elemento que Está Faltando | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
