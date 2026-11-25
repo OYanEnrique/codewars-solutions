@@ -445,6 +445,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day422/         Bingo (Ou Não)
     day423/         Encontre o Elemento que Está Faltando
     day424/         Vogal um
+    day425/         Até o próximo ano feliz
  
 ```
 
@@ -897,6 +898,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 422** | Bingo (Ou Não) | 7 kyu | Solved |
 | **Day 423** | Encontre o Elemento que Está Faltando | 7 kyu | Solved |
 | **Day 424** | Vogal um | 7 kyu | Solved |
+| **Day 425** | Até o próximo ano feliz | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
