@@ -445,6 +445,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day422/         Bingo ( Or Not )
     day423/         Return the Missing Element
     day424/         Vowel one
+    day425/         See You Next Happy Year
 
 ```
 
@@ -897,6 +898,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 422** | Bingo ( Or Not ) | 7 kyu | Solved |
 | **Day 423** | Return the Missing Element | 7 kyu | Solved |
 | **Day 424** | Vowel one | 7 kyu | Solved |
+| **Day 425** | See You Next Happy Year | 7 kyu | Solved |
 
 ##  Tech Stacks
 
