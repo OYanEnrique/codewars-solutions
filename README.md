@@ -446,6 +446,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day423/         Return the Missing Element
     day424/         Vowel one
     day425/         See You Next Happy Year
+    day426/         Formatting decimal places #1
 
 ```
 
@@ -899,6 +900,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 423** | Return the Missing Element | 7 kyu | Solved |
 | **Day 424** | Vowel one | 7 kyu | Solved |
 | **Day 425** | See You Next Happy Year | 7 kyu | Solved |
+| **Day 426** | Formatting decimal places #1 | 7 kyu | Solved |
 
 ##  Tech Stacks
 
