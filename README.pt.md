@@ -446,6 +446,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day423/         Encontre o Elemento que Está Faltando
     day424/         Vogal um
     day425/         Até o próximo ano feliz
+    day426/         Formatando casas decimais #1
  
 ```
 
@@ -899,6 +900,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 423** | Encontre o Elemento que Está Faltando | 7 kyu | Solved |
 | **Day 424** | Vogal um | 7 kyu | Solved |
 | **Day 425** | Até o próximo ano feliz | 7 kyu | Solved |
+| **Day 426** | Formatando casas decimais #1 | 7 kyu | Solved |
 
 ##  Stack Tecnológica
 
