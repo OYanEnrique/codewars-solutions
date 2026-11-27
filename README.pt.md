@@ -447,6 +447,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day424/         Vogal um
     day425/         Até o próximo ano feliz
     day426/         Formatando casas decimais #1
+    day427/         Se você consegue ler isso...
  
 ```
 
@@ -901,6 +902,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 424** | Vogal um | 7 kyu | Solved |
 | **Day 425** | Até o próximo ano feliz | 7 kyu | Solved |
 | **Day 426** | Formatando casas decimais #1 | 7 kyu | Solved |
+| **Day 427** | Se você consegue ler isso... | 6 kyu | Solved |
 
 ##  Stack Tecnológica
 
