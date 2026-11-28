@@ -448,6 +448,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
     day425/         See You Next Happy Year
     day426/         Formatting decimal places #1
     day427/         If you can read this...
+    day428/         Enumerable Magic #4 - True for None?
 
 ```
 
@@ -903,6 +904,7 @@ This repository is my **coding dojo** where I practice and perfect Python skills
 | **Day 425** | See You Next Happy Year | 7 kyu | Solved |
 | **Day 426** | Formatting decimal places #1 | 7 kyu | Solved |
 | **Day 427** | If you can read this... | 6 kyu | Solved |
+| **Day 428** | Enumerable Magic #4 - True for None? | 8 kyu | Solved |
 
 ##  Tech Stacks
 
