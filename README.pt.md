@@ -448,6 +448,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
     day425/         Até o próximo ano feliz
     day426/         Formatando casas decimais #1
     day427/         Se você consegue ler isso...
+    day428/         Mágica Enumerável #4 - Verdadeiro para Nenhum?
  
 ```
 
@@ -903,6 +904,7 @@ Este repositório é meu **dojo de programação** onde pratico e aperfeiçoo ha
 | **Day 425** | Até o próximo ano feliz | 7 kyu | Solved |
 | **Day 426** | Formatando casas decimais #1 | 7 kyu | Solved |
 | **Day 427** | Se você consegue ler isso... | 6 kyu | Solved |
+| **Day 428** | Mágica Enumerável #4 - Verdadeiro para Nenhum? | 8 kyu | Solved |
 
 ##  Stack Tecnológica
 
